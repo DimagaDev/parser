@@ -1,0 +1,31 @@
+{
+  "id": "48215610",
+  "name": "METRO Григоренко",
+  "retail_chain": "metro",
+  "region_id": "kiev",
+  "city": "kiev",
+  "phones": [
+    "0800 202323"
+  ],
+  "address": {
+    "city": "Киев",
+    "street": "Григоренко",
+    "building": "43"
+  },
+  "coords": "50.39051, 30.64142",
+  "email": "metro@zakaz.ua",
+  "delivery_types": [
+    "pickup",
+    "plan"
+  ],
+  "payment_types": [
+    "cod",
+    "card_online",
+    "bank",
+    "card_offline"
+  ],
+  "opening_hours": {
+    "from": "09:00",
+    "to": "20:00"
+  }
+}
