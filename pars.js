@@ -20,40 +20,36 @@ request.onload = function() {
     }
 }*/
 
-let arrStr = [], str = '', strS = '';
+let arrStr = [], str, strS, fileOne, fileTwo;
 
-let requestN = new XMLHttpRequest(), requestUrlID = 'json/metro/Odessa.json' /*+ (shop[i].id) + '/products/by-parent-category/'*/;
+let requestN = new XMLHttpRequest(), requestUrlID = 'json/metro/Odessa.json';
 requestN.open('GET', requestUrlID); requestN.send();
 requestN.responseType = 'json';
 requestN.onload = function () {
-    let mag = JSON.stringify(requestN.response);
-    str = JSON.parse(mag);
-    str.map(title => console.log(title.title));
+    let fileOne = requestN.response;
+    //str = JSON.parse(mag);
+    //str.map(title => console.log(title.title));
+
+    str = fileOne[0].title;
+    console.log("Str " + str)
+    strS = fileTwo[0].title;
+    console.log("StrS " + strS);
 }
 
-/*let request = new XMLHttpRequest(), requestUrl = 'json/metro/chernov.json';
+let request = new XMLHttpRequest(), requestUrl = 'json/metro/terem.json';
 request.open('GET', requestUrl);
 request.responseType = 'json'; request.send();
-request.onload = function () {
-    let mag = request.response;
-    //for (let i = 0; i < mag.length; i++) {
-    //console.log(mag[i].title);
-    //arrStr.push(mag[i].title);
-    // }
-    //console.log(typeof mag[0].title)
+request.onload = function () {  fileTwo = request.response;  }
 
-    //console.log(requestN.readyState)
-    strS = mag[0].title;
-    console.log("str = " + strS);
-}*/
+
 //downloadAsFile(JSON.stringify(mag), shop[i].name);
-function downloadAsFile(data, name) {
+/*function downloadAsFile(data, name) {
     let a = document.createElement("a");
     let file = new Blob([data], {type: 'application/json'});
     a.href = URL.createObjectURL(file);
     a.download = name + ".json";
     a.click();
-}
+}*/
 
 // json/metro/Odessa.json
 /*
