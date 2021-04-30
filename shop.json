@@ -1,31 +1,1562 @@
-{
-  "id": "48215610",
-  "name": "METRO Григоренко",
-  "retail_chain": "metro",
-  "region_id": "kiev",
-  "city": "kiev",
-  "phones": [
-    "0800 202323"
-  ],
-  "address": {
-    "city": "Киев",
-    "street": "Григоренко",
-    "building": "43"
-  },
-  "coords": "50.39051, 30.64142",
-  "email": "metro@zakaz.ua",
-  "delivery_types": [
-    "pickup",
-    "plan"
-  ],
-  "payment_types": [
-    "cod",
-    "card_online",
-    "bank",
-    "card_offline"
-  ],
-  "opening_hours": {
-    "from": "09:00",
-    "to": "20:00"
-  }
-}
+[
+	{
+		"id": "482010105",
+		"name": "NOVUS SkyMall",
+		"retail_chain": "novus",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 392-0725"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Vatutina Avenue",
+			"building": "2t"
+		},
+		"coords": "50.4931815, 30.5581461",
+		"email": "novus@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48201029",
+		"name": "NOVUS Kil'tseva",
+		"retail_chain": "novus",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 392-0725"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Kiltseva Rd",
+			"building": "12"
+		},
+		"coords": "50.4061, 30.397912",
+		"email": "novus@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48201030",
+		"name": "NOVUS Kyiv Livoberezhna",
+		"retail_chain": "novus",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 392-0725"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Brovarskiy Blv",
+			"building": "17"
+		},
+		"coords": "50.4526, 30.5944",
+		"email": "novus@zakaz.ua",
+		"delivery_types": [
+			"pickup"
+		],
+		"payment_types": [
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48201031",
+		"name": "NOVUS Retroville",
+		"retail_chain": "novus",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 392-8552"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Pravdy Ave",
+			"building": "47"
+		},
+		"coords": "50.5039512, 30.4164598",
+		"email": "novus@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48201070",
+		"name": "NOVUS Osokor",
+		"retail_chain": "novus",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 392-8552"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Zdolbunivska",
+			"building": "7Г"
+		},
+		"coords": "50.4112, 30.6056",
+		"email": "novus@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48206110",
+		"name": "NOVUS Mykolaiv",
+		"retail_chain": "novus",
+		"region_id": "mykolaiv",
+		"city": "mykolaiv",
+		"phones": [
+			"(0512) 701 207"
+		],
+		"address": {
+			"city": "Mykolaiv",
+			"street": "Kosmonavtiv",
+			"building": "83A"
+		},
+		"coords": "46.9659448, 32.0773213",
+		"email": "novus@zakaz.ua",
+		"delivery_types": [
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": null
+	},
+
+	{
+		"id": "48215610",
+		"name": "METRO Grigorenko",
+		"retail_chain": "metro",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Kiev",
+			"street": "Grigorenko",
+			"building": "43"
+		},
+		"coords": "50.39051, 30.64142",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48215611",
+		"name": "METRO Teremky",
+		"retail_chain": "metro",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Kiltseva",
+			"building": "1V"
+		},
+		"coords": "50.37886, 30.44221",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48215612",
+		"name": "METRO Odesa",
+		"retail_chain": "metro",
+		"region_id": "odesa",
+		"city": "odesa",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Odesa",
+			"street": "Aeroportіvska",
+			"building": "29"
+		},
+		"coords": "46.448391, 30.661012",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215614",
+		"name": "METRO Dnipro",
+		"retail_chain": "metro",
+		"region_id": "dnipro",
+		"city": "dnipro",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Dnipro",
+			"street": "Zaporiz'ke Hwy",
+			"building": "63"
+		},
+		"coords": "48.40018, 35.03982",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215618",
+		"name": "METRO Zaporizhzhia",
+		"retail_chain": "metro",
+		"region_id": "zaporizhzhia",
+		"city": "zaporizhzhia",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Zaporizhzhia",
+			"street": "Orikhivskе Highway",
+			"building": "7А"
+		},
+		"coords": "47.793231, 35.237875",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215620",
+		"name": "METRO Kryvyy Rig",
+		"retail_chain": "metro",
+		"region_id": "kryvyyrig",
+		"city": "kryvyyrig",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Kryvyy Rig",
+			"street": "Ivana Bykova",
+			"building": "31"
+		},
+		"coords": "47.9306877, 33.4229355",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215621",
+		"name": "METRO Vinnytsia",
+		"retail_chain": "metro",
+		"region_id": "vinnytsia",
+		"city": "vinnytsia",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Vinnytsia",
+			"street": "Khmelnytskе Highway",
+			"building": "1 0,5km"
+		},
+		"coords": "49.236701, 28.399184",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215623",
+		"name": "METRO Mykolaiv",
+		"retail_chain": "metro",
+		"region_id": "mykolaiv",
+		"city": "mykolaiv",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Mykolaiv",
+			"street": "Geroyiv Ukrainy",
+			"building": "9-D"
+		},
+		"coords": "46.989482, 31.9990734",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215625",
+		"name": "METRO Poltava",
+		"retail_chain": "metro",
+		"region_id": "poltava",
+		"city": "poltava",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Poltava",
+			"street": "Kiev Highway",
+			"building": "1-A"
+		},
+		"coords": "49.5643456, 34.4825617",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215627",
+		"name": "METRO Ivano-Frankivsk",
+		"retail_chain": "metro",
+		"region_id": "ivanofrankivsk",
+		"city": "ivanofrankivsk",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Ivano-Frankivsk",
+			"street": "Vovchynetska",
+			"building": "225-М"
+		},
+		"coords": "48.9442875, 24.7411757",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215628",
+		"name": "METRO Chernivtsi",
+		"retail_chain": "metro",
+		"region_id": "chernivtsi",
+		"city": "chernivtsi",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Chernivtsi",
+			"street": "Ostapa Vil'shyny",
+			"building": "1D"
+		},
+		"coords": "48.3203485, 25.9042393",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215632",
+		"name": "METRO Kharkiv",
+		"retail_chain": "metro",
+		"region_id": "kharkiv",
+		"city": "kharkiv",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Kharkiv",
+			"street": "Kiltsevyi shlyax",
+			"building": "8"
+		},
+		"coords": "50.066603, 36.198106",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215633",
+		"name": "METRO Kyiv Troieschyna",
+		"retail_chain": "metro",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Serzha Lyfaria",
+			"building": "2A"
+		},
+		"coords": "50.51111, 30.62352",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48215634",
+		"name": "METRO Rivne",
+		"retail_chain": "metro",
+		"region_id": "rivne",
+		"city": "rivne",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Rivne",
+			"street": "Makarova",
+			"building": "21"
+		},
+		"coords": "50.6233412, 26.202149",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215637",
+		"name": "METRO Lviv",
+		"retail_chain": "metro",
+		"region_id": "lviv",
+		"city": "lviv",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Lviv",
+			"street": "G Washington",
+			"building": "8"
+		},
+		"coords": "49.8137516, 24.0731128",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215638",
+		"name": "METRO Mariupol",
+		"retail_chain": "metro",
+		"region_id": "mariupol",
+		"city": "mariupol",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Mariupol",
+			"street": "Zaporizke shose",
+			"building": "4"
+		},
+		"coords": "47.1177667, 37.5032706",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48215639",
+		"name": "METRO Zhytomyr",
+		"retail_chain": "metro",
+		"region_id": "zhytomyr",
+		"city": "zhytomyr",
+		"phones": [
+			"0800 202323"
+		],
+		"address": {
+			"city": "Zhytomyr",
+			"street": "Nezalezhnosti Ave",
+			"building": "55B"
+		},
+		"coords": "50.27423, 28.67197",
+		"email": "metro@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+
+	{
+		"id": "48221130",
+		"name": "Tavria V Kharkiv",
+		"retail_chain": "tavriav",
+		"region_id": "kharkiv",
+		"city": "kharkiv",
+		"phones": [
+			"(057) 761 34 37"
+		],
+		"address": {
+			"city": "Kharkiv",
+			"street": "Gagarina",
+			"building": "30"
+		},
+		"coords": "49.9767933, 36.2478871",
+		"email": "tavriav@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+
+	{
+		"id": "48231001",
+		"name": "Vostorg Klochkivska",
+		"retail_chain": "vostorg",
+		"region_id": "kharkiv",
+		"city": "kharkiv",
+		"phones": [
+			"+380577613440"
+		],
+		"address": {
+			"city": "Kharkiv",
+			"street": "Klochkivska",
+			"building": "134Б"
+		},
+		"coords": "50.0095197, 36.2190494",
+		"email": "vostorg@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48231003",
+		"name": "Vostorg Moskovskiy",
+		"retail_chain": "vostorg",
+		"region_id": "kharkiv",
+		"city": "kharkiv",
+		"phones": [
+			"+380577613440"
+		],
+		"address": {
+			"city": "Kharkiv",
+			"street": "Moskovs'kyi Ave",
+			"building": "274В"
+		},
+		"coords": "49.9443584, 36.3995516",
+		"email": "vostorg@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+
+	{
+		"id": "48241001",
+		"name": "Varus Panikakhy",
+		"retail_chain": "varus",
+		"region_id": "dnipro",
+		"city": "dnipro",
+		"phones": [
+			"+380567976497"
+		],
+		"address": {
+			"city": "Dnipro",
+			"street": "Panikakhy",
+			"building": "15"
+		},
+		"coords": "48.4009426, 35.0327141",
+		"email": "varus@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48241094",
+		"name": "Varus Vyshhorod",
+		"retail_chain": "varus",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 237 7673"
+		],
+		"address": {
+			"city": "Kiev",
+			"street": "Vyshhorod",
+			"building": "45"
+		},
+		"coords": "50.5092419, 30.4493771",
+		"email": "varus@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+
+	{
+		"id": "48246401",
+		"name": "Auchan Petrivka",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "S.Bandera Avenue",
+			"building": "15A"
+		},
+		"coords": "50.491319, 30.489957",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246403",
+		"name": "Auchan Kiltceva",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Velyka Kiltceva",
+			"building": "4"
+		},
+		"coords": "50.429155, 30.355841",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246407",
+		"name": "Auchan Bilychi",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Berkovetska",
+			"building": "6"
+		},
+		"coords": "50.496931, 30.361328",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246409",
+		"name": "Auchan Lviv",
+		"retail_chain": "auchan",
+		"region_id": "lviv",
+		"city": "lviv",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Lviv",
+			"street": "Stryiska",
+			"building": "30"
+		},
+		"coords": "49.773581, 24.010427",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48246411",
+		"name": "Auchan Zaporizhzhia",
+		"retail_chain": "auchan",
+		"region_id": "zaporizhzhia",
+		"city": "zaporizhzhia",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Zaporizhzhia",
+			"street": "Zaporizska",
+			"building": "1B"
+		},
+		"coords": "47.8181543, 35.1568487",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48246414",
+		"name": "Auchan Rive Gauche",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Zdolbunivs'ka",
+			"building": "17"
+		},
+		"coords": "50.419283, 30.6313015",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246415",
+		"name": "Auchan Lybidska",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Antonovycha",
+			"building": "176"
+		},
+		"coords": "50.4119223, 30.5219596",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246416",
+		"name": "Auchan Odesa",
+		"retail_chain": "auchan",
+		"region_id": "odesa",
+		"city": "odesa",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Odesa",
+			"street": "",
+			"building": "Odesa"
+		},
+		"coords": "46.564279, 30.835252",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48246418",
+		"name": "Auchan Chernihivska",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Hnata Khotkevycha",
+			"building": "1B"
+		},
+		"coords": "50.4546712, 30.6383533",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246423",
+		"name": "Auchan Glushkova",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Academic Glushkov",
+			"building": "13B"
+		},
+		"coords": "50.368031, 30.458355",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246424",
+		"name": "Auchan Sim'i Sosninykh",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Sim'i Sosninykh",
+			"building": "17"
+		},
+		"coords": "50.4176731, 30.3924961",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246425",
+		"name": "Auchan Lugova",
+		"retail_chain": "auchan",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Lugova",
+			"building": "12"
+		},
+		"coords": "50.5057018, 30.4738766",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48246426",
+		"name": "Auchan Kharkiv",
+		"retail_chain": "auchan",
+		"region_id": "kharkiv",
+		"city": "kharkiv",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Kharkiv",
+			"street": "Heroiv Pratsi",
+			"building": "7"
+		},
+		"coords": "50.0288959, 36.3280964",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48246429",
+		"name": "Auchan Dnipro",
+		"retail_chain": "auchan",
+		"region_id": "dnipro",
+		"city": "dnipro",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Dnipro",
+			"street": "Nyzhniodniprovs'ka",
+			"building": "17"
+		},
+		"coords": "48.52937, 35.03093",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "09:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48246431",
+		"name": "Auchan Chernivtsi",
+		"retail_chain": "auchan",
+		"region_id": "chernivtsi",
+		"city": "chernivtsi",
+		"phones": [
+			"0800 203232"
+		],
+		"address": {
+			"city": "Chernivtsi",
+			"street": "Khotyns'ka",
+			"building": "43"
+		},
+		"coords": "48.3224081, 25.9497187",
+		"email": "auchan@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+
+	{
+		"id": "48250029",
+		"name": "CityMarket Hostomel",
+		"retail_chain": "citymarket",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 237 3537"
+		],
+		"address": {
+			"city": "Hostomel",
+			"street": "Chkalova",
+			"building": "1"
+		},
+		"coords": "50.5535942, 30.2771582",
+		"email": "citymarket@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+
+	{
+		"id": "48267601",
+		"name": "MEGAMARKET Surykova",
+		"retail_chain": "megamarket",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 392-1204"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Surykova",
+			"building": "3"
+		},
+		"coords": "50.43519, 30.47389",
+		"email": "megamarket@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48267602",
+		"name": "MEGAMARKET Kosmopolit",
+		"retail_chain": "megamarket",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 392-1204"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Vadyma Hetmana",
+			"building": "6"
+		},
+		"coords": "50.4497535, 30.4414631",
+		"email": "megamarket@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"card_offline",
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+
+	{
+		"id": "48280051",
+		"name": "EkoMarket Zhytomyr",
+		"retail_chain": "ekomarket",
+		"region_id": "zhytomyr",
+		"city": "zhytomyr",
+		"phones": [
+			"(044) 237 3533"
+		],
+		"address": {
+			"city": "Zhytomyr",
+			"street": "Sokolovskykh",
+			"building": "1"
+		},
+		"coords": "50.2742012, 28.665805",
+		"email": "eko@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48280061",
+		"name": "EkoMarket Vinnytsia",
+		"retail_chain": "ekomarket",
+		"region_id": "vinnytsia",
+		"city": "vinnytsia",
+		"phones": [
+			"(044) 237 3533"
+		],
+		"address": {
+			"city": "Vinnytsia",
+			"street": "Kotsyubyns'koho",
+			"building": "70"
+		},
+		"coords": "49.2381815, 28.4897022",
+		"email": "eko@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "19:00"
+		}
+	},
+	{
+		"id": "48280099",
+		"name": "EkoMarket Boryspil Kyivskyi shliakh",
+		"retail_chain": "ekomarket",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 237 3533"
+		],
+		"address": {
+			"city": "Boryspil",
+			"street": "Kyivskyi shliakh",
+			"building": "2/14"
+		},
+		"coords": "50.3640618, 30.9238757",
+		"email": "eko@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48280187",
+		"name": "EkoMarket Zhylianska",
+		"retail_chain": "ekomarket",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			"(044) 237 3533"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Zhylianska",
+			"building": "107"
+		},
+		"coords": "50.4430036, 30.4919959",
+		"email": "eko@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	},
+	{
+		"id": "48280214",
+		"name": "EkoMarket Zakrevs'koho",
+		"retail_chain": "ekomarket",
+		"region_id": "kiev",
+		"city": "kiev",
+		"phones": [
+			" (044) 237 3533"
+		],
+		"address": {
+			"city": "Kyiv",
+			"street": "Zakrevs'koho",
+			"building": "12"
+		},
+		"coords": "50.5005822, 30.6125545",
+		"email": "eko@zakaz.ua",
+		"delivery_types": [
+			"pickup",
+			"plan"
+		],
+		"payment_types": [
+			"cod",
+			"bank",
+			"card_online"
+		],
+		"opening_hours": {
+			"from": "10:00",
+			"to": "20:00"
+		}
+	}
+]

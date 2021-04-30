@@ -1,0 +1,56 @@
+[
+	{
+		"id": "loaves-metro",
+		"title": "Loaves",
+		"count": 10,
+		"children": []
+	},
+	{
+		"id": "baguette-metro",
+		"title": "Baguette",
+		"count": 10,
+		"children": []
+	},
+	{
+		"id": "ciabatta-metro",
+		"title": "Ciabatta",
+		"count": 8,
+		"children": []
+	},
+	{
+		"id": "bran-bread-metro",
+		"title": "Bran bread",
+		"count": 3,
+		"children": []
+	},
+	{
+		"id": "buckwheat-bread-metro",
+		"title": "Buckwheat bread",
+		"count": 3,
+		"children": []
+	},
+	{
+		"id": "corn-bread-metro",
+		"title": "Corn bread",
+		"count": 1,
+		"children": []
+	},
+	{
+		"id": "wheat-bread-metro",
+		"title": "Wheat bread",
+		"count": 29,
+		"children": []
+	},
+	{
+		"id": "rye-bread-metro",
+		"title": "Rye bread",
+		"count": 21,
+		"children": []
+	},
+	{
+		"id": "rye-wheat-bread-metro",
+		"title": "Rye wheat bread",
+		"count": 16,
+		"children": []
+	}
+]

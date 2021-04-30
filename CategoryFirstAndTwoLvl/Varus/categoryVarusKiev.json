@@ -1,0 +1,4834 @@
+[
+	{
+		"id": "bakery-varus",
+		"title": "Bakery",
+		"count": 77,
+		"children": [
+			{
+				"id": "tm-riga-khlib",
+				"title": "Riga Bread TM",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f415d1fe0a8f587b31aba18fedf67754.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-varus"
+			},
+			{
+				"id": "tm-khlibodar",
+				"title": "Khlibodar TM",
+				"count": 4,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.4ab5f1e2d630195ed3ba67ef38495c01.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-varus"
+			},
+			{
+				"id": "own-bakery-varus",
+				"title": "Own bakery",
+				"count": 25,
+				"children": [
+					{
+						"id": "own-bread-and-bakery-products-varus",
+						"title": "Bread and bakery products",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-bakery-varus"
+					},
+					{
+						"id": "own-buns-varus",
+						"title": "Buns",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-bakery-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ce6c73c44c224efe815bc1aeee36a31f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-varus"
+			},
+			{
+				"id": "bread-varus",
+				"title": "Bread",
+				"count": 45,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.19ee7cd62ec0f8653a11bfc727f7fd61.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-varus"
+			},
+			{
+				"id": "bagels-varus",
+				"title": "Bagels",
+				"count": 17,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.873e586bc2bd1549aded64893f0c6bca.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-varus"
+			},
+			{
+				"id": "lavash-varus",
+				"title": "Lavash",
+				"count": 7,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.289c2a8488eb0bb56bfe44afee1e8171.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.093a9cb480e5ae71713094cb160e8b80.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "fruits-and-vegetables-varus",
+		"title": "Fruits and vegetables",
+		"count": 111,
+		"children": [
+			{
+				"id": "tm-vita-verde",
+				"title": "Vita Verde TM ",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0dcf6be014066d46cec34cf516da3cd4.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-varus"
+			},
+			{
+				"id": "fruits-varus",
+				"title": "Fruits",
+				"count": 35,
+				"children": [
+					{
+						"id": "bananas-varus",
+						"title": "Bananas",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-varus"
+					},
+					{
+						"id": "grapes-varus",
+						"title": "Grapes",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-varus"
+					},
+					{
+						"id": "pears-varus",
+						"title": "Pears",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-varus"
+					},
+					{
+						"id": "peaches-apricot-plums-varus",
+						"title": "Peaches, apricot, plums",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-varus"
+					},
+					{
+						"id": "exotic-and-tropical-fruits-varus",
+						"title": "Exotic and tropical fruits",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-varus"
+					},
+					{
+						"id": "citrus-varus",
+						"title": "Citrus",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-varus"
+					},
+					{
+						"id": "apples-varus",
+						"title": "Apples",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.7dca824d2179d2b739820e234bd85142.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-varus"
+			},
+			{
+				"id": "vegetables-varus",
+				"title": "Vegetables",
+				"count": 33,
+				"children": [
+					{
+						"id": "eggplant-and-pepper-varus",
+						"title": "Eggplant and pepper",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-varus"
+					},
+					{
+						"id": "fresh-cabbage-varus",
+						"title": "Cabbage",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-varus"
+					},
+					{
+						"id": "carrot-varus",
+						"title": "Carrot",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-varus"
+					},
+					{
+						"id": "cucumbers-varus",
+						"title": "Cucumbers",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-varus"
+					},
+					{
+						"id": "tomatoes-varus",
+						"title": "Tomatoes",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-varus"
+					},
+					{
+						"id": "potato-varus",
+						"title": "Potato",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-varus"
+					},
+					{
+						"id": "onion-and-garlic-varus",
+						"title": "Onion and garlic",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f030331e23ed3216ee58995ea6c61a83.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-varus"
+			},
+			{
+				"id": "mushrooms-varus",
+				"title": "Mushrooms",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.0b33fe9575f8054d9f214460f29fa345.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-varus"
+			},
+			{
+				"id": "fresh-greens-varus",
+				"title": "Fresh greens",
+				"count": 35,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.07afa74e16ad69d38e70c01d5c7fd87f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.08e8670f022bdb6d47bcbf307aa72819.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "dairy-and-eggs-varus",
+		"title": "Dairy and eggs",
+		"count": 785,
+		"children": [
+			{
+				"id": "tm-khutorok-milk",
+				"title": "Khutorok TM",
+				"count": 4,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.e5ef295cd03aa487af4662de84086bdf.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "tm-aktivia",
+				"title": "Activia TM",
+				"count": 11,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.1595924955f972006d8e1223a78d0273.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "tm-zveny-gora",
+				"title": "Zveny Gora TM",
+				"count": 22,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.b3d1b4f586df13f48daa4c6a392a16e2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "cream-varus",
+				"title": "Cream",
+				"count": 18,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.2b4d713aef724e5fe4c7dd18bd41b9e6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "condensed-milk-varus",
+				"title": "Condensed milk",
+				"count": 20,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.890aec12d417fc206499815c6a137da1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "sour-cream-varus",
+				"title": "Sour cream",
+				"count": 27,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.44268755a4659160ebb584345953b1d2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "yogurt-varus",
+				"title": "Yogurt",
+				"count": 81,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0abd95289c2a9edbdc54211c51d7ec13.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "dairy-dessert-varus",
+				"title": "Dairy dessert",
+				"count": 50,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4150829b6178951876a16d8cb9dd031d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "sour-milk-drinks-varus",
+				"title": "Sour-milk drinks",
+				"count": 67,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.88f1892b0bef43d65318a7292c7363b9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "butter-and-margarine-varus",
+				"title": "Butter and margarine",
+				"count": 35,
+				"children": [
+					{
+						"id": "sweet-butter-varus",
+						"title": "Butter",
+						"count": 30,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "butter-and-margarine-varus"
+					},
+					{
+						"id": "margarine-varus",
+						"title": "Margarine",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "butter-and-margarine-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.be622faa1ea4c4d8f43f528eb6bbf9d9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "milk-varus",
+				"title": "Milk",
+				"count": 51,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.5eb3c963a0ff9d230687bfcba4cf7ae5.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "curd-varus",
+				"title": "Curd",
+				"count": 43,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.3482956380c8f6e259365148e5090c04.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "glazed-curds-varus",
+				"title": "Glazed curds",
+				"count": 28,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.950f6fa9ac5182e5ea2712f5203e2b66.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "eggs-varus",
+				"title": "Eggs",
+				"count": 12,
+				"children": [
+					{
+						"id": "chicken-eggs-varus",
+						"title": "Chicken eggs",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "eggs-varus"
+					},
+					{
+						"id": "other-eggs-varus",
+						"title": "Other eggs",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "eggs-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4b0792b844a905a83bb217937c43b777.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "cheeses-varus",
+				"title": "Cheeses",
+				"count": 355,
+				"children": [
+					{
+						"id": "cheese-appetizer-varus",
+						"title": "Cheese appetizer",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-varus"
+					},
+					{
+						"id": "soft-cheese-varus",
+						"title": "Soft cheese",
+						"count": 75,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-varus"
+					},
+					{
+						"id": "process-cheese-varus",
+						"title": "Process cheese",
+						"count": 74,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-varus"
+					},
+					{
+						"id": "pickled-cheese-varus",
+						"title": "Pickled cheese",
+						"count": 36,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-varus"
+					},
+					{
+						"id": "hard-cheese-varus",
+						"title": "Hard cheese",
+						"count": 148,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-varus"
+					},
+					{
+						"id": "cream-cheese-varus",
+						"title": "Cream-cheese",
+						"count": 21,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-varus"
+					},
+					{
+						"id": "cheese-product-varus",
+						"title": "Cheese product",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.c8aaa7967444326871c7bad22cc1d32d.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			},
+			{
+				"id": "dairy-free-food-and-drinks-varus",
+				"title": "Dairy-free products",
+				"count": 19,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c6464bd0bf4e520e674b3ef4b70917ed.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.cf3270d0bb323eee64b3a35a967a2433.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "meat-fish-poultry-varus",
+		"title": "Meat, fish, poultry",
+		"count": 579,
+		"children": [
+			{
+				"id": "tm-santa-bremor",
+				"title": "Santa Bremor TM",
+				"count": 12,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f41145dfd7fb866a2d42a4bec4e3cdb0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "tm-baschynskyj",
+				"title": "Baschynskyj TM",
+				"count": 32,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.a621706d39a9c82406961e35c56816bf.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "tm-veladis",
+				"title": "Veladis TM ",
+				"count": 9,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.cf985afae5a6edccc87087e77869907b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "fresh-meat-varus",
+				"title": "Fresh meat",
+				"count": 88,
+				"children": [
+					{
+						"id": "lamb-varus",
+						"title": "Lamb",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "turkey-varus",
+						"title": "Turkey",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "rabbit-varus",
+						"title": "Rabbit",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "duck-varus",
+						"title": "Duck",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "chicken-varus",
+						"title": "Chicken",
+						"count": 28,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "half-finished-meat-varus",
+						"title": "Half finished meat",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "quail-varus",
+						"title": "Quail",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "pork-varus",
+						"title": "Pork",
+						"count": 21,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					},
+					{
+						"id": "beef-varus",
+						"title": "Beef",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.86523ca2cfe84b2e4ac4e78d8c1072e5.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "fresh-fish-varus",
+				"title": "Fresh fish",
+				"count": 6,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.12f3fab41e3f2308521522957bb1ed25.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "sausages-varus",
+				"title": "Sausages",
+				"count": 248,
+				"children": [
+					{
+						"id": "smoked-sausage-varus",
+						"title": "Smoked sausage",
+						"count": 132,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-varus"
+					},
+					{
+						"id": "boiled-sausage-varus",
+						"title": "Boiled sausage",
+						"count": 46,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-varus"
+					},
+					{
+						"id": "vienna-sausage-varus",
+						"title": "Vienna sausage",
+						"count": 57,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-varus"
+					},
+					{
+						"id": "bockwurst-sausage-varus",
+						"title": "Bockwurst sausage",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-varus"
+					},
+					{
+						"id": "other-sausages-varus",
+						"title": "Other sausages",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b41284f5df09530b6c5aaf99c6e932d9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "delicatessen-varus",
+				"title": "Meat products",
+				"count": 115,
+				"children": [
+					{
+						"id": "poultry-delicatessen-varus",
+						"title": "Poultry delicatessen",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "delicatessen-varus"
+					},
+					{
+						"id": "meat-delicatessen-varus",
+						"title": "Meat delicatessen",
+						"count": 68,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "delicatessen-varus"
+					},
+					{
+						"id": "meat-pate-varus",
+						"title": "Meat pate, mousses",
+						"count": 38,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "delicatessen-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f44479ba7175723c86d14bad8189959e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "prepared-fish-varus",
+				"title": "Prepared fish",
+				"count": 73,
+				"children": [
+					{
+						"id": "marinated-fish-varus",
+						"title": "Marinated fish",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-varus"
+					},
+					{
+						"id": "fish-snacks-varus",
+						"title": "Fish snacks ",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-varus"
+					},
+					{
+						"id": "dried-fish-varus",
+						"title": "",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-varus"
+					},
+					{
+						"id": "hot-smoked-fish-varus",
+						"title": "Hot smoked fish",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-varus"
+					},
+					{
+						"id": "cold-smoked-fish-varus",
+						"title": "Cold smoked fish",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-varus"
+					},
+					{
+						"id": "low-salted-fish-varus",
+						"title": "Low salted-fish",
+						"count": 34,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.26c744ea076347312eed787b6aa21405.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "seafood-varus",
+				"title": "Seafood",
+				"count": 24,
+				"children": [
+					{
+						"id": "chilled-crab-sticks-varus",
+						"title": "Crab sticks",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "seafood-varus"
+					},
+					{
+						"id": "marinaded-seafoods-varus",
+						"title": " marinaded seafood",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "seafood-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.48d0e243402928e66a0ed4075728b3bb.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			},
+			{
+				"id": "caviar-varus",
+				"title": "Caviar",
+				"count": 32,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.5ed5c36bcfe441e71b747b6f28d644a3.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.afa6f484bc575d5e7006f5522d18f840.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "ready-meals-varus",
+		"title": "Ready meals",
+		"count": 66,
+		"children": [
+			{
+				"id": "main-dishes-varus",
+				"title": "Main dishes",
+				"count": 52,
+				"children": [
+					{
+						"id": "fish-dishes-varus",
+						"title": "Fish dishes",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-varus"
+					},
+					{
+						"id": "meat-dishes-varus",
+						"title": "Meat dishes",
+						"count": 26,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-varus"
+					},
+					{
+						"id": "vegetable-side-dishes-varus",
+						"title": "Vegetable and side dishes",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-varus"
+					},
+					{
+						"id": "flour-products-varus",
+						"title": "Flour products",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4e6c8d87df03e872830e309558e7e6cc.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-varus"
+			},
+			{
+				"id": "salads-varus",
+				"title": "Salads",
+				"count": 17,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f03f9e40bd82b7b9512543842beb51c6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-varus"
+			},
+			{
+				"id": "cheesecake-and-desserts-varus",
+				"title": "Cottage cheese desserts",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.606909f6b1b929c1a1b16a77e7223f36.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-varus"
+			},
+			{
+				"id": "hamburgers-and-sandwiches-varus",
+				"title": "Hamburgers and sandwiches",
+				"count": 2,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.89ebf0d19a7cad28c5e6152909017f70.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.bfb18ea9912361aece863f7071889d64.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "frozen-varus",
+		"title": "Frozen",
+		"count": 219,
+		"children": [
+			{
+				"id": "tm-varto",
+				"title": "Varto ТМ ",
+				"count": 19,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.9c85e23fe0f4801acfdacedc6f2f79e4.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "tm-rud",
+				"title": "Rud TM",
+				"count": 25,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b637796a94c4292b86333b4cef478666.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "tm-hercules-frozen",
+				"title": "Hercules TM",
+				"count": 13,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.881bb947f49059185659e9ae5c3a5ca6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "frozen-fish-varus",
+				"title": "Fish",
+				"count": 10,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d7f646110b34f3dbde285b041a8ea86f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "frozen-seafood-varus",
+				"title": "Seafood",
+				"count": 2,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0102d3a61af236f91b64d7b0f48cd891.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "frozen-vegetables-and-fruits-varus",
+				"title": "Vegetables and fruits",
+				"count": 24,
+				"children": [
+					{
+						"id": "frozen-mushrooms-varus",
+						"title": "Mushrooms",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "frozen-vegetables-and-fruits-varus"
+					},
+					{
+						"id": "frozen-vegetables-varus",
+						"title": "Vegetables",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "frozen-vegetables-and-fruits-varus"
+					},
+					{
+						"id": "frozen-berries-varus",
+						"title": "Berries",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "frozen-vegetables-and-fruits-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.39203d2d9340cd61a6ef99428dd6d973.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "icecream-varus",
+				"title": "Icecream",
+				"count": 85,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.0f476bdb7321ae2330f097f32dd8df98.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "half-made-food-varus",
+				"title": "Ready meals",
+				"count": 99,
+				"children": [
+					{
+						"id": "vareniki-varus",
+						"title": "Vareniki",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "cabbage-rolls-chebureks-varus",
+						"title": "Cabbage rolls chebureks",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "frozen-crab-sticks-varus",
+						"title": "Crab sticks",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "frozen-pancakes-varus",
+						"title": "Pancakes, benderiki",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "meat-dumplings-varus",
+						"title": "Meat dumplings",
+						"count": 40,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "frozen-pizza-varus",
+						"title": "Pizza",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "frozen-fish-sticks-varus",
+						"title": "Fish sticks, burgers",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "frozen-dough-varus",
+						"title": "Dough",
+						"count": 15,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					},
+					{
+						"id": "frozen-bakery-varus",
+						"title": "Semi-finished bakery products ",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.8081c14cf6a6f77fb37cf570daddd3e5.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			},
+			{
+				"id": "chilled-dough-varus",
+				"title": "Chilled semi-finished products",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f96307bb65e4571d978e5743ab087902.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.3b5d779b556c1f6863f62b2522421d22.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "grocery-varus",
+		"title": "Grocery",
+		"count": 1258,
+		"children": [
+			{
+				"id": "tm-dr-oetker",
+				"title": "Dr.Oetker TM ",
+				"count": 23,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.278fcf5fcac3dd2a6f19845edee3205c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "tm-axa",
+				"title": "AXA TM ",
+				"count": 6,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.8160b52bdcdd7f773946fc8e27b39453.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "tm-dolina-zhelanij",
+				"title": "Dolina Zhelanij TM",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ac9dd03a9f18b294df7703e55e7a1ca8.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "flour-varus",
+				"title": "Flour",
+				"count": 23,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f4ecacf03960980fe5bef91feb9645ef.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "pulses-and-grain-varus",
+				"title": "Pulses and grain",
+				"count": 126,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.2c20c495af3aed54d31a2b2b435410ba.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "pasta-varus",
+				"title": "Pasta",
+				"count": 143,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c533595fba8e1d9c41682e12b3a001a0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "oil-and-vinegar-varus",
+				"title": "Oil and vinegar",
+				"count": 70,
+				"children": [
+					{
+						"id": "oil-varus",
+						"title": "Oil",
+						"count": 66,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oil-and-vinegar-varus"
+					},
+					{
+						"id": "vinegar-varus",
+						"title": "Vinegar",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oil-and-vinegar-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.6a9aeda1d213eda8bdb232eeaf00a468.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "sugar-varus",
+				"title": "Sugar",
+				"count": 13,
+				"children": [
+					{
+						"id": "sugar-1-varus",
+						"title": "Granulated sugar",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sugar-varus"
+					},
+					{
+						"id": "pressed-sugar-varus",
+						"title": "Pressed sugar",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sugar-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f1a86c9255aed8ef8b6afa1d28adecb0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "breakfast-cereals-and-porridge-varus",
+				"title": "Breakfast cereals and porridge",
+				"count": 36,
+				"children": [
+					{
+						"id": "porridge-varus",
+						"title": "Porridge",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "breakfast-cereals-and-porridge-varus"
+					},
+					{
+						"id": "muesli-varus",
+						"title": "Muesli",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "breakfast-cereals-and-porridge-varus"
+					},
+					{
+						"id": "breakfast-cereals-varus",
+						"title": "Breakfast cereals and flakes",
+						"count": 30,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "breakfast-cereals-and-porridge-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f47cf176f036681d594cdb6b7901dcd2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "salt-varus",
+				"title": "Salt",
+				"count": 16,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3f866a9b89eab2ebd0813836f835ee08.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "nuts-and-dried-fruits-varus",
+				"title": "Nuts and dried fruits",
+				"count": 90,
+				"children": [
+					{
+						"id": "bulk-nuts-and-dried-fruits-varus",
+						"title": "Bulk",
+						"count": 27,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "nuts-and-dried-fruits-varus"
+					},
+					{
+						"id": "packed-nuts-and-dried-fruits-varus",
+						"title": "Packed",
+						"count": 63,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "nuts-and-dried-fruits-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.1aeb08ec0a3bbdd1a7e735983f2872e1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "instant-food-varus",
+				"title": "Instant food",
+				"count": 18,
+				"children": [
+					{
+						"id": "instant-noodles-and-mash-varus",
+						"title": "Instant noodles and mash",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "instant-food-varus"
+					},
+					{
+						"id": "instant-soup-varus",
+						"title": "Instant soup",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "instant-food-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.91a2b848aa5515933d5b2b2e8d17a37b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "canned-food-varus",
+				"title": "Canned food",
+				"count": 199,
+				"children": [
+					{
+						"id": "canned-mushrooms-varus",
+						"title": "Mushrooms",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-varus"
+					},
+					{
+						"id": "canned-meat-varus",
+						"title": "Meat",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-varus"
+					},
+					{
+						"id": "canned-vegetables-varus",
+						"title": "Vegetables",
+						"count": 67,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-varus"
+					},
+					{
+						"id": "olives-varus",
+						"title": "Olives",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-varus"
+					},
+					{
+						"id": "canned-fish-varus",
+						"title": "Fish and seafood",
+						"count": 42,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-varus"
+					},
+					{
+						"id": "salads-and-pickles-varus",
+						"title": "Salads and pickles",
+						"count": 49,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-varus"
+					},
+					{
+						"id": "hummus-varus",
+						"title": "Hummus",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.e25976bec6a18ddf6df4648f3c66e6c9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "sauces-varus",
+				"title": "Sauces",
+				"count": 265,
+				"children": [
+					{
+						"id": "mustard-and-horseradish-varus",
+						"title": "Mustard and horseradish",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-varus"
+					},
+					{
+						"id": "flavoring-and-marinade-varus",
+						"title": "Filling and marinades",
+						"count": 27,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-varus"
+					},
+					{
+						"id": "ketchup-varus",
+						"title": "Ketchup",
+						"count": 32,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-varus"
+					},
+					{
+						"id": "mayonnese-varus",
+						"title": "Mayonnese",
+						"count": 44,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-varus"
+					},
+					{
+						"id": "sauce-varus",
+						"title": "Sauces",
+						"count": 128,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-varus"
+					},
+					{
+						"id": "tomato-sauce-varus",
+						"title": "Tomato paste, sauce",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d065bcdb4e584e09760ad9be22626d60.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "herbs-and-spices-varus",
+				"title": "Herbs and spices",
+				"count": 76,
+				"children": [
+					{
+						"id": "packed-spices-varus",
+						"title": "Packed",
+						"count": 76,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "herbs-and-spices-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.670766afc43dabe110e2ce73319ce489.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "sweet-preservation-varus",
+				"title": "Sweet preservation",
+				"count": 70,
+				"children": [
+					{
+						"id": "jam-varus",
+						"title": "Jams",
+						"count": 22,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-varus"
+					},
+					{
+						"id": "chocolate-paste-varus",
+						"title": "Cream and paste",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-varus"
+					},
+					{
+						"id": "honey-varus",
+						"title": "Honey",
+						"count": 20,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-varus"
+					},
+					{
+						"id": "topping-varus",
+						"title": "Topping",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-varus"
+					},
+					{
+						"id": "canned-fruits-varus",
+						"title": "Canned fruits",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.715375e736164be157a5e347c8129cbe.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "baking-soda-and-starch-varus",
+				"title": "Soda and starch",
+				"count": 3,
+				"children": [
+					{
+						"id": "baking-soda-varus",
+						"title": "Baking soda",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baking-soda-and-starch-varus"
+					},
+					{
+						"id": "starch-varus",
+						"title": "Starch",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baking-soda-and-starch-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.2eb0810717714a22e467732255988c00.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "home-baking-varus",
+				"title": "Home baking",
+				"count": 99,
+				"children": [
+					{
+						"id": "vanillin-varus",
+						"title": "Vanillin",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					},
+					{
+						"id": "baking-mix-varus",
+						"title": "Baking mix",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					},
+					{
+						"id": "yeast-varus",
+						"title": "Yeast",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					},
+					{
+						"id": "gelatin-varus",
+						"title": "Gelatin",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					},
+					{
+						"id": "jelly-varus",
+						"title": "Jelly",
+						"count": 23,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					},
+					{
+						"id": "lemon-acid-varus",
+						"title": "Lemon acid",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					},
+					{
+						"id": "leaven-varus",
+						"title": "Leaven",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					},
+					{
+						"id": "breadcrumbs-varus",
+						"title": "Bread crumbs",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0ee0d58655ce136deb9417d4526b17e0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "organic-products-varus",
+				"title": "Organic products",
+				"count": 5,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.dfa9242743eba62d27fd35cfa8c41a41.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			},
+			{
+				"id": "for-sushi-varus",
+				"title": "All for sushi",
+				"count": 35,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f978d83ecb0e24a4aa1b94a0f002e9ad.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.e6b45b8a8216c37e6db87b0569743da0.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "snacks-and-sweets-varus",
+		"title": "Snacks and sweets",
+		"count": 812,
+		"children": [
+			{
+				"id": "tm-flint",
+				"title": "Flint TM",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.6194222b56fbd4b7105ba8175824df47.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "tm-avk",
+				"title": "AVK ТМ ",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ee28158b51ab86f7b521fcf847dad19e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "tm-millennium",
+				"title": "Millennium TM ",
+				"count": 15,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.340d6f81d198463fbf5713d52760b632.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "candy-varus",
+				"title": "Candy",
+				"count": 140,
+				"children": [
+					{
+						"id": "bulk-candy-varus",
+						"title": "Bulk",
+						"count": 69,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "candy-varus"
+					},
+					{
+						"id": "candy-in-box-varus",
+						"title": "In the boxes",
+						"count": 24,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "candy-varus"
+					},
+					{
+						"id": "packed-candy-varus",
+						"title": "Packed",
+						"count": 49,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "candy-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ffd3db3d305db4646a1ae1d27cb365df.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "chocolate-varus",
+				"title": "Chocolate",
+				"count": 61,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.8fa1b4ec91533bdb4b1a2545fe68ee29.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "bars-varus",
+				"title": "Bars",
+				"count": 44,
+				"children": [
+					{
+						"id": "cereal-bars-varus",
+						"title": "Cereal bars",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "bars-varus"
+					},
+					{
+						"id": "chocolate-bars-varus",
+						"title": "Chocolate bars",
+						"count": 27,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "bars-varus"
+					},
+					{
+						"id": "chocolate-figures-varus",
+						"title": "Chocolate figures, eggs",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "bars-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.08286c382e8bc3e3211dc28fa334c645.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "gum-varus",
+				"title": "Gum",
+				"count": 15,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d9f7ad554adb521f128b1db6144c204f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "confectionery-varus",
+				"title": "Confectionery",
+				"count": 309,
+				"children": [
+					{
+						"id": "waffle-varus",
+						"title": "Wafer cakes and waffles",
+						"count": 40,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "dragee-varus",
+						"title": "Dragee",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "cakes-and-biscuits-varus",
+						"title": "Muffins, rolls, biscuits",
+						"count": 40,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "cracker-varus",
+						"title": "Cracker",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "blind-baking-tartlets-varus",
+						"title": "Cakes, tartlets",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "croisant-varus",
+						"title": "Croisants",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "corn-curls-cotton-candy-varus",
+						"title": "Corn sticks, cotton candy",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "cookies-varus",
+						"title": "Cookies",
+						"count": 139,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "gingerbread-varus",
+						"title": "Gingerbread",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					},
+					{
+						"id": "dried-crust-and-rolls-varus",
+						"title": "Dried,crusts, straws ",
+						"count": 30,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.7afcf9f6da0ad3b6196e361911b3986b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "oriental-sweets-varus",
+				"title": "Oriental sweets",
+				"count": 12,
+				"children": [
+					{
+						"id": "marshmallow-varus",
+						"title": "Marshmallow",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-varus"
+					},
+					{
+						"id": "honey-bar-and-nut-brittle-varus",
+						"title": "Nut brittle, grilyazh",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-varus"
+					},
+					{
+						"id": "fruit-jelly-varus",
+						"title": "Marmalade",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-varus"
+					},
+					{
+						"id": "halva-varus",
+						"title": "Halva",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.222d44f29a6f9735982206c2aa89274d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "pastries-and-cakes-varus",
+				"title": "Pastries and cakes",
+				"count": 31,
+				"children": [
+					{
+						"id": "layer-cake-varus",
+						"title": "Cakes",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "pastries-and-cakes-varus"
+					},
+					{
+						"id": "cakes-varus",
+						"title": "Pastries",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "pastries-and-cakes-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.96afa2754a90185f43772e0ba824468c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "snacks-varus",
+				"title": "Chips, snacks",
+				"count": 150,
+				"children": [
+					{
+						"id": "popcorn-varus",
+						"title": "Popcorn",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-varus"
+					},
+					{
+						"id": "packed-fish-snacks-varus",
+						"title": "Fish snacks",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-varus"
+					},
+					{
+						"id": "other-snacks-varus",
+						"title": "Snacks",
+						"count": 25,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-varus"
+					},
+					{
+						"id": "salted-nuts-varus",
+						"title": "Salted nuts",
+						"count": 26,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-varus"
+					},
+					{
+						"id": "saltine-rusks-varus",
+						"title": "Saltine rusks",
+						"count": 26,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-varus"
+					},
+					{
+						"id": "chips-varus",
+						"title": "Chips",
+						"count": 60,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3bfaf0f17e70f1544f94ad5970612e40.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "seeds-varus",
+				"title": "Seeds",
+				"count": 24,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.019c7d97883e1bd0b6a8c54d67e85710.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			},
+			{
+				"id": "diet-and-diabetic-foods-varus",
+				"title": "Diet and diabetic foods",
+				"count": 65,
+				"children": [
+					{
+						"id": "diabetic-bars-varus",
+						"title": "Diabetic bars",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-varus"
+					},
+					{
+						"id": "diabetic-confectionery-varus",
+						"title": "Diabetic confectionery",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-varus"
+					},
+					{
+						"id": "dietary-eating-varus",
+						"title": "Dietary eating",
+						"count": 20,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-varus"
+					},
+					{
+						"id": "cellulose-varus",
+						"title": "Cellulose",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-varus"
+					},
+					{
+						"id": "crisp-bread-varus",
+						"title": "Crisp bread",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-varus"
+					},
+					{
+						"id": "sweeteners-varus",
+						"title": "Sweeteners",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.d2d6eef4447ee2c90f70e66cf056f485.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.937fe3f7e80214e595f74b4891da3a63.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "drinks-varus",
+		"title": "Drinks",
+		"count": 768,
+		"children": [
+			{
+				"id": "tm-coca-cola",
+				"title": "Coca-Cola TM ",
+				"count": 15,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.16e71a86a18a89582891e4e0d457bdd0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "tm-morshynska",
+				"title": "Morshynska TM",
+				"count": 20,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.5fb7b5120e3b4dd888b9411d65aeb66f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "tm-curtis",
+				"title": "Curtis TM ",
+				"count": 13,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.77e3e72e4f2a943d3efeaad7cccc44ce.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "mineral-water-varus",
+				"title": "Mineral water",
+				"count": 93,
+				"children": [
+					{
+						"id": "carbonated-water-varus",
+						"title": "Carbonated water",
+						"count": 64,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "mineral-water-varus"
+					},
+					{
+						"id": "non-carbonated-water-varus",
+						"title": "Still water",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "mineral-water-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.19cfa190d990a3da72a04bbba80b8363.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "juices-and-nectars-varus",
+				"title": "Juices and nectars",
+				"count": 161,
+				"children": [
+					{
+						"id": "juice-varus",
+						"title": "Juices",
+						"count": 70,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "juices-and-nectars-varus"
+					},
+					{
+						"id": "nectar-varus",
+						"title": "Nectars",
+						"count": 89,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "juices-and-nectars-varus"
+					},
+					{
+						"id": "fruit-drinks-varus",
+						"title": "Fruit drinks",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "juices-and-nectars-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b837d3493950b733629978eeef150162.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "energy-drinks-varus",
+				"title": "Energy drinks",
+				"count": 36,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.fe3c0994f9eb1eacaa67fe208c9a336c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "soft-drinks-varus",
+				"title": "Soft drinks",
+				"count": 168,
+				"children": [
+					{
+						"id": "carbonated-soft-drinks-varus",
+						"title": "Carbonated soft drinks",
+						"count": 127,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-varus"
+					},
+					{
+						"id": "non-carbonated-soft-drinks-varus",
+						"title": "Non-carbonated soft drinks",
+						"count": 18,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-varus"
+					},
+					{
+						"id": "kvass-varus",
+						"title": "Kvass",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-varus"
+					},
+					{
+						"id": "ice-tea-varus",
+						"title": "Ice tea",
+						"count": 24,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.32c00ca6e24670b2d2a07ecb6cc45b2d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "coffee-varus",
+				"title": "Coffee",
+				"count": 154,
+				"children": [
+					{
+						"id": "coffee-bean-varus",
+						"title": "Coffee bean",
+						"count": 24,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-varus"
+					},
+					{
+						"id": "ground-coffee-varus",
+						"title": "Ground coffee",
+						"count": 49,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-varus"
+					},
+					{
+						"id": "instant-coffee-varus",
+						"title": "Instant coffee",
+						"count": 60,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-varus"
+					},
+					{
+						"id": "cocoa-and-coffee-drinks-varus",
+						"title": "Cocoa and coffee drinks",
+						"count": 23,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.fe46d124cabd7febd9681b6b35c68b84.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			},
+			{
+				"id": "tea-varus",
+				"title": "Tea",
+				"count": 157,
+				"children": [
+					{
+						"id": "tea-bags-varus",
+						"title": "Tea bags",
+						"count": 103,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "tea-varus"
+					},
+					{
+						"id": "loose-tea-varus",
+						"title": "Loose",
+						"count": 55,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "tea-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.59b7d357383641c9e1f000d779dba68b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.23cf64afb6e07b7395c8e440fd4996ce.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "alcohol-varus",
+		"title": "Alcohol",
+		"count": 931,
+		"children": [
+			{
+				"id": "tm-persha-pryvatna-brovarnya",
+				"title": "Persha Pryvatna Brovarnya TM",
+				"count": 21,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0a0104f01a581ba73ad89e26ba9e0c44.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "tm-jim-beam",
+				"title": "Jim Beam TM ",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.dec8b2d69c89f2f25cfb05157fac0128.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "tm-bolgrad",
+				"title": "Bolgrad TM ",
+				"count": 16,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d4b9a429c39a752ca41f073e9e5c0304.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "balsam-bitter-varus",
+				"title": "Balsam, bitter",
+				"count": 26,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b11fe6bc461da6cbbb083584f63ac2a9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "vermouth-and-aperitif-varus",
+				"title": "Vermouth, aperitif",
+				"count": 14,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4ea7ce6ee23017465ce35c275f3cd373.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "wine-varus",
+				"title": "Wine",
+				"count": 286,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ca12a6cac25c98c8473b0e748ba088fc.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "whiskey-varus",
+				"title": "Whiskey",
+				"count": 72,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ad30be59be32baeb35ad260bc11a1a90.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "vodka-varus",
+				"title": "Vodka",
+				"count": 133,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.1d241f1162893f489bad524c22e2ebcd.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "grappa-calvados-chacha-varus",
+				"title": "Grappa, calvados, chacha",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3c22a85a25ef10ed5358fa492e8a8859.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "gin-varus",
+				"title": "Gin",
+				"count": 11,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.e1cadc29e134bc4fb8bb880f8d224f3c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "cognac-varus",
+				"title": "Cognac and brandy",
+				"count": 87,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.e6d7027eaebfbf8f5818b4b06ad83729.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "liquor-varus",
+				"title": "Liquor",
+				"count": 17,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.e72100bbcb2a0baf0b5a3ba28a36786f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "beer-varus",
+				"title": "Beer",
+				"count": 183,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c563cd56efde1db819f5f2610a7f3cc7.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "rum-varus",
+				"title": "Rum",
+				"count": 25,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.3cf65da91bbf17425409ac8abbfce5aa.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "low-alcohol-varus",
+				"title": "Low-alcohol drinks",
+				"count": 42,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.58e84acd242b3d9a59ed607f031236a6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "tequila-varus",
+				"title": "Tequila",
+				"count": 13,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.1d60092a8a4bb398f4c4208892a8c5e0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			},
+			{
+				"id": "champagne-sparkling-wine-varus",
+				"title": "Champagne and sparkling wine",
+				"count": 27,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.fd099542292988772c6d4506c4070303.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.14e66e21bce3419c4e0e75b08ec28828.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "tobacco-goods-varus",
+		"title": "Tobacco goods",
+		"count": 127,
+		"children": [
+			{
+				"id": "smoking-accessories-varus",
+				"title": "Smoking accessories",
+				"count": 7,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.5a230b939227b6dcf9c0724911333001.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-varus"
+			},
+			{
+				"id": "cigars-varus",
+				"title": "Cigars and cigarillos",
+				"count": 11,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.d18213653615dfa55cbc532201877882.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-varus"
+			},
+			{
+				"id": "cigarettes-varus",
+				"title": "Cigarettes",
+				"count": 86,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.a0699df77ccc934006f4bdc65804090b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-varus"
+			},
+			{
+				"id": "tobacco-varus",
+				"title": "Tobacco",
+				"count": 4,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.50d45a2e75d4820724ef0953324d09a8.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-varus"
+			},
+			{
+				"id": "hnb-varus",
+				"title": "Heated tobacco products",
+				"count": 19,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.fad43b42306f27a279a284c622b84a0e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f94da3f370163301efa0ac9a92676e78.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "babies-varus",
+		"title": "Babies",
+		"count": 139,
+		"children": [
+			{
+				"id": "tm-huggies",
+				"title": "Huggies TM ",
+				"count": 7,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f139e514a1f1ea1521cab6d0ae26bebe.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "babies-varus"
+			},
+			{
+				"id": "tm-gerber",
+				"title": "Gerber TM ",
+				"count": 14,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.7c099d6674d85514997b0bda233a41c3.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "babies-varus"
+			},
+			{
+				"id": "tm-chudo-chado",
+				"title": "Chudo Chado TM",
+				"count": 10,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.bb5a6fa93bbd6049b3047e9a69892319.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "babies-varus"
+			},
+			{
+				"id": "care-babies-varus",
+				"title": "Care",
+				"count": 34,
+				"children": [
+					{
+						"id": "napkins-for-babies-varus",
+						"title": "Wet wipes, cotton swabs",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-varus"
+					},
+					{
+						"id": "hygiene-for-babies-varus",
+						"title": "Baby cosmetics",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-varus"
+					},
+					{
+						"id": "for-mouth-baby-varus",
+						"title": "For mouth care baby",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-varus"
+					},
+					{
+						"id": "for-washing-baby-varus",
+						"title": "For washing baby",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-varus"
+					},
+					{
+						"id": "diapers-varus",
+						"title": "Diapers",
+						"count": 20,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.48f20afa1942983bad3e39a4eadec7b7.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "babies-varus"
+			},
+			{
+				"id": "baby-foods-varus",
+				"title": "Nutrition",
+				"count": 105,
+				"children": [
+					{
+						"id": "water-for-baby-varus",
+						"title": "Water",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					},
+					{
+						"id": "porridge-for-babies-varus",
+						"title": "Porridge",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					},
+					{
+						"id": "dairy-foods-for-babies-varus",
+						"title": "Dairy food ",
+						"count": 43,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					},
+					{
+						"id": "cookies-and-rusks-varus",
+						"title": "Cookies",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					},
+					{
+						"id": "puree-for-babies-varus",
+						"title": "Puree",
+						"count": 31,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					},
+					{
+						"id": "juice-for-babies-varus",
+						"title": "Juices",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					},
+					{
+						"id": "infant-formula-varus",
+						"title": "Infant formula",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					},
+					{
+						"id": "tea-for-babies-varus",
+						"title": "Tea",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f5936051d52f36480af06d4b5958dee8.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "babies-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.7ee399d1e5ecf4d22733306cd535983a.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "chemicals-varus",
+		"title": "Chemicals",
+		"count": 155,
+		"children": [
+			{
+				"id": "tm-ariel",
+				"title": "Ariel TM ",
+				"count": 5,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.2e81c8f1f3b7a17554b2a054c30ae29d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-varus"
+			},
+			{
+				"id": "tm-bref",
+				"title": "Bref TM ",
+				"count": 2,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.869d0e6578313b2aa7e4ef624dbd164b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-varus"
+			},
+			{
+				"id": "tm-fairy",
+				"title": "Fairy TM ",
+				"count": 6,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c9ec61d8415fa63745f1ab964321c1cf.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-varus"
+			},
+			{
+				"id": "for-washing-dishes-varus",
+				"title": "Dish detergents",
+				"count": 24,
+				"children": [
+					{
+						"id": "for-dishwashers-varus",
+						"title": "For dishwashers",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-dishes-varus"
+					},
+					{
+						"id": "liquid-means-varus",
+						"title": "For manual dishwashing",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-dishes-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.fd7ae92efc68c77d56f59729c9418da4.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-varus"
+			},
+			{
+				"id": "for-washing-varus",
+				"title": "For washing",
+				"count": 81,
+				"children": [
+					{
+						"id": "gel-for-washing-varus",
+						"title": "Gel",
+						"count": 25,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-varus"
+					},
+					{
+						"id": "stain-removers-and-bleaches-varus",
+						"title": "Stain removers and bleaches",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-varus"
+					},
+					{
+						"id": "laundry-conditioner-varus",
+						"title": "Laundry conditioners",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-varus"
+					},
+					{
+						"id": "capsules-for-washing-varus",
+						"title": "Capsules",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-varus"
+					},
+					{
+						"id": "powder-detergent-varus",
+						"title": "Powder detergents",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b358d26b60e396f49bc179d7516908ff.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-varus"
+			},
+			{
+				"id": "cleaning-products-varus",
+				"title": "Cleaning products",
+				"count": 34,
+				"children": [
+					{
+						"id": "cleaning-for-bathroom-varus",
+						"title": "For bathroom",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "cleaning-for-toilet-varus",
+						"title": "For toilet",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "cleaning-for-kitchen-varus",
+						"title": "For kitchen",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "pipe-cleaning-varus",
+						"title": "For pipes",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "for-glass-surfaces-varus",
+						"title": "For glass surfaces",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "for-cleaning-carpets-and-furniture-varus",
+						"title": "For carpets and furniture",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "for-cleaning-floors-varus",
+						"title": "For floors",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "for-rust-removal-varus",
+						"title": "For rust removal",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					},
+					{
+						"id": "universal-cleaners-varus",
+						"title": "Universal",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4dbdf457d9d70aecedffee90c28ff243.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-varus"
+			},
+			{
+				"id": "air-fresheners-varus",
+				"title": "Air fresheners",
+				"count": 16,
+				"children": [
+					{
+						"id": "automatic-freshener-varus",
+						"title": "Automatic",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "air-fresheners-varus"
+					},
+					{
+						"id": "aerosol-gel-freshener-varus",
+						"title": "Aerosols and gels",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "air-fresheners-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.b21764b48db911015d051af277bbb366.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.a8611f414a504e1d9f4a1d38073e1f32.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "personal-hygiene-varus",
+		"title": "Personal hygiene",
+		"count": 107,
+		"children": [
+			{
+				"id": "tm-kotex",
+				"title": "Kotex TM ",
+				"count": 12,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b5764d631a4d604352a5b24fd17d18c6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			},
+			{
+				"id": "tm-arko",
+				"title": "Arko TM ",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.bf039da14c7c79665c07cc63dd0b3c07.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			},
+			{
+				"id": "tm-colgate",
+				"title": "Colgate TM",
+				"count": 13,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.19171b416e6246597649221b66a643fb.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			},
+			{
+				"id": "cotton-wool-products-varus",
+				"title": "Cotton wool products",
+				"count": 4,
+				"children": [
+					{
+						"id": "cotton-pads-varus",
+						"title": "Cotton pads",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cotton-wool-products-varus"
+					},
+					{
+						"id": "cotton-swabs-varus",
+						"title": "Cotton swabs",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cotton-wool-products-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f6695c9b409095e6f385cb75787692fe.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			},
+			{
+				"id": "for-mouth-varus",
+				"title": "For mouth care",
+				"count": 39,
+				"children": [
+					{
+						"id": "dental-floss-varus",
+						"title": "Dental floss",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-varus"
+					},
+					{
+						"id": "toothpaste-varus",
+						"title": "Toothpaste",
+						"count": 22,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-varus"
+					},
+					{
+						"id": "toothbrush-varus",
+						"title": "Toothbrush",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-varus"
+					},
+					{
+						"id": "mouthwash-varus",
+						"title": "Mouthwash",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.880ff50eb7d189b335ee1b2323b2723c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			},
+			{
+				"id": "for-shaving-and-hair-removal-varus",
+				"title": "Shaving products",
+				"count": 19,
+				"children": [
+					{
+						"id": "razors-and-razor-blades-varus",
+						"title": "Razors and blades",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shaving-and-hair-removal-varus"
+					},
+					{
+						"id": "for-shaving-varus",
+						"title": "Shaving and depilation products",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shaving-and-hair-removal-varus"
+					},
+					{
+						"id": "after-shaving-varus",
+						"title": "After shave",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shaving-and-hair-removal-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.522fe8882d4f5f7b83e4a77d0787299e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			},
+			{
+				"id": "for-intimate-hygiene-varus",
+				"title": "For intimate hygiene",
+				"count": 34,
+				"children": [
+					{
+						"id": "gel-intimate-hygiene-varus",
+						"title": "Gel for intimate hygiene",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-varus"
+					},
+					{
+						"id": "pads-varus",
+						"title": "Pads",
+						"count": 26,
+						"children": [
+							{
+								"id": "sanitary-pads-varus",
+								"title": "Sanitary pads",
+								"count": 17,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "pads-varus"
+							},
+							{
+								"id": "panty-liners-varus",
+								"title": "Panty liners",
+								"count": 10,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "pads-varus"
+							}
+						],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-varus"
+					},
+					{
+						"id": "tampons-varus",
+						"title": "Tampons",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ae8fab74e3905448527c2a3e1493b300.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			},
+			{
+				"id": "contraceptives-varus",
+				"title": "Contraceptives",
+				"count": 11,
+				"children": [
+					{
+						"id": "condoms-varus",
+						"title": "Condoms",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "contraceptives-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.0097d544d7cd709d882e5da8b3278065.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.38450efe861186703e4fe6dc96a8b3fb.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "cosmetics-and-care-varus",
+		"title": "Cosmetics and care",
+		"count": 167,
+		"children": [
+			{
+				"id": "tm-dove",
+				"title": "Dove TM ",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.3a68afcd5553ee026697a1b29c247d18.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "tm-garnier",
+				"title": "Garnier TM ",
+				"count": 12,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.70908302ba70e4614dae98ad8d734b6c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "tm-loreal-paris",
+				"title": "L'oreal Paris TM ",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ceac332652c8807cdb57ac128ec73bca.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "hair-accessories-varus",
+				"title": "Hair accessories",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.9adc9d1d2c94c21387f28bfbeaa3bc8b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "decorative-cosmetics-varus",
+				"title": "Decorative cosmetics",
+				"count": 1,
+				"children": [
+					{
+						"id": "hygienic-lipstick-varus",
+						"title": "Hygienic lipsticks",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decorative-cosmetics-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0d6c2399e0c120e3e45cd05c88a74eca.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "hair-care-varus",
+				"title": "Hair cosmetics",
+				"count": 51,
+				"children": [
+					{
+						"id": "for-hair-styling-varus",
+						"title": "For hair styling",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-varus"
+					},
+					{
+						"id": "shampoo-varus",
+						"title": "Shampoos",
+						"count": 31,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-varus"
+					},
+					{
+						"id": "balsam-for-hair-varus",
+						"title": "Balsams",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-varus"
+					},
+					{
+						"id": "hair-masks-varus",
+						"title": "Hair masks",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c591b3be1c41af4e3af2d588c59bf21c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "facial-cosmetics-varus",
+				"title": "Face cosmetics",
+				"count": 15,
+				"children": [
+					{
+						"id": "skin-cream-varus",
+						"title": "Skin cream",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-varus"
+					},
+					{
+						"id": "gel-foam-for-face-varus",
+						"title": "Milk, gel, foam",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-varus"
+					},
+					{
+						"id": "micellar-water-varus",
+						"title": "Micellar water, make up removers",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-varus"
+					},
+					{
+						"id": "scrubs-and-masks-varus",
+						"title": "Scrubs, masks",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.7cd91f0c432123130aa1854eeb1b7818.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "body-cosmetics-varus",
+				"title": "Body cosmetics",
+				"count": 99,
+				"children": [
+					{
+						"id": "shower-gel-varus",
+						"title": "Shower gels",
+						"count": 25,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-varus"
+					},
+					{
+						"id": "deodorant-varus",
+						"title": "Deodorants",
+						"count": 22,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-varus"
+					},
+					{
+						"id": "soap-varus",
+						"title": "Soap",
+						"count": 40,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-varus"
+					},
+					{
+						"id": "lotion-for-body-varus",
+						"title": "Body lotions, oils, scrubs",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-varus"
+					},
+					{
+						"id": "for-hands-varus",
+						"title": "Hand care",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-varus"
+					},
+					{
+						"id": "for-legs-varus",
+						"title": "Foot care",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-varus"
+					},
+					{
+						"id": "accessories-for-shower-varus",
+						"title": "Accessories for shower",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0a98e7fae0d43a4ecde9319812b0671e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			},
+			{
+				"id": "pharmaceuticals-varus",
+				"title": "Pharmaceuticals",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ab1445a258a504db0de7e6f42c4c06c2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3d38cb583ce25d433e5e0b309cd68345.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "household-goods-varus",
+		"title": "Household goods",
+		"count": 131,
+		"children": [
+			{
+				"id": "tm-zewa",
+				"title": "Zewa TM ",
+				"count": 7,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.30253c6c527d5d2f5f92727c9f341094.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-varus"
+			},
+			{
+				"id": "tm-melochi-zhyzni",
+				"title": "Melochi Zhyzni TM",
+				"count": 5,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.463565ca7bbfe2125c3d35d369f85ad3.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-varus"
+			},
+			{
+				"id": "disposable-tableware-varus",
+				"title": "Disposable tableware",
+				"count": 33,
+				"children": [
+					{
+						"id": "disposable-spoons-forks-varus",
+						"title": " forks, spoons, knives, mixers",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-varus"
+					},
+					{
+						"id": "disposable-tableware-set-varus",
+						"title": "Disposable tableware set",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-varus"
+					},
+					{
+						"id": "disposable-cups-varus",
+						"title": "Disposable cups",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-varus"
+					},
+					{
+						"id": "disposable-plates-varus",
+						"title": "Disposable plates",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-varus"
+					},
+					{
+						"id": "other-disposable-varus",
+						"title": "Other",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.196d651288fe0c5eed013195094e982c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-varus"
+			},
+			{
+				"id": "paper-goods-varus",
+				"title": "Paper goods",
+				"count": 56,
+				"children": [
+					{
+						"id": "paper-towels-varus",
+						"title": "Paper towels",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-varus"
+					},
+					{
+						"id": "wipes-in-box-varus",
+						"title": "Wipes in box",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-varus"
+					},
+					{
+						"id": "wet-wipes-varus",
+						"title": "Wet wipes",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-varus"
+					},
+					{
+						"id": "table-napkins-varus",
+						"title": "Table napkins",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-varus"
+					},
+					{
+						"id": "toilet-paper-varus",
+						"title": "Toilet paper",
+						"count": 27,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-varus"
+					},
+					{
+						"id": "paper-handkerchiefs-varus",
+						"title": "Paper handkerchiefs",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.4bfdf209b3fe3d6f3cdea2f944745f72.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "household-goods-varus"
+			},
+			{
+				"id": "kitchen-accessories-varus",
+				"title": "Kitchen accessories",
+				"count": 40,
+				"children": [
+					{
+						"id": "household-sponges-varus",
+						"title": "Household sponges",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					},
+					{
+						"id": "food-packages-varus",
+						"title": "Food packages",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					},
+					{
+						"id": "garbage-bags-varus",
+						"title": "Garbage bags",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					},
+					{
+						"id": "foil-and-baking-paper-varus",
+						"title": "Foil and baking paper",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					},
+					{
+						"id": "gloves-for-cleaning-varus",
+						"title": "Gloves for cleaning",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					},
+					{
+						"id": "cleaning-napkins-varus",
+						"title": "Cleaning napkins",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					},
+					{
+						"id": "food-film-varus",
+						"title": "Food film",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					},
+					{
+						"id": "scrapers-varus",
+						"title": "Scrapers",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.106e869f21fe5197ec8cdde31b061dd8.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-varus"
+			},
+			{
+				"id": "clothing-care-varus",
+				"title": "Clothing care, cases for things",
+				"count": 2,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.2dcfd2cfb817097dfecc75978a92512d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.d243b8800cdb1a45031051b6fe99ae04.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "kitchenware-varus",
+		"title": "Kitchenware",
+		"count": 16,
+		"children": [
+			{
+				"id": "tm-willinger",
+				"title": "Willinger TM",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.a897eb7d1d7d7109ca9dc5d298d1e609.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-varus"
+			},
+			{
+				"id": "glasses-jugs-varus",
+				"title": "Glasses, pitchers, jugs, decanters",
+				"count": 2,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.464fefb8cf9e035f9cca82a9c0923965.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-varus"
+			},
+			{
+				"id": "cooking-utensils-varus",
+				"title": "Cooking utensils",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.38d6a339d4dc55f05e5c9c2bb470cbb0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-varus"
+			},
+			{
+				"id": "all-for-food-preservation-varus",
+				"title": "All for food preservation",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.9e27206c3a2eae04f1955482178ce4ee.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-varus"
+			},
+			{
+				"id": "knives-varus",
+				"title": "Knives",
+				"count": 5,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.83dbba7f80896a93d74d94954d5ff39d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4aaac910d0b67167ffd2e77d4cf30fab.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "hobby-and-rest-varus",
+		"title": "Hobby and rest",
+		"count": 4,
+		"children": [
+			{
+				"id": "for-sport-varus",
+				"title": "Sports goods",
+				"count": 3,
+				"children": [
+					{
+						"id": "tourism-and-camping-varus",
+						"title": "Tourism and camping",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-sport-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ca47048690345d20d390f6412866a460.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "hobby-and-rest-varus"
+			},
+			{
+				"id": "garden-varus",
+				"title": "Garden",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.67061e0611d4d475025a4db21f42603a.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "hobby-and-rest-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.bcdeb7f38b7adb0ee9fdd13405b93241.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "interior-and-textiles-varus",
+		"title": "Interior and textiles",
+		"count": 42,
+		"children": [
+			{
+				"id": "tm-pomichnytsya",
+				"title": "Pomichnytsya TM",
+				"count": 12,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.68a5e94c37f88d6a949200309a91e50e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "interior-and-textiles-varus"
+			},
+			{
+				"id": "decor-and-design-varus",
+				"title": "Decor and design",
+				"count": 42,
+				"children": [
+					{
+						"id": "accessories-for-parties-varus",
+						"title": "Accessories for parties",
+						"count": 39,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decor-and-design-varus"
+					},
+					{
+						"id": "gift-package-varus",
+						"title": "Gift package",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decor-and-design-varus"
+					},
+					{
+						"id": "statuettes-varus",
+						"title": "Statuettes",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decor-and-design-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.2631a3c745d5e97f909bddb8e5178e58.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "interior-and-textiles-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.1b0cf322b48a8a3a3978bd81c0f9a668.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "for-animals-varus",
+		"title": "Pets",
+		"count": 158,
+		"children": [
+			{
+				"id": "tm-gourmet",
+				"title": "Gourmet TM ",
+				"count": 18,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.aedf254fc73d2b26ba8a1c9e2b61e65e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			},
+			{
+				"id": "tm-topsi",
+				"title": "Topsi TM ",
+				"count": 4,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.77d867d5c3e78b123e587450bf4f57fd.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			},
+			{
+				"id": "tm-club-4-paws",
+				"title": "Club 4 Paws TM",
+				"count": 18,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.8033176ee6aceec27beaec298631ac27.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			},
+			{
+				"id": "accessories-animals-varus",
+				"title": "Animal accessories",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.df9128c8b486953c6780571de1249cfc.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			},
+			{
+				"id": "pets-litter-varus",
+				"title": "Toilet litter for pets",
+				"count": 11,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.2ff7a13533d833c3d78bfbfabe62a779.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			},
+			{
+				"id": "cat-food-varus",
+				"title": "Cat food",
+				"count": 110,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.b092f0bce0c9c39c30958b2bbd72e204.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			},
+			{
+				"id": "dog-food-varus",
+				"title": "Dog food",
+				"count": 26,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.867b6b312b02348d5cc56413354ccffb.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			},
+			{
+				"id": "feed-for-birds-fish-other-varus",
+				"title": "Feed for birds fish other pets",
+				"count": 13,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.da768185df5d4cd386b9a492269e30d1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0054314dd4d6898a09ba4804001af1fc.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "clothes-and-shoes-varus",
+		"title": "Clothes and shoes",
+		"count": 11,
+		"children": [
+			{
+				"id": "socks-and-tights-varus",
+				"title": "Socks and tight",
+				"count": 11,
+				"children": [
+					{
+						"id": "socks-varus",
+						"title": "Socks",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "socks-and-tights-varus"
+					},
+					{
+						"id": "tights-varus",
+						"title": "Tights",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "socks-and-tights-varus"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.8c595e9e10d8b9658d01ca7462bb017d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "clothes-and-shoes-varus"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.969a584a06948c0ac0eddf01f2efb5e6.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	}
+]

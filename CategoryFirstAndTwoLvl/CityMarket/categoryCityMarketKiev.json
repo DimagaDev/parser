@@ -1,0 +1,5341 @@
+[
+	{
+		"id": "bakery-citymarket",
+		"title": "Bakery",
+		"count": 150,
+		"children": [
+			{
+				"id": "own-bakery-citymarket",
+				"title": "Own bakery",
+				"count": 45,
+				"children": [
+					{
+						"id": "own-bread-and-bakery-products-citymarket",
+						"title": "Bread and bakery products",
+						"count": 39,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-bakery-citymarket"
+					},
+					{
+						"id": "own-buns-citymarket",
+						"title": "Buns",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-bakery-citymarket"
+					},
+					{
+						"id": "own-pies-citymarket",
+						"title": "Pies",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-bakery-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ce6c73c44c224efe815bc1aeee36a31f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-citymarket"
+			},
+			{
+				"id": "bread-citymarket",
+				"title": "Bread",
+				"count": 70,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.19ee7cd62ec0f8653a11bfc727f7fd61.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-citymarket"
+			},
+			{
+				"id": "bagels-citymarket",
+				"title": "Bagels",
+				"count": 20,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.873e586bc2bd1549aded64893f0c6bca.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-citymarket"
+			},
+			{
+				"id": "lavash-citymarket",
+				"title": "Lavash",
+				"count": 15,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.289c2a8488eb0bb56bfe44afee1e8171.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "bakery-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.42885c4bcd66bd59e9f51072faafa668.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "fruits-and-vegetables-citymarket",
+		"title": "Fruits and vegetables",
+		"count": 135,
+		"children": [
+			{
+				"id": "fruits-citymarket",
+				"title": "Fruits",
+				"count": 36,
+				"children": [
+					{
+						"id": "bananas-citymarket",
+						"title": "Bananas",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-citymarket"
+					},
+					{
+						"id": "grapes-citymarket",
+						"title": "Grapes",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-citymarket"
+					},
+					{
+						"id": "pears-citymarket",
+						"title": "Pears",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-citymarket"
+					},
+					{
+						"id": "pomegranate-citymarket",
+						"title": "Pomegranate",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-citymarket"
+					},
+					{
+						"id": "exotic-and-tropical-fruits-citymarket",
+						"title": "Exotic and tropical fruits",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-citymarket"
+					},
+					{
+						"id": "citrus-citymarket",
+						"title": "Citrus",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-citymarket"
+					},
+					{
+						"id": "apples-citymarket",
+						"title": "Apples",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fruits-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.7dca824d2179d2b739820e234bd85142.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-citymarket"
+			},
+			{
+				"id": "vegetables-citymarket",
+				"title": "Vegetables",
+				"count": 53,
+				"children": [
+					{
+						"id": "potato-citymarket",
+						"title": "Potato",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "fresh-cabbage-citymarket",
+						"title": "Cabbage",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "cucumbers-citymarket",
+						"title": "Cucumbers",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "tomatoes-citymarket",
+						"title": "Tomatoes",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "eggplant-and-pepper-citymarket",
+						"title": "Eggplant and pepper",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "carrot-citymarket",
+						"title": "Carrot",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "beet-citymarket",
+						"title": "Beet",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "celery-citymarket",
+						"title": "Celery",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "onion-and-garlic-citymarket",
+						"title": "Onion and garlic",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					},
+					{
+						"id": "fresh-ginger-citymarket",
+						"title": "Ginger",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "vegetables-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f030331e23ed3216ee58995ea6c61a83.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-citymarket"
+			},
+			{
+				"id": "berries-citymarket",
+				"title": "Berries",
+				"count": 5,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ef791b4d17500f2e2aa0c26ac9ccbc8a.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-citymarket"
+			},
+			{
+				"id": "mushrooms-citymarket",
+				"title": "Mushrooms",
+				"count": 9,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0b33fe9575f8054d9f214460f29fa345.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-citymarket"
+			},
+			{
+				"id": "fresh-greens-citymarket",
+				"title": "Fresh greens",
+				"count": 33,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.07afa74e16ad69d38e70c01d5c7fd87f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "fruits-and-vegetables-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.57f90016aa36327f3271cfa6888d34df.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "dairy-and-eggs-citymarket",
+		"title": "Dairy and eggs",
+		"count": 1041,
+		"children": [
+			{
+				"id": "cream-citymarket",
+				"title": "Cream",
+				"count": 24,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.2b4d713aef724e5fe4c7dd18bd41b9e6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "condensed-milk-citymarket",
+				"title": "Condensed milk",
+				"count": 26,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.890aec12d417fc206499815c6a137da1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "sour-cream-citymarket",
+				"title": "Sour cream",
+				"count": 36,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.44268755a4659160ebb584345953b1d2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "yogurt-citymarket",
+				"title": "Yogurt",
+				"count": 169,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0abd95289c2a9edbdc54211c51d7ec13.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "dairy-dessert-citymarket",
+				"title": "Dairy dessert",
+				"count": 93,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4150829b6178951876a16d8cb9dd031d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "sour-milk-drinks-citymarket",
+				"title": "Sour-milk drinks",
+				"count": 90,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.88f1892b0bef43d65318a7292c7363b9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "butter-and-margarine-citymarket",
+				"title": "Butter and margarine",
+				"count": 41,
+				"children": [
+					{
+						"id": "sweet-butter-citymarket",
+						"title": "Butter",
+						"count": 34,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "butter-and-margarine-citymarket"
+					},
+					{
+						"id": "margarine-citymarket",
+						"title": "Margarine",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "butter-and-margarine-citymarket"
+					},
+					{
+						"id": "spread-citymarket",
+						"title": "Spread",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "butter-and-margarine-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.be622faa1ea4c4d8f43f528eb6bbf9d9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "milk-citymarket",
+				"title": "Milk",
+				"count": 87,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.5eb3c963a0ff9d230687bfcba4cf7ae5.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "curd-citymarket",
+				"title": "Curd",
+				"count": 63,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3482956380c8f6e259365148e5090c04.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "glazed-curds-citymarket",
+				"title": "Glazed curds",
+				"count": 29,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.950f6fa9ac5182e5ea2712f5203e2b66.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "eggs-citymarket",
+				"title": "Eggs",
+				"count": 21,
+				"children": [
+					{
+						"id": "chicken-eggs-citymarket",
+						"title": "Chicken eggs",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "eggs-citymarket"
+					},
+					{
+						"id": "other-eggs-citymarket",
+						"title": "Other eggs",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "eggs-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.4b0792b844a905a83bb217937c43b777.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "cheeses-citymarket",
+				"title": "Cheeses",
+				"count": 346,
+				"children": [
+					{
+						"id": "cheese-appetizer-citymarket",
+						"title": "Cheese appetizer",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-citymarket"
+					},
+					{
+						"id": "soft-cheese-citymarket",
+						"title": "Soft cheese",
+						"count": 85,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-citymarket"
+					},
+					{
+						"id": "process-cheese-citymarket",
+						"title": "Process cheese",
+						"count": 48,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-citymarket"
+					},
+					{
+						"id": "pickled-cheese-citymarket",
+						"title": "Pickled cheese",
+						"count": 30,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-citymarket"
+					},
+					{
+						"id": "hard-cheese-citymarket",
+						"title": "Hard cheese",
+						"count": 163,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-citymarket"
+					},
+					{
+						"id": "cream-cheese-citymarket",
+						"title": "Cream-cheese",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cheeses-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.c8aaa7967444326871c7bad22cc1d32d.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			},
+			{
+				"id": "dairy-free-food-and-drinks-citymarket",
+				"title": "Dairy-free products",
+				"count": 49,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c6464bd0bf4e520e674b3ef4b70917ed.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "dairy-and-eggs-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.d8da24aa2867b8d4fd7a3c29a7f1af10.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "meat-fish-poultry-citymarket",
+		"title": "Meat, fish, poultry",
+		"count": 653,
+		"children": [
+			{
+				"id": "fresh-meat-citymarket",
+				"title": "Fresh meat",
+				"count": 73,
+				"children": [
+					{
+						"id": "turkey-citymarket",
+						"title": "Turkey",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-citymarket"
+					},
+					{
+						"id": "chicken-citymarket",
+						"title": "Chicken",
+						"count": 21,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-citymarket"
+					},
+					{
+						"id": "half-finished-meat-citymarket",
+						"title": "Half finished meat",
+						"count": 15,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-citymarket"
+					},
+					{
+						"id": "pork-citymarket",
+						"title": "Pork",
+						"count": 23,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-citymarket"
+					},
+					{
+						"id": "beef-citymarket",
+						"title": "Beef",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "fresh-meat-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.86523ca2cfe84b2e4ac4e78d8c1072e5.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-citymarket"
+			},
+			{
+				"id": "fresh-fish-citymarket",
+				"title": "Fresh fish",
+				"count": 11,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.12f3fab41e3f2308521522957bb1ed25.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-citymarket"
+			},
+			{
+				"id": "sausages-citymarket",
+				"title": "Sausages",
+				"count": 225,
+				"children": [
+					{
+						"id": "smoked-sausage-citymarket",
+						"title": "Smoked sausage",
+						"count": 115,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-citymarket"
+					},
+					{
+						"id": "boiled-sausage-citymarket",
+						"title": "Boiled sausage",
+						"count": 34,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-citymarket"
+					},
+					{
+						"id": "vienna-sausage-citymarket",
+						"title": "Vienna sausage",
+						"count": 56,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-citymarket"
+					},
+					{
+						"id": "bockwurst-sausage-citymarket",
+						"title": "Bockwurst sausage",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-citymarket"
+					},
+					{
+						"id": "other-sausages-citymarket",
+						"title": "Other sausages",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sausages-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b41284f5df09530b6c5aaf99c6e932d9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-citymarket"
+			},
+			{
+				"id": "delicatessen-citymarket",
+				"title": "Meat products",
+				"count": 133,
+				"children": [
+					{
+						"id": "poultry-delicatessen-citymarket",
+						"title": "Poultry delicatessen",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "delicatessen-citymarket"
+					},
+					{
+						"id": "meat-delicatessen-citymarket",
+						"title": "Meat delicatessen",
+						"count": 78,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "delicatessen-citymarket"
+					},
+					{
+						"id": "meat-pate-citymarket",
+						"title": "Meat pate, mousses",
+						"count": 53,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "delicatessen-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f44479ba7175723c86d14bad8189959e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-citymarket"
+			},
+			{
+				"id": "prepared-fish-citymarket",
+				"title": "Prepared fish",
+				"count": 103,
+				"children": [
+					{
+						"id": "marinated-fish-citymarket",
+						"title": "Marinated fish",
+						"count": 38,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-citymarket"
+					},
+					{
+						"id": "fish-snacks-citymarket",
+						"title": "Fish snacks ",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-citymarket"
+					},
+					{
+						"id": "dried-fish-citymarket",
+						"title": "Dried fish products",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-citymarket"
+					},
+					{
+						"id": "hot-smoked-fish-citymarket",
+						"title": "Hot smoked fish",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-citymarket"
+					},
+					{
+						"id": "cold-smoked-fish-citymarket",
+						"title": "Cold smoked fish",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-citymarket"
+					},
+					{
+						"id": "low-salted-fish-citymarket",
+						"title": "Low salted-fish",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "prepared-fish-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.26c744ea076347312eed787b6aa21405.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-citymarket"
+			},
+			{
+				"id": "seafood-citymarket",
+				"title": "Seafood",
+				"count": 49,
+				"children": [
+					{
+						"id": "fresh-seafood-citymarket",
+						"title": "Fresh seafood",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "seafood-citymarket"
+					},
+					{
+						"id": "marinaded-seafoods-citymarket",
+						"title": "Marinaded seafood",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "seafood-citymarket"
+					},
+					{
+						"id": "smoked-seafood-citymarket",
+						"title": "Smoked seafood",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "seafood-citymarket"
+					},
+					{
+						"id": "chilled-crab-sticks-citymarket",
+						"title": "Crab sticks",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "seafood-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.48d0e243402928e66a0ed4075728b3bb.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-citymarket"
+			},
+			{
+				"id": "caviar-citymarket",
+				"title": "Caviar",
+				"count": 59,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.5ed5c36bcfe441e71b747b6f28d644a3.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "meat-fish-poultry-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.fd8b0053eda491bcdb436b2e224ced19.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "ready-meals-citymarket",
+		"title": "Ready meals",
+		"count": 110,
+		"children": [
+			{
+				"id": "main-dishes-citymarket",
+				"title": "Main dishes",
+				"count": 80,
+				"children": [
+					{
+						"id": "fish-dishes-citymarket",
+						"title": "Fish dishes",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-citymarket"
+					},
+					{
+						"id": "meat-dishes-citymarket",
+						"title": "Meat dishes",
+						"count": 33,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-citymarket"
+					},
+					{
+						"id": "vegetable-side-dishes-citymarket",
+						"title": "Vegetable and side dishes",
+						"count": 30,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-citymarket"
+					},
+					{
+						"id": "flour-products-citymarket",
+						"title": "Flour products",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "main-dishes-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.4e6c8d87df03e872830e309558e7e6cc.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-citymarket"
+			},
+			{
+				"id": "salads-citymarket",
+				"title": "Salads",
+				"count": 23,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f03f9e40bd82b7b9512543842beb51c6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-citymarket"
+			},
+			{
+				"id": "cheesecake-and-desserts-citymarket",
+				"title": "Cottage cheese desserts",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.606909f6b1b929c1a1b16a77e7223f36.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-citymarket"
+			},
+			{
+				"id": "pickles-citymarket",
+				"title": "Pickles",
+				"count": 5,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.51f9c48276dd4beaeffce830faacf20a.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-citymarket"
+			},
+			{
+				"id": "own-drinks-citymarket",
+				"title": "Drinks",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.884e0f825735556e8121259f2c0c303b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "ready-meals-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.973c6ee632270fdaa05224303404597b.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "frozen-citymarket",
+		"title": "Frozen",
+		"count": 451,
+		"children": [
+			{
+				"id": "frozen-fish-citymarket",
+				"title": "Fish",
+				"count": 25,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d7f646110b34f3dbde285b041a8ea86f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-citymarket"
+			},
+			{
+				"id": "frozen-seafood-citymarket",
+				"title": "Seafood",
+				"count": 46,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0102d3a61af236f91b64d7b0f48cd891.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-citymarket"
+			},
+			{
+				"id": "frozen-vegetables-and-fruits-citymarket",
+				"title": "Vegetables and fruits",
+				"count": 72,
+				"children": [
+					{
+						"id": "frozen-mushrooms-citymarket",
+						"title": "Mushrooms",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "frozen-vegetables-and-fruits-citymarket"
+					},
+					{
+						"id": "frozen-vegetables-citymarket",
+						"title": "Vegetables",
+						"count": 55,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "frozen-vegetables-and-fruits-citymarket"
+					},
+					{
+						"id": "frozen-fruits-citymarket",
+						"title": "Fruits",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "frozen-vegetables-and-fruits-citymarket"
+					},
+					{
+						"id": "frozen-berries-citymarket",
+						"title": "Berries",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "frozen-vegetables-and-fruits-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.39203d2d9340cd61a6ef99428dd6d973.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-citymarket"
+			},
+			{
+				"id": "icecream-citymarket",
+				"title": "Icecream",
+				"count": 139,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.0f476bdb7321ae2330f097f32dd8df98.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-citymarket"
+			},
+			{
+				"id": "half-made-food-citymarket",
+				"title": "Ready meals",
+				"count": 164,
+				"children": [
+					{
+						"id": "vareniki-citymarket",
+						"title": "Vareniki",
+						"count": 32,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "cabbage-rolls-chebureks-citymarket",
+						"title": "Cabbage rolls chebureks",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "frozen-crab-sticks-citymarket",
+						"title": "Crab sticks",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "frozen-pancakes-citymarket",
+						"title": "Pancakes, benderiki",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "meat-dumplings-citymarket",
+						"title": "Meat dumplings",
+						"count": 60,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "frozen-pizza-citymarket",
+						"title": "Pizza",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "frozen-fish-sticks-citymarket",
+						"title": "Fish sticks, burgers",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "frozen-dough-citymarket",
+						"title": "Dough",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					},
+					{
+						"id": "frozen-bakery-citymarket",
+						"title": "Semi-finished bakery products ",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "half-made-food-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.8081c14cf6a6f77fb37cf570daddd3e5.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-citymarket"
+			},
+			{
+				"id": "mince-for-animals-citymarket",
+				"title": "Mince for animals",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.8eecc8bd66ba64fe41c1ec83b39f52f2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-citymarket"
+			},
+			{
+				"id": "chilled-dough-citymarket",
+				"title": "Chilled semi-finished products",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f96307bb65e4571d978e5743ab087902.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "frozen-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.dc05c0a2b8f5d05151e58ee765e8af69.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "grocery-citymarket",
+		"title": "Grocery",
+		"count": 1845,
+		"children": [
+			{
+				"id": "flour-citymarket",
+				"title": "Flour",
+				"count": 37,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f4ecacf03960980fe5bef91feb9645ef.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "pulses-and-grain-citymarket",
+				"title": "Pulses and grain",
+				"count": 135,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.2c20c495af3aed54d31a2b2b435410ba.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "pasta-citymarket",
+				"title": "Pasta",
+				"count": 129,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.c533595fba8e1d9c41682e12b3a001a0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "oil-and-vinegar-citymarket",
+				"title": "Oil and vinegar",
+				"count": 131,
+				"children": [
+					{
+						"id": "oil-citymarket",
+						"title": "Oil",
+						"count": 101,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oil-and-vinegar-citymarket"
+					},
+					{
+						"id": "vinegar-citymarket",
+						"title": "Vinegar",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oil-and-vinegar-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.6a9aeda1d213eda8bdb232eeaf00a468.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "sugar-citymarket",
+				"title": "Sugar",
+				"count": 20,
+				"children": [
+					{
+						"id": "sugar-1-citymarket",
+						"title": "Granulated sugar",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sugar-citymarket"
+					},
+					{
+						"id": "pressed-sugar-citymarket",
+						"title": "Pressed sugar",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sugar-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f1a86c9255aed8ef8b6afa1d28adecb0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "breakfast-cereals-and-porridge-citymarket",
+				"title": "Breakfast cereals and porridge",
+				"count": 146,
+				"children": [
+					{
+						"id": "porridge-citymarket",
+						"title": "Porridge",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "breakfast-cereals-and-porridge-citymarket"
+					},
+					{
+						"id": "muesli-citymarket",
+						"title": "Muesli",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "breakfast-cereals-and-porridge-citymarket"
+					},
+					{
+						"id": "breakfast-cereals-citymarket",
+						"title": "Breakfast cereals and flakes",
+						"count": 115,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "breakfast-cereals-and-porridge-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f47cf176f036681d594cdb6b7901dcd2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "salt-citymarket",
+				"title": "Salt",
+				"count": 40,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3f866a9b89eab2ebd0813836f835ee08.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "nuts-and-dried-fruits-citymarket",
+				"title": "Nuts and dried fruits",
+				"count": 136,
+				"children": [
+					{
+						"id": "bulk-nuts-and-dried-fruits-citymarket",
+						"title": "Bulk",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "nuts-and-dried-fruits-citymarket"
+					},
+					{
+						"id": "packed-nuts-and-dried-fruits-citymarket",
+						"title": "Packed",
+						"count": 134,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "nuts-and-dried-fruits-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.1aeb08ec0a3bbdd1a7e735983f2872e1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "instant-food-citymarket",
+				"title": "Instant food",
+				"count": 41,
+				"children": [
+					{
+						"id": "instant-noodles-and-mash-citymarket",
+						"title": "Instant noodles and mash",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "instant-food-citymarket"
+					},
+					{
+						"id": "instant-soup-citymarket",
+						"title": "Instant soup",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "instant-food-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.91a2b848aa5515933d5b2b2e8d17a37b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "canned-food-citymarket",
+				"title": "Canned food",
+				"count": 338,
+				"children": [
+					{
+						"id": "canned-mushrooms-citymarket",
+						"title": "Mushrooms",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-citymarket"
+					},
+					{
+						"id": "canned-meat-citymarket",
+						"title": "Meat",
+						"count": 22,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-citymarket"
+					},
+					{
+						"id": "canned-vegetables-citymarket",
+						"title": "Vegetables",
+						"count": 121,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-citymarket"
+					},
+					{
+						"id": "olives-citymarket",
+						"title": "Olives",
+						"count": 66,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-citymarket"
+					},
+					{
+						"id": "canned-fish-citymarket",
+						"title": "Fish and seafood",
+						"count": 90,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-citymarket"
+					},
+					{
+						"id": "salads-and-pickles-citymarket",
+						"title": "Salads and pickles",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-citymarket"
+					},
+					{
+						"id": "hummus-citymarket",
+						"title": "Hummus",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "canned-food-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.e25976bec6a18ddf6df4648f3c66e6c9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "sauces-citymarket",
+				"title": "Sauces",
+				"count": 321,
+				"children": [
+					{
+						"id": "mustard-and-horseradish-citymarket",
+						"title": "Mustard and horseradish",
+						"count": 40,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-citymarket"
+					},
+					{
+						"id": "flavoring-and-marinade-citymarket",
+						"title": "Filling and marinades",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-citymarket"
+					},
+					{
+						"id": "ketchup-citymarket",
+						"title": "Ketchup",
+						"count": 35,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-citymarket"
+					},
+					{
+						"id": "mayonnese-citymarket",
+						"title": "Mayonnese",
+						"count": 54,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-citymarket"
+					},
+					{
+						"id": "sauce-citymarket",
+						"title": "Sauces",
+						"count": 150,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-citymarket"
+					},
+					{
+						"id": "tomato-sauce-citymarket",
+						"title": "Tomato paste, sauce",
+						"count": 30,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sauces-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.d065bcdb4e584e09760ad9be22626d60.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "herbs-and-spices-citymarket",
+				"title": "Herbs and spices",
+				"count": 188,
+				"children": [
+					{
+						"id": "packed-spices-citymarket",
+						"title": "Packed",
+						"count": 187,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "herbs-and-spices-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.670766afc43dabe110e2ce73319ce489.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "sweet-preservation-citymarket",
+				"title": "Sweet preservation",
+				"count": 90,
+				"children": [
+					{
+						"id": "jam-citymarket",
+						"title": "Jams",
+						"count": 41,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-citymarket"
+					},
+					{
+						"id": "chocolate-paste-citymarket",
+						"title": "Cream and paste",
+						"count": 20,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-citymarket"
+					},
+					{
+						"id": "honey-citymarket",
+						"title": "Honey",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-citymarket"
+					},
+					{
+						"id": "topping-citymarket",
+						"title": "Topping",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-citymarket"
+					},
+					{
+						"id": "canned-fruits-citymarket",
+						"title": "Canned fruits",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "sweet-preservation-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.715375e736164be157a5e347c8129cbe.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "baking-soda-and-starch-citymarket",
+				"title": "Soda and starch",
+				"count": 7,
+				"children": [
+					{
+						"id": "baking-soda-citymarket",
+						"title": "Baking soda",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baking-soda-and-starch-citymarket"
+					},
+					{
+						"id": "starch-citymarket",
+						"title": "Starch",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baking-soda-and-starch-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.2eb0810717714a22e467732255988c00.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "home-baking-citymarket",
+				"title": "Home baking",
+				"count": 75,
+				"children": [
+					{
+						"id": "vanillin-citymarket",
+						"title": "Vanillin",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					},
+					{
+						"id": "baking-mix-citymarket",
+						"title": "Baking mix",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					},
+					{
+						"id": "yeast-citymarket",
+						"title": "Yeast",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					},
+					{
+						"id": "gelatin-citymarket",
+						"title": "Gelatin",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					},
+					{
+						"id": "jelly-citymarket",
+						"title": "Jelly",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					},
+					{
+						"id": "lemon-acid-citymarket",
+						"title": "Lemon acid",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					},
+					{
+						"id": "leaven-citymarket",
+						"title": "Leaven",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					},
+					{
+						"id": "breadcrumbs-citymarket",
+						"title": "Bread crumbs",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "home-baking-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0ee0d58655ce136deb9417d4526b17e0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "organic-products-citymarket",
+				"title": "Organic products",
+				"count": 24,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.dfa9242743eba62d27fd35cfa8c41a41.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			},
+			{
+				"id": "for-sushi-citymarket",
+				"title": "All for sushi",
+				"count": 26,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f978d83ecb0e24a4aa1b94a0f002e9ad.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "grocery-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.a80959586ea0daafdd081c724715889a.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "snacks-and-sweets-citymarket",
+		"title": "Snacks and sweets",
+		"count": 1450,
+		"children": [
+			{
+				"id": "own-confectionery-citymarket",
+				"title": "Own confectionery",
+				"count": 33,
+				"children": [
+					{
+						"id": "own-cakes-citymarket",
+						"title": "Cakes",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-confectionery-citymarket"
+					},
+					{
+						"id": "own-layer-cakes-citymarket",
+						"title": "Layer cakes",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-confectionery-citymarket"
+					},
+					{
+						"id": "own-cookies-citymarket",
+						"title": "Cookies",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-confectionery-citymarket"
+					},
+					{
+						"id": "own-tart-citymarket",
+						"title": "Pies",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-confectionery-citymarket"
+					},
+					{
+						"id": "own-muffins-citymarket",
+						"title": "Muffins and cupcakes",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "own-confectionery-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d8171b23b1c10fa2519c20f7903de9ad.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "candy-citymarket",
+				"title": "Candy",
+				"count": 312,
+				"children": [
+					{
+						"id": "bulk-candy-citymarket",
+						"title": "Bulk",
+						"count": 116,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "candy-citymarket"
+					},
+					{
+						"id": "candy-in-box-citymarket",
+						"title": "In the boxes",
+						"count": 83,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "candy-citymarket"
+					},
+					{
+						"id": "packed-candy-citymarket",
+						"title": "Packed",
+						"count": 115,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "candy-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ffd3db3d305db4646a1ae1d27cb365df.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "chocolate-citymarket",
+				"title": "Chocolate",
+				"count": 131,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.8fa1b4ec91533bdb4b1a2545fe68ee29.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "bars-citymarket",
+				"title": "Bars",
+				"count": 70,
+				"children": [
+					{
+						"id": "cereal-bars-citymarket",
+						"title": "Cereal bars",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "bars-citymarket"
+					},
+					{
+						"id": "chocolate-bars-citymarket",
+						"title": "Chocolate bars",
+						"count": 53,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "bars-citymarket"
+					},
+					{
+						"id": "chocolate-figures-citymarket",
+						"title": "Chocolate figures, eggs",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "bars-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.08286c382e8bc3e3211dc28fa334c645.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "gum-citymarket",
+				"title": "Gum",
+				"count": 15,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.d9f7ad554adb521f128b1db6144c204f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "confectionery-citymarket",
+				"title": "Confectionery",
+				"count": 461,
+				"children": [
+					{
+						"id": "waffle-citymarket",
+						"title": "Wafer cakes and waffles",
+						"count": 46,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "dragee-citymarket",
+						"title": "Dragee and caramel",
+						"count": 36,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "cakes-and-biscuits-citymarket",
+						"title": "Muffins, rolls, biscuits",
+						"count": 26,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "cracker-citymarket",
+						"title": "Cracker",
+						"count": 22,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "blind-baking-tartlets-citymarket",
+						"title": "Cakes, tartlets",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "croisant-citymarket",
+						"title": "Croisants",
+						"count": 25,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "corn-curls-cotton-candy-citymarket",
+						"title": "Corn sticks, cotton candy",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "cookies-citymarket",
+						"title": "Cookies",
+						"count": 244,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "gingerbread-citymarket",
+						"title": "Gingerbread",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					},
+					{
+						"id": "dried-crust-and-rolls-citymarket",
+						"title": "Dried,crusts, straws ",
+						"count": 39,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "confectionery-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.7afcf9f6da0ad3b6196e361911b3986b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "oriental-sweets-citymarket",
+				"title": "Oriental sweets",
+				"count": 53,
+				"children": [
+					{
+						"id": "marshmallow-citymarket",
+						"title": "Marshmallow",
+						"count": 15,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-citymarket"
+					},
+					{
+						"id": "honey-bar-and-nut-brittle-citymarket",
+						"title": "Nut brittle, grilyazh",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-citymarket"
+					},
+					{
+						"id": "fruit-jelly-citymarket",
+						"title": "Marmalade",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-citymarket"
+					},
+					{
+						"id": "baklava-citymarket",
+						"title": "Baklava",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-citymarket"
+					},
+					{
+						"id": "rahat-lakoum-citymarket",
+						"title": "Rahat lakoum",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-citymarket"
+					},
+					{
+						"id": "halva-citymarket",
+						"title": "Halva",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "oriental-sweets-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.222d44f29a6f9735982206c2aa89274d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "pastries-and-cakes-citymarket",
+				"title": "Pastries and cakes",
+				"count": 60,
+				"children": [
+					{
+						"id": "layer-cake-citymarket",
+						"title": "Cakes",
+						"count": 32,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "pastries-and-cakes-citymarket"
+					},
+					{
+						"id": "cakes-citymarket",
+						"title": "Pastries",
+						"count": 28,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "pastries-and-cakes-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.96afa2754a90185f43772e0ba824468c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "snacks-citymarket",
+				"title": "Chips, snacks",
+				"count": 220,
+				"children": [
+					{
+						"id": "popcorn-citymarket",
+						"title": "Popcorn",
+						"count": 21,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-citymarket"
+					},
+					{
+						"id": "packed-fish-snacks-citymarket",
+						"title": "Fish snacks",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-citymarket"
+					},
+					{
+						"id": "other-snacks-citymarket",
+						"title": "Snacks",
+						"count": 43,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-citymarket"
+					},
+					{
+						"id": "salted-nuts-citymarket",
+						"title": "Salted nuts",
+						"count": 31,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-citymarket"
+					},
+					{
+						"id": "saltine-rusks-citymarket",
+						"title": "Saltine rusks",
+						"count": 34,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-citymarket"
+					},
+					{
+						"id": "chips-citymarket",
+						"title": "Chips",
+						"count": 83,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "snacks-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.3bfaf0f17e70f1544f94ad5970612e40.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "seeds-citymarket",
+				"title": "Seeds",
+				"count": 22,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.019c7d97883e1bd0b6a8c54d67e85710.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			},
+			{
+				"id": "diet-and-diabetic-foods-citymarket",
+				"title": "Diet and diabetic foods",
+				"count": 135,
+				"children": [
+					{
+						"id": "diabetic-confectionery-citymarket",
+						"title": "Diabetic confectionery",
+						"count": 33,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-citymarket"
+					},
+					{
+						"id": "dietary-eating-citymarket",
+						"title": "Dietary eating",
+						"count": 48,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-citymarket"
+					},
+					{
+						"id": "cellulose-citymarket",
+						"title": "Cellulose",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-citymarket"
+					},
+					{
+						"id": "crisp-bread-citymarket",
+						"title": "Crisp bread",
+						"count": 45,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-citymarket"
+					},
+					{
+						"id": "sweeteners-citymarket",
+						"title": "Sweeteners",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "diet-and-diabetic-foods-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d2d6eef4447ee2c90f70e66cf056f485.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "snacks-and-sweets-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ad5ef75196df94e96bae65b5a58fa7ee.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "drinks-citymarket",
+		"title": "Drinks",
+		"count": 896,
+		"children": [
+			{
+				"id": "mineral-water-citymarket",
+				"title": "Mineral water",
+				"count": 132,
+				"children": [
+					{
+						"id": "carbonated-water-citymarket",
+						"title": "Carbonated water",
+						"count": 76,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "mineral-water-citymarket"
+					},
+					{
+						"id": "non-carbonated-water-citymarket",
+						"title": "Still water",
+						"count": 58,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "mineral-water-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.19cfa190d990a3da72a04bbba80b8363.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "drinks-citymarket"
+			},
+			{
+				"id": "juices-and-nectars-citymarket",
+				"title": "Juices and nectars",
+				"count": 169,
+				"children": [
+					{
+						"id": "juice-citymarket",
+						"title": "Juices",
+						"count": 79,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "juices-and-nectars-citymarket"
+					},
+					{
+						"id": "nectar-citymarket",
+						"title": "Nectars",
+						"count": 88,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "juices-and-nectars-citymarket"
+					},
+					{
+						"id": "fruit-drinks-citymarket",
+						"title": "Fruit drinks",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "juices-and-nectars-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.b837d3493950b733629978eeef150162.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-citymarket"
+			},
+			{
+				"id": "energy-drinks-citymarket",
+				"title": "Energy drinks",
+				"count": 23,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.fe3c0994f9eb1eacaa67fe208c9a336c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-citymarket"
+			},
+			{
+				"id": "soft-drinks-citymarket",
+				"title": "Soft drinks",
+				"count": 171,
+				"children": [
+					{
+						"id": "carbonated-soft-drinks-citymarket",
+						"title": "Carbonated soft drinks",
+						"count": 123,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-citymarket"
+					},
+					{
+						"id": "non-carbonated-soft-drinks-citymarket",
+						"title": "Non-carbonated soft drinks",
+						"count": 21,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-citymarket"
+					},
+					{
+						"id": "kvass-citymarket",
+						"title": "Kvass",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-citymarket"
+					},
+					{
+						"id": "ice-tea-citymarket",
+						"title": "Ice tea",
+						"count": 21,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "soft-drinks-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.32c00ca6e24670b2d2a07ecb6cc45b2d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-citymarket"
+			},
+			{
+				"id": "coffee-citymarket",
+				"title": "Coffee",
+				"count": 191,
+				"children": [
+					{
+						"id": "coffee-bean-citymarket",
+						"title": "Coffee bean",
+						"count": 38,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-citymarket"
+					},
+					{
+						"id": "ground-coffee-citymarket",
+						"title": "Ground coffee",
+						"count": 66,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-citymarket"
+					},
+					{
+						"id": "instant-coffee-citymarket",
+						"title": "Instant coffee",
+						"count": 51,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-citymarket"
+					},
+					{
+						"id": "cocoa-and-coffee-drinks-citymarket",
+						"title": "Cocoa and coffee drinks",
+						"count": 37,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "coffee-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.fe46d124cabd7febd9681b6b35c68b84.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-citymarket"
+			},
+			{
+				"id": "tea-citymarket",
+				"title": "Tea",
+				"count": 211,
+				"children": [
+					{
+						"id": "bulk-tea-citymarket",
+						"title": "Bulk",
+						"count": 15,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "tea-citymarket"
+					},
+					{
+						"id": "tea-bags-citymarket",
+						"title": "Tea bags",
+						"count": 129,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "tea-citymarket"
+					},
+					{
+						"id": "loose-tea-citymarket",
+						"title": "Loose",
+						"count": 67,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "tea-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.59b7d357383641c9e1f000d779dba68b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "drinks-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0fa48bd5cac7753057df1906e3ce4fe3.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "alcohol-citymarket",
+		"title": "Alcohol",
+		"count": 2554,
+		"children": [
+			{
+				"id": "absinthe-citymarket",
+				"title": "Absinthe",
+				"count": 2,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.9d5139e77367bf15036fa9552583dad3.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "balsam-bitter-citymarket",
+				"title": "Balsam, bitter",
+				"count": 31,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b11fe6bc461da6cbbb083584f63ac2a9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "vermouth-and-aperitif-citymarket",
+				"title": "Vermouth, aperitif",
+				"count": 22,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4ea7ce6ee23017465ce35c275f3cd373.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "wine-citymarket",
+				"title": "Wine",
+				"count": 1050,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ca12a6cac25c98c8473b0e748ba088fc.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "whiskey-citymarket",
+				"title": "Whiskey",
+				"count": 278,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ad30be59be32baeb35ad260bc11a1a90.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "vodka-citymarket",
+				"title": "Vodka",
+				"count": 193,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.1d241f1162893f489bad524c22e2ebcd.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "grappa-calvados-chacha-citymarket",
+				"title": "Grappa, calvados, chacha",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3c22a85a25ef10ed5358fa492e8a8859.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "gin-citymarket",
+				"title": "Gin",
+				"count": 37,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.e1cadc29e134bc4fb8bb880f8d224f3c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "cognac-citymarket",
+				"title": "Cognac and brandy",
+				"count": 195,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.e6d7027eaebfbf8f5818b4b06ad83729.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "liquor-citymarket",
+				"title": "Liquor",
+				"count": 39,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.e72100bbcb2a0baf0b5a3ba28a36786f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "beer-citymarket",
+				"title": "Beer",
+				"count": 308,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c563cd56efde1db819f5f2610a7f3cc7.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "rum-citymarket",
+				"title": "Rum",
+				"count": 80,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.3cf65da91bbf17425409ac8abbfce5aa.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "low-alcohol-citymarket",
+				"title": "Low-alcohol drinks",
+				"count": 49,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.58e84acd242b3d9a59ed607f031236a6.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "tequila-citymarket",
+				"title": "Tequila",
+				"count": 28,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.1d60092a8a4bb398f4c4208892a8c5e0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			},
+			{
+				"id": "champagne-sparkling-wine-citymarket",
+				"title": "Champagne and sparkling wine",
+				"count": 252,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.fd099542292988772c6d4506c4070303.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "alcohol-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.85cdfc8e4f34bbbefcb2169eb6c5248f.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "tobacco-goods-citymarket",
+		"title": "Tobacco goods",
+		"count": 247,
+		"children": [
+			{
+				"id": "smoking-accessories-citymarket",
+				"title": "Smoking accessories",
+				"count": 8,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.5a230b939227b6dcf9c0724911333001.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-citymarket"
+			},
+			{
+				"id": "cigars-citymarket",
+				"title": "Cigars and cigarillos",
+				"count": 22,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.d18213653615dfa55cbc532201877882.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-citymarket"
+			},
+			{
+				"id": "cigarettes-citymarket",
+				"title": "Cigarettes",
+				"count": 186,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.a0699df77ccc934006f4bdc65804090b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-citymarket"
+			},
+			{
+				"id": "tobacco-citymarket",
+				"title": "Tobacco",
+				"count": 12,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.50d45a2e75d4820724ef0953324d09a8.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-citymarket"
+			},
+			{
+				"id": "hnb-citymarket",
+				"title": "Heated tobacco products",
+				"count": 26,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.fad43b42306f27a279a284c622b84a0e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "tobacco-goods-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.286b4dccf5fa2a0786ee37f82388bf98.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "babies-citymarket",
+		"title": "Babies",
+		"count": 721,
+		"children": [
+			{
+				"id": "care-babies-citymarket",
+				"title": "Care",
+				"count": 250,
+				"children": [
+					{
+						"id": "accessories-for-feeding-citymarket",
+						"title": "Accessories for feeding",
+						"count": 47,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					},
+					{
+						"id": "napkins-for-babies-citymarket",
+						"title": "Wet wipes, cotton swabs",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					},
+					{
+						"id": "hygiene-for-babies-citymarket",
+						"title": "Baby cosmetics",
+						"count": 35,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					},
+					{
+						"id": "for-mouth-baby-citymarket",
+						"title": "For mouth care baby",
+						"count": 15,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					},
+					{
+						"id": "for-washing-baby-citymarket",
+						"title": "For washing baby",
+						"count": 15,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					},
+					{
+						"id": "diapers-citymarket",
+						"title": "Diapers",
+						"count": 58,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					},
+					{
+						"id": "babys-dummy-citymarket",
+						"title": "Baby's dummies, cutters, soothers",
+						"count": 41,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					},
+					{
+						"id": "baby-bathing-accessories-citymarket",
+						"title": "Bathing accessories",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "care-babies-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.48f20afa1942983bad3e39a4eadec7b7.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "babies-citymarket"
+			},
+			{
+				"id": "baby-foods-citymarket",
+				"title": "Nutrition",
+				"count": 292,
+				"children": [
+					{
+						"id": "water-for-baby-citymarket",
+						"title": "Water",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					},
+					{
+						"id": "porridge-for-babies-citymarket",
+						"title": "Porridge",
+						"count": 41,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					},
+					{
+						"id": "dairy-foods-for-babies-citymarket",
+						"title": "Dairy food ",
+						"count": 44,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					},
+					{
+						"id": "cookies-and-rusks-citymarket",
+						"title": "Cookies",
+						"count": 18,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					},
+					{
+						"id": "puree-for-babies-citymarket",
+						"title": "Puree",
+						"count": 133,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					},
+					{
+						"id": "juice-for-babies-citymarket",
+						"title": "Juices",
+						"count": 28,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					},
+					{
+						"id": "infant-formula-citymarket",
+						"title": "Infant formula",
+						"count": 18,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					},
+					{
+						"id": "tea-for-babies-citymarket",
+						"title": "Tea",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "baby-foods-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f5936051d52f36480af06d4b5958dee8.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "babies-citymarket"
+			},
+			{
+				"id": "toys-citymarket",
+				"title": "Toys",
+				"count": 185,
+				"children": [
+					{
+						"id": "toys-for-babies-citymarket",
+						"title": "Toys for babies",
+						"count": 26,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "baby-play-sets-citymarket",
+						"title": "Baby play sets",
+						"count": 26,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "babies-games-and-puzzles-citymarket",
+						"title": "Babies games and puzzles",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "soft-toys-citymarket",
+						"title": "Soft toys",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "toy-cars-and-vehicles-citymarket",
+						"title": "Toy cars and vehicles",
+						"count": 24,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "toy-weapons-citymarket",
+						"title": "Toy weapon",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "toy-constructions-and-transformers-citymarket",
+						"title": "Toy constructions and transformers",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "dolls-and-figures-citymarket",
+						"title": "Dolls and figures",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					},
+					{
+						"id": "sets-for-creativity-citymarket",
+						"title": "Sets for creativity",
+						"count": 30,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "toys-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.eaaf9838c3e37d775a514e6a7d2c42c1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "babies-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.3172527a9297c973b6e88be714b610b2.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "chemicals-citymarket",
+		"title": "Chemicals",
+		"count": 366,
+		"children": [
+			{
+				"id": "for-shoes-and-clothes-citymarket",
+				"title": "For shoes and clothes",
+				"count": 20,
+				"children": [
+					{
+						"id": "sponge-for-shoes-citymarket",
+						"title": "Sponges for shoes",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shoes-and-clothes-citymarket"
+					},
+					{
+						"id": "deodorant-for-shoes-citymarket",
+						"title": "Deodorant for shoes",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shoes-and-clothes-citymarket"
+					},
+					{
+						"id": "shoe-polish-citymarket",
+						"title": "Shoe polish",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shoes-and-clothes-citymarket"
+					},
+					{
+						"id": "spray-for-shoes-citymarket",
+						"title": "Spray for shoes",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shoes-and-clothes-citymarket"
+					},
+					{
+						"id": "shoe-brush-citymarket",
+						"title": "Brushes and accessories for shoes",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shoes-and-clothes-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.515e1b1fab97db67490b15cf95d2e1be.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-citymarket"
+			},
+			{
+				"id": "for-washing-dishes-citymarket",
+				"title": "Dish detergents",
+				"count": 66,
+				"children": [
+					{
+						"id": "for-dishwashers-citymarket",
+						"title": "For dishwashers",
+						"count": 22,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-dishes-citymarket"
+					},
+					{
+						"id": "liquid-means-citymarket",
+						"title": "For manual dishwashing",
+						"count": 45,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-dishes-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.fd7ae92efc68c77d56f59729c9418da4.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-citymarket"
+			},
+			{
+				"id": "for-washing-citymarket",
+				"title": "For washing",
+				"count": 137,
+				"children": [
+					{
+						"id": "gel-for-washing-citymarket",
+						"title": "Gel",
+						"count": 34,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-citymarket"
+					},
+					{
+						"id": "stain-removers-and-bleaches-citymarket",
+						"title": "Stain removers and bleaches",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-citymarket"
+					},
+					{
+						"id": "laundry-conditioner-citymarket",
+						"title": "Laundry conditioners",
+						"count": 25,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-citymarket"
+					},
+					{
+						"id": "capsules-for-washing-citymarket",
+						"title": "Capsules",
+						"count": 16,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-citymarket"
+					},
+					{
+						"id": "powder-detergent-citymarket",
+						"title": "Powder detergents",
+						"count": 42,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-washing-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b358d26b60e396f49bc179d7516908ff.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-citymarket"
+			},
+			{
+				"id": "cleaning-products-citymarket",
+				"title": "Cleaning products",
+				"count": 116,
+				"children": [
+					{
+						"id": "cleaning-for-bathroom-citymarket",
+						"title": "For bathroom",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "cleaning-for-toilet-citymarket",
+						"title": "For toilet",
+						"count": 36,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "cleaning-for-kitchen-citymarket",
+						"title": "For kitchen",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "pipe-cleaning-citymarket",
+						"title": "For pipes",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "for-glass-surfaces-citymarket",
+						"title": "For glass surfaces",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "for-cleaning-carpets-and-furniture-citymarket",
+						"title": "For carpets and furniture",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "for-cleaning-floors-citymarket",
+						"title": "For floors",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "for-rust-removal-citymarket",
+						"title": "For rust removal",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					},
+					{
+						"id": "universal-cleaners-citymarket",
+						"title": "Universal",
+						"count": 28,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cleaning-products-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.4dbdf457d9d70aecedffee90c28ff243.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-citymarket"
+			},
+			{
+				"id": "air-fresheners-citymarket",
+				"title": "Air fresheners",
+				"count": 27,
+				"children": [
+					{
+						"id": "automatic-freshener-citymarket",
+						"title": "Automatic",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "air-fresheners-citymarket"
+					},
+					{
+						"id": "aerosol-gel-freshener-citymarket",
+						"title": "Aerosols and gels",
+						"count": 18,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "air-fresheners-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b21764b48db911015d051af277bbb366.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "chemicals-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.69d044dc480cc0d2db42ef41edfb7f41.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "personal-hygiene-citymarket",
+		"title": "Personal hygiene",
+		"count": 310,
+		"children": [
+			{
+				"id": "cotton-wool-products-citymarket",
+				"title": "Cotton wool products",
+				"count": 17,
+				"children": [
+					{
+						"id": "cotton-pads-citymarket",
+						"title": "Cotton pads",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cotton-wool-products-citymarket"
+					},
+					{
+						"id": "cotton-swabs-citymarket",
+						"title": "Cotton swabs",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "cotton-wool-products-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f6695c9b409095e6f385cb75787692fe.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-citymarket"
+			},
+			{
+				"id": "for-mouth-citymarket",
+				"title": "For mouth care",
+				"count": 117,
+				"children": [
+					{
+						"id": "dental-floss-citymarket",
+						"title": "Dental floss",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-citymarket"
+					},
+					{
+						"id": "toothpaste-citymarket",
+						"title": "Toothpaste",
+						"count": 75,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-citymarket"
+					},
+					{
+						"id": "toothbrush-citymarket",
+						"title": "Toothbrush",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-citymarket"
+					},
+					{
+						"id": "mouthwash-citymarket",
+						"title": "Mouthwash",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-mouth-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.880ff50eb7d189b335ee1b2323b2723c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-citymarket"
+			},
+			{
+				"id": "for-shaving-and-hair-removal-citymarket",
+				"title": "Shaving products",
+				"count": 45,
+				"children": [
+					{
+						"id": "razors-and-razor-blades-citymarket",
+						"title": "Razors and blades",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shaving-and-hair-removal-citymarket"
+					},
+					{
+						"id": "for-shaving-citymarket",
+						"title": "Shaving and depilation products",
+						"count": 24,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shaving-and-hair-removal-citymarket"
+					},
+					{
+						"id": "after-shaving-citymarket",
+						"title": "After shave",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-shaving-and-hair-removal-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.522fe8882d4f5f7b83e4a77d0787299e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-citymarket"
+			},
+			{
+				"id": "for-intimate-hygiene-citymarket",
+				"title": "For intimate hygiene",
+				"count": 121,
+				"children": [
+					{
+						"id": "gel-intimate-hygiene-citymarket",
+						"title": "Gel for intimate hygiene",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-citymarket"
+					},
+					{
+						"id": "adult-diapers-citymarket",
+						"title": "Diapers for adult",
+						"count": 3,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-citymarket"
+					},
+					{
+						"id": "pads-citymarket",
+						"title": "Pads",
+						"count": 97,
+						"children": [
+							{
+								"id": "sanitary-pads-citymarket",
+								"title": "Sanitary pads",
+								"count": 56,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "pads-citymarket"
+							},
+							{
+								"id": "panty-liners-citymarket",
+								"title": "Panty liners",
+								"count": 39,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "pads-citymarket"
+							},
+							{
+								"id": "urological-pads-citymarket",
+								"title": "Urological",
+								"count": 9,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "pads-citymarket"
+							}
+						],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-citymarket"
+					},
+					{
+						"id": "tampons-citymarket",
+						"title": "Tampons",
+						"count": 18,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-citymarket"
+					},
+					{
+						"id": "intimate-hygiene-wipes-citymarket",
+						"title": "Intimate hygiene wipes",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-intimate-hygiene-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ae8fab74e3905448527c2a3e1493b300.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-citymarket"
+			},
+			{
+				"id": "contraceptives-citymarket",
+				"title": "Contraceptives",
+				"count": 10,
+				"children": [
+					{
+						"id": "gel-lubricant-citymarket",
+						"title": "Lubricants",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "contraceptives-citymarket"
+					},
+					{
+						"id": "condoms-citymarket",
+						"title": "Condoms",
+						"count": 8,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "contraceptives-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0097d544d7cd709d882e5da8b3278065.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "personal-hygiene-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0564a2ffb2f4e26cb50058c79ef6a596.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "cosmetics-and-care-citymarket",
+		"title": "Cosmetics and care",
+		"count": 427,
+		"children": [
+			{
+				"id": "hair-accessories-citymarket",
+				"title": "Hair accessories",
+				"count": 23,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.9adc9d1d2c94c21387f28bfbeaa3bc8b.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			},
+			{
+				"id": "for-make-up-and-manicure-citymarket",
+				"title": "Accessoriesfor make-up and manicure",
+				"count": 21,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.84c54a391483fc67e8adceabb2a7d5dd.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			},
+			{
+				"id": "hair-brushes-citymarket",
+				"title": "Hair brushes",
+				"count": 15,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.e138aa9a80e901d4b4a9058d79454665.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			},
+			{
+				"id": "decorative-cosmetics-citymarket",
+				"title": "Decorative cosmetics",
+				"count": 1,
+				"children": [
+					{
+						"id": "nail-polish-remover-citymarket",
+						"title": "Nail polish remover",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decorative-cosmetics-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.0d6c2399e0c120e3e45cd05c88a74eca.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			},
+			{
+				"id": "hair-care-citymarket",
+				"title": "Hair cosmetics",
+				"count": 115,
+				"children": [
+					{
+						"id": "for-hair-styling-citymarket",
+						"title": "For hair styling",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-citymarket"
+					},
+					{
+						"id": "shampoo-citymarket",
+						"title": "Shampoos",
+						"count": 78,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-citymarket"
+					},
+					{
+						"id": "balsam-for-hair-citymarket",
+						"title": "Balsams",
+						"count": 20,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-citymarket"
+					},
+					{
+						"id": "hair-masks-citymarket",
+						"title": "Hair masks",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-citymarket"
+					},
+					{
+						"id": "special-care-for-hair-citymarket",
+						"title": "Special care",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "hair-care-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.c591b3be1c41af4e3af2d588c59bf21c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			},
+			{
+				"id": "facial-cosmetics-citymarket",
+				"title": "Face cosmetics",
+				"count": 37,
+				"children": [
+					{
+						"id": "skin-cream-citymarket",
+						"title": "Skin cream",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-citymarket"
+					},
+					{
+						"id": "gel-foam-for-face-citymarket",
+						"title": "Milk, gel, foam",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-citymarket"
+					},
+					{
+						"id": "micellar-water-citymarket",
+						"title": "Micellar water, make up removers",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-citymarket"
+					},
+					{
+						"id": "scrubs-and-masks-citymarket",
+						"title": "Scrubs, masks",
+						"count": 21,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "facial-cosmetics-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.7cd91f0c432123130aa1854eeb1b7818.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			},
+			{
+				"id": "body-cosmetics-citymarket",
+				"title": "Body cosmetics",
+				"count": 206,
+				"children": [
+					{
+						"id": "shower-gel-citymarket",
+						"title": "Shower gels",
+						"count": 39,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "bath-salt-citymarket",
+						"title": "Bath salt",
+						"count": 7,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "deodorant-citymarket",
+						"title": "Deodorants",
+						"count": 46,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "body-cream-citymarket",
+						"title": "Body cream",
+						"count": 4,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "soap-citymarket",
+						"title": "Soap",
+						"count": 74,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "lotion-for-body-citymarket",
+						"title": "Body lotions, oils, scrubs",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "for-hands-citymarket",
+						"title": "Hand care",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "for-legs-citymarket",
+						"title": "Foot care",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					},
+					{
+						"id": "accessories-for-shower-citymarket",
+						"title": "Accessories for shower",
+						"count": 14,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "body-cosmetics-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.0a98e7fae0d43a4ecde9319812b0671e.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			},
+			{
+				"id": "pharmaceuticals-citymarket",
+				"title": "Pharmaceuticals",
+				"count": 12,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ab1445a258a504db0de7e6f42c4c06c2.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "cosmetics-and-care-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0d6e120f4afb770d2bacc8ae907de667.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "household-goods-citymarket",
+		"title": "Household goods",
+		"count": 470,
+		"children": [
+			{
+				"id": "haberdashery-citymarket",
+				"title": "Haberdashery",
+				"count": 4,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.07a8e505028a82cb762d6db98aa9a30d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "disposable-tableware-citymarket",
+				"title": "Disposable tableware",
+				"count": 37,
+				"children": [
+					{
+						"id": "disposable-spoons-forks-citymarket",
+						"title": " forks, spoons, knives, mixers",
+						"count": 5,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-citymarket"
+					},
+					{
+						"id": "disposable-tableware-set-citymarket",
+						"title": "Disposable tableware set",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-citymarket"
+					},
+					{
+						"id": "disposable-cups-citymarket",
+						"title": "Disposable cups",
+						"count": 12,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-citymarket"
+					},
+					{
+						"id": "disposable-plates-citymarket",
+						"title": "Disposable plates",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-citymarket"
+					},
+					{
+						"id": "other-disposable-citymarket",
+						"title": "Other",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "disposable-tableware-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.196d651288fe0c5eed013195094e982c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "paper-goods-citymarket",
+				"title": "Paper goods",
+				"count": 115,
+				"children": [
+					{
+						"id": "paper-towels-citymarket",
+						"title": "Paper towels",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-citymarket"
+					},
+					{
+						"id": "wipes-in-box-citymarket",
+						"title": "Wipes in box",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-citymarket"
+					},
+					{
+						"id": "wet-wipes-citymarket",
+						"title": "Wet wipes",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-citymarket"
+					},
+					{
+						"id": "table-napkins-citymarket",
+						"title": "Table napkins",
+						"count": 19,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-citymarket"
+					},
+					{
+						"id": "toilet-paper-citymarket",
+						"title": "Toilet paper",
+						"count": 41,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-citymarket"
+					},
+					{
+						"id": "paper-handkerchiefs-citymarket",
+						"title": "Paper handkerchiefs",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "paper-goods-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.4bfdf209b3fe3d6f3cdea2f944745f72.300x300.png",
+				"is_popular": true,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "kitchen-accessories-citymarket",
+				"title": "Kitchen accessories",
+				"count": 176,
+				"children": [
+					{
+						"id": "household-sponges-citymarket",
+						"title": "Household sponges",
+						"count": 27,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "food-packages-citymarket",
+						"title": "Food packages",
+						"count": 17,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "garbage-bags-citymarket",
+						"title": "Garbage bags",
+						"count": 35,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "foil-and-baking-paper-citymarket",
+						"title": "Foil and baking paper",
+						"count": 20,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "gloves-for-cleaning-citymarket",
+						"title": "Gloves for cleaning",
+						"count": 22,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "cleaning-napkins-citymarket",
+						"title": "Cleaning napkins",
+						"count": 29,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "food-film-citymarket",
+						"title": "Food film",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "water-filters-citymarket",
+						"title": "Filters",
+						"count": 10,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					},
+					{
+						"id": "scrapers-citymarket",
+						"title": "Scrapers",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "kitchen-accessories-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.106e869f21fe5197ec8cdde31b061dd8.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "equipment-citymarket",
+				"title": "Equipment",
+				"count": 53,
+				"children": [
+					{
+						"id": "power-supplies-citymarket",
+						"title": "Power supplies",
+						"count": 52,
+						"children": [
+							{
+								"id": "lamps-citymarket",
+								"title": " bulbs, extension cables",
+								"count": 32,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "power-supplies-citymarket"
+							},
+							{
+								"id": "batteries-citymarket",
+								"title": "Batteries",
+								"count": 20,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "power-supplies-citymarket"
+							}
+						],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "equipment-citymarket"
+					},
+					{
+						"id": "appliances-citymarket",
+						"title": "Appliances",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "equipment-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.f2eba97d4a26e94fa883faa0b2878d69.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "trivia-bathroom-citymarket",
+				"title": "Trivia for bathroom",
+				"count": 12,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.ed9799c5e49c99b9e86a1e125ceb77f9.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "pail-and-bowl-citymarket",
+				"title": "Pails, bowls",
+				"count": 7,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.06db37233ccf4c5e3e39db7565a881d3.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "mops-brushes-citymarket",
+				"title": "Mops, brushes, scoops",
+				"count": 17,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.8a79cf2b5ec82caa32bdf490b75ea9c8.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "hangers-citymarket",
+				"title": "Hangers",
+				"count": 4,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0c629020a6adc63ede59142dae4ab958.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "clothing-care-citymarket",
+				"title": "Clothing care, cases for things",
+				"count": 13,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.2dcfd2cfb817097dfecc75978a92512d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "storage-baskets-citymarket",
+				"title": "Storage baskets",
+				"count": 6,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.b3fa7de4f8148a60fda652b83e8c5234.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			},
+			{
+				"id": "easter-goods-citymarket",
+				"title": "Easter goods",
+				"count": 20,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.f60a728b29915fe720c9c8dedaac9a4f.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "household-goods-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.d8bedfbe48f7ce68403241936d85388e.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "kitchenware-citymarket",
+		"title": "Kitchenware",
+		"count": 201,
+		"children": [
+			{
+				"id": "jars-and-bottles-citymarket",
+				"title": "Jars, bottles",
+				"count": 14,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.cb107f24307851eb0dae2737035175d1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "glasses-jugs-citymarket",
+				"title": "Glasses, pitchers, jugs, decanters",
+				"count": 6,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.464fefb8cf9e035f9cca82a9c0923965.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "cooking-utensils-citymarket",
+				"title": "Cooking utensils",
+				"count": 38,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.38d6a339d4dc55f05e5c9c2bb470cbb0.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "all-for-food-preservation-citymarket",
+				"title": "All for food preservation",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.9e27206c3a2eae04f1955482178ce4ee.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "pots-and-pans-citymarket",
+				"title": " pots, pans",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.5238e5cb754dc970cf6861b81c948b79.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "cutting-boards-breadbaskets-citymarket",
+				"title": "Cutting boards, breadbaskets, trays, baskets",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.007a9697e98d574bf8c30fedf3d0d438.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "spice-grinder-citymarket",
+				"title": "Spice grinders",
+				"count": 4,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.df855ec78515cd976efd9cf18d33d730.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "knives-citymarket",
+				"title": "Knives",
+				"count": 14,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.83dbba7f80896a93d74d94954d5ff39d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "cutlery-citymarket",
+				"title": "Cutlery",
+				"count": 3,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.85eb7e71e522461fa59120cb27d5b33c.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "plates-citymarket",
+				"title": "Plates, salad bowls, dishes, tableware sets",
+				"count": 24,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.87a665312bda9e6a6dbf3ea3ed42f6cd.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "kitchen-graters-colanders-citymarket",
+				"title": "Graters, sieves, colanders",
+				"count": 11,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.b5896f43564927027f7147acf195bbe1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "food-containers-citymarket",
+				"title": "Food containers",
+				"count": 61,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.0c586d464c98ecb18b64dff0fb710187.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "cups-citymarket",
+				"title": "Cups",
+				"count": 5,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.e6cc9a81839b879d3b139ebdbf146637.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			},
+			{
+				"id": "bakeware-citymarket",
+				"title": "Bakeware",
+				"count": 20,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.a0f0fcd98655b55cb69b03da840d4069.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "kitchenware-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.a8bda372db3bec19d3a60e59d1fcd01e.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "hobby-and-rest-citymarket",
+		"title": "Hobby and rest",
+		"count": 215,
+		"children": [
+			{
+				"id": "for-cars-citymarket",
+				"title": "For cars",
+				"count": 1,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.67a5671d58f3844719f0ccbf71d71c71.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "hobby-and-rest-citymarket"
+			},
+			{
+				"id": "for-sport-citymarket",
+				"title": "Sports goods",
+				"count": 36,
+				"children": [
+					{
+						"id": "tourism-and-camping-citymarket",
+						"title": "Tourism and camping",
+						"count": 36,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "for-sport-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ca47048690345d20d390f6412866a460.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "hobby-and-rest-citymarket"
+			},
+			{
+				"id": "garden-citymarket",
+				"title": "Garden",
+				"count": 26,
+				"children": [
+					{
+						"id": "insect-repellent-citymarket",
+						"title": "Insect repellent",
+						"count": 26,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "garden-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.67061e0611d4d475025a4db21f42603a.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "hobby-and-rest-citymarket"
+			},
+			{
+				"id": "printed-products-citymarket",
+				"title": "Printed products",
+				"count": 152,
+				"children": [
+					{
+						"id": "books-citymarket",
+						"title": "Books",
+						"count": 138,
+						"children": [],
+						"description": null,
+						"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.ac044fc1c5073f20bbf9c94c018b09ba.300x300.png",
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "printed-products-citymarket"
+					},
+					{
+						"id": "magazines-and-newspapers-citymarket",
+						"title": "Magazines and newspapers",
+						"count": 1,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "printed-products-citymarket"
+					},
+					{
+						"id": "postcards-citymarket",
+						"title": "Postcards",
+						"count": 9,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "printed-products-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.0c1cd44636e93753e2ba6b7ac91b4384.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "hobby-and-rest-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.44a969f0814540ec8e3f8fb440ff425b.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "interior-and-textiles-citymarket",
+		"title": "Interior and textiles",
+		"count": 93,
+		"children": [
+			{
+				"id": "textiles-citymarket",
+				"title": "Textiles",
+				"count": 21,
+				"children": [
+					{
+						"id": "decorative-textiles-citymarket",
+						"title": "Decorative textiles",
+						"count": 1,
+						"children": [
+							{
+								"id": "carpets-citymarket",
+								"title": "Carpets",
+								"count": 1,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "decorative-textiles-citymarket"
+							}
+						],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "textiles-citymarket"
+					},
+					{
+						"id": "towels-citymarket",
+						"title": "Towels",
+						"count": 6,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "textiles-citymarket"
+					},
+					{
+						"id": "kitchen-textiles-citymarket",
+						"title": "Kitchen textiles",
+						"count": 11,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "textiles-citymarket"
+					},
+					{
+						"id": "bedroom-textiles-citymarket",
+						"title": "Bedroom textiles",
+						"count": 3,
+						"children": [
+							{
+								"id": "bedding-sets-citymarket",
+								"title": "Bedding sets",
+								"count": 1,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "bedroom-textiles-citymarket"
+							},
+							{
+								"id": "pillows-citymarket",
+								"title": "Pillows",
+								"count": 2,
+								"children": [],
+								"description": null,
+								"image_url": null,
+								"is_popular": false,
+								"is_collection": false,
+								"parent_id": "bedroom-textiles-citymarket"
+							}
+						],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "textiles-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.7d65217eccfc749094534146ff9fee42.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "interior-and-textiles-citymarket"
+			},
+			{
+				"id": "decor-and-design-citymarket",
+				"title": "Decor and design",
+				"count": 72,
+				"children": [
+					{
+						"id": "accessories-for-parties-citymarket",
+						"title": "Accessories for parties",
+						"count": 55,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decor-and-design-citymarket"
+					},
+					{
+						"id": "gift-package-citymarket",
+						"title": "Gift package",
+						"count": 13,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decor-and-design-citymarket"
+					},
+					{
+						"id": "candles-candlesticks-citymarket",
+						"title": "Candles, candlesticks",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decor-and-design-citymarket"
+					},
+					{
+						"id": "statuettes-citymarket",
+						"title": "Statuettes",
+						"count": 2,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "decor-and-design-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.2631a3c745d5e97f909bddb8e5178e58.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "interior-and-textiles-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.979493bc8d102ad41ece04477ddc1ce1.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "all-stationery-citymarket",
+		"title": "Stationery",
+		"count": 193,
+		"children": [
+			{
+				"id": "stationery-citymarket",
+				"title": "Stationery",
+				"count": 193,
+				"children": [
+					{
+						"id": "writing-instruments-citymarket",
+						"title": "Writing instruments",
+						"count": 31,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "stationery-citymarket"
+					},
+					{
+						"id": "business-supplies-citymarket",
+						"title": "Business supplies",
+						"count": 61,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "stationery-citymarket"
+					},
+					{
+						"id": "school-supplies-citymarket",
+						"title": "School supplies",
+						"count": 31,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "stationery-citymarket"
+					},
+					{
+						"id": "art-supplies-citymarket",
+						"title": "Art supplies",
+						"count": 66,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "stationery-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.872769b459550c5788766bfa62b6da48.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "all-stationery-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.5f25b8485fe11f2e53d726aa949f7ca3.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "for-animals-citymarket",
+		"title": "Pets",
+		"count": 227,
+		"children": [
+			{
+				"id": "accessories-animals-citymarket",
+				"title": "Animal accessories",
+				"count": 57,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.df9128c8b486953c6780571de1249cfc.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-citymarket"
+			},
+			{
+				"id": "pets-litter-citymarket",
+				"title": "Toilet litter for pets",
+				"count": 16,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.2ff7a13533d833c3d78bfbfabe62a779.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-citymarket"
+			},
+			{
+				"id": "cat-food-citymarket",
+				"title": "Cat food",
+				"count": 97,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.b092f0bce0c9c39c30958b2bbd72e204.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-citymarket"
+			},
+			{
+				"id": "dog-food-citymarket",
+				"title": "Dog food",
+				"count": 33,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.867b6b312b02348d5cc56413354ccffb.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-citymarket"
+			},
+			{
+				"id": "feed-for-birds-fish-other-citymarket",
+				"title": "Feed for birds fish other pets",
+				"count": 24,
+				"children": [],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.da768185df5d4cd386b9a492269e30d1.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "for-animals-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.2d1ab9cd7aeb5680ffeca3c74bba5d82.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	},
+	{
+		"id": "clothes-and-shoes-citymarket",
+		"title": "Clothes and shoes",
+		"count": 513,
+		"children": [
+			{
+				"id": "socks-and-tights-citymarket",
+				"title": "Socks and tight",
+				"count": 506,
+				"children": [
+					{
+						"id": "socks-citymarket",
+						"title": "Socks",
+						"count": 349,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "socks-and-tights-citymarket"
+					},
+					{
+						"id": "tights-citymarket",
+						"title": "Tights",
+						"count": 157,
+						"children": [],
+						"description": null,
+						"image_url": null,
+						"is_popular": false,
+						"is_collection": false,
+						"parent_id": "socks-and-tights-citymarket"
+					}
+				],
+				"description": null,
+				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.8c595e9e10d8b9658d01ca7462bb017d.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "clothes-and-shoes-citymarket"
+			},
+			{
+				"id": "footwear-citymarket",
+				"title": "Footwear",
+				"count": 7,
+				"children": [],
+				"description": null,
+				"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.e0ef5a8effe17b64db4f7142d310117a.300x300.png",
+				"is_popular": false,
+				"is_collection": false,
+				"parent_id": "clothes-and-shoes-citymarket"
+			}
+		],
+		"description": null,
+		"image_url": "https://img3.zakaz.ua/rubricator/upload.version_1.0.50804c16bc4c5fc0e6db2632e048d224.300x300.svg",
+		"is_popular": false,
+		"is_collection": false,
+		"parent_id": null
+	}
+]
