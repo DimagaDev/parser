@@ -360,17 +360,6 @@
 				"is_collection": false,
 				"parent_id": "bakery-auchan"
 			},
-			{
-				"id": "easter-basket-auchan",
-				"title": "Easter basket",
-				"count": 4,
-				"children": [],
-				"description": null,
-				"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.5a747915a911f2e8de0f027db1719b80.300x300.png",
-				"is_popular": false,
-				"is_collection": false,
-				"parent_id": "bakery-auchan"
-			}
 		],
 		"description": null,
 		"image_url": "https://img2.zakaz.ua/rubricator/upload.version_1.0.6c3a146ee00a9d12e0d37d91ad46d5a6.300x300.svg",

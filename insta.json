@@ -1,0 +1,1641 @@
+{
+  "data": {
+    "navCollectionFeaturedProductsList": {
+      "featuredProductsList": {
+        "featuredProducts": [
+          {
+            "productId": "73025",
+            "eligibleId": "886553b1-648a-40e8-9fee-433d2dca7247",
+            "itemIndex": 0,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "886553b1-648a-40e8-9fee-433d2dca7247",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 1,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "886553b1-648a-40e8-9fee-433d2dca7247",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "18876663",
+            "eligibleId": "8843ef36-c7fc-4d26-b5b8-7718843e67e1",
+            "itemIndex": 1,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "8843ef36-c7fc-4d26-b5b8-7718843e67e1",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 2,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "8843ef36-c7fc-4d26-b5b8-7718843e67e1",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "3146398",
+            "eligibleId": "f6d747ad-415b-4dc1-bf3b-3aaf46d90ec5",
+            "itemIndex": 2,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "f6d747ad-415b-4dc1-bf3b-3aaf46d90ec5",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 3,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "f6d747ad-415b-4dc1-bf3b-3aaf46d90ec5",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "198228",
+            "eligibleId": "a4d09754-b1ea-4265-a2ad-1504d922212c",
+            "itemIndex": 3,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "a4d09754-b1ea-4265-a2ad-1504d922212c",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 4,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "a4d09754-b1ea-4265-a2ad-1504d922212c",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "90802",
+            "eligibleId": "a5077f28-1292-4eee-a1ea-97584d523e9f",
+            "itemIndex": 4,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "a5077f28-1292-4eee-a1ea-97584d523e9f",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 5,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "a5077f28-1292-4eee-a1ea-97584d523e9f",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "34995",
+            "eligibleId": "c8cf6b15-18fd-4371-aae0-64bfdb50d9cb",
+            "itemIndex": 5,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "c8cf6b15-18fd-4371-aae0-64bfdb50d9cb",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 6,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "c8cf6b15-18fd-4371-aae0-64bfdb50d9cb",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "19263225",
+            "eligibleId": "1d5a2571-fb5e-42ef-91f5-4b4f339db59f",
+            "itemIndex": 6,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "1d5a2571-fb5e-42ef-91f5-4b4f339db59f",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 7,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "1d5a2571-fb5e-42ef-91f5-4b4f339db59f",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "77085",
+            "eligibleId": "44f065d2-916a-4356-9489-6844194f5e58",
+            "itemIndex": 7,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "44f065d2-916a-4356-9489-6844194f5e58",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 8,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "44f065d2-916a-4356-9489-6844194f5e58",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "97627",
+            "eligibleId": "08c7e233-50a2-43b7-9c0b-60f56922374c",
+            "itemIndex": 8,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "08c7e233-50a2-43b7-9c0b-60f56922374c",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 9,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "08c7e233-50a2-43b7-9c0b-60f56922374c",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "70006",
+            "eligibleId": "2d6b55db-8221-4c86-b31e-e66976919990",
+            "itemIndex": 9,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "2d6b55db-8221-4c86-b31e-e66976919990",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 10,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "2d6b55db-8221-4c86-b31e-e66976919990",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "17679290",
+            "eligibleId": "d8183676-0d2d-497e-9841-29f5a720bdac",
+            "itemIndex": 10,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "d8183676-0d2d-497e-9841-29f5a720bdac",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 11,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "d8183676-0d2d-497e-9841-29f5a720bdac",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "77105",
+            "eligibleId": "6c9120f1-43fa-4769-ad61-5acbcd1b9167",
+            "itemIndex": 11,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "6c9120f1-43fa-4769-ad61-5acbcd1b9167",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 12,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "6c9120f1-43fa-4769-ad61-5acbcd1b9167",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "57101",
+            "eligibleId": "135f22ca-2252-4734-ab7e-b704462e29e4",
+            "itemIndex": 12,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "135f22ca-2252-4734-ab7e-b704462e29e4",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 13,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "135f22ca-2252-4734-ab7e-b704462e29e4",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "73904",
+            "eligibleId": "c9640b59-6417-48ce-8f66-b07a258d606e",
+            "itemIndex": 13,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "c9640b59-6417-48ce-8f66-b07a258d606e",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 14,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "c9640b59-6417-48ce-8f66-b07a258d606e",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "34890",
+            "eligibleId": "fc4581c7-8b97-4404-877a-125350f0099c",
+            "itemIndex": 14,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "fc4581c7-8b97-4404-877a-125350f0099c",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 15,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "fc4581c7-8b97-4404-877a-125350f0099c",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "151498",
+            "eligibleId": "4885d757-ecb3-48ed-8f17-c247e37891e2",
+            "itemIndex": 15,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "4885d757-ecb3-48ed-8f17-c247e37891e2",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 16,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "4885d757-ecb3-48ed-8f17-c247e37891e2",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "1875693",
+            "eligibleId": "24ee9c05-9bc4-4e9b-9e93-96fa376f149a",
+            "itemIndex": 16,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "24ee9c05-9bc4-4e9b-9e93-96fa376f149a",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 17,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "24ee9c05-9bc4-4e9b-9e93-96fa376f149a",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "123550",
+            "eligibleId": "58641bc0-4585-408e-b7d1-ce5a9b5c37d4",
+            "itemIndex": 17,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "58641bc0-4585-408e-b7d1-ce5a9b5c37d4",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 18,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "58641bc0-4585-408e-b7d1-ce5a9b5c37d4",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "37124",
+            "eligibleId": "e0fd9b12-56c1-43b5-ade5-2e20148adf83",
+            "itemIndex": 18,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "e0fd9b12-56c1-43b5-ade5-2e20148adf83",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 19,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "e0fd9b12-56c1-43b5-ade5-2e20148adf83",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "119382",
+            "eligibleId": "2b021ea8-963f-492c-b839-6b2f90933ae9",
+            "itemIndex": 19,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "2b021ea8-963f-492c-b839-6b2f90933ae9",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 20,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "2b021ea8-963f-492c-b839-6b2f90933ae9",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "2272467",
+            "eligibleId": "5be3bb8a-9dc1-4aff-a936-591eab9923d5",
+            "itemIndex": 20,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "5be3bb8a-9dc1-4aff-a936-591eab9923d5",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 21,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "5be3bb8a-9dc1-4aff-a936-591eab9923d5",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "25446",
+            "eligibleId": "8bfc0ffb-c287-43af-b087-e690e2018fad",
+            "itemIndex": 21,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "8bfc0ffb-c287-43af-b087-e690e2018fad",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 22,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "8bfc0ffb-c287-43af-b087-e690e2018fad",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "39338",
+            "eligibleId": "38cd78e8-58d6-476f-9977-80467720a78d",
+            "itemIndex": 22,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "38cd78e8-58d6-476f-9977-80467720a78d",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 23,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "38cd78e8-58d6-476f-9977-80467720a78d",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "69485",
+            "eligibleId": "1f9a844d-111a-4924-9581-3649fbb6f9bb",
+            "itemIndex": 23,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "1f9a844d-111a-4924-9581-3649fbb6f9bb",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 24,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "1f9a844d-111a-4924-9581-3649fbb6f9bb",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "2869590",
+            "eligibleId": "ca5c09ce-942e-4f9b-b8d4-57c9e1920339",
+            "itemIndex": 24,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "ca5c09ce-942e-4f9b-b8d4-57c9e1920339",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 25,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "ca5c09ce-942e-4f9b-b8d4-57c9e1920339",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "217001",
+            "eligibleId": "8adaccdb-52ca-4856-b9e9-06e96d657c0e",
+            "itemIndex": 25,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "8adaccdb-52ca-4856-b9e9-06e96d657c0e",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 26,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "8adaccdb-52ca-4856-b9e9-06e96d657c0e",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "98089",
+            "eligibleId": "8519bba7-93cb-4b3d-b415-4353d4b7601d",
+            "itemIndex": 26,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "8519bba7-93cb-4b3d-b415-4353d4b7601d",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 27,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "8519bba7-93cb-4b3d-b415-4353d4b7601d",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "16985393",
+            "eligibleId": "70cc5c66-efe4-4d15-aef6-6be5b6be127b",
+            "itemIndex": 27,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "70cc5c66-efe4-4d15-aef6-6be5b6be127b",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 28,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "70cc5c66-efe4-4d15-aef6-6be5b6be127b",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "38216",
+            "eligibleId": "d82911fa-8e6b-4c07-b90d-c6e40e98240e",
+            "itemIndex": 28,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "d82911fa-8e6b-4c07-b90d-c6e40e98240e",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 29,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "d82911fa-8e6b-4c07-b90d-c6e40e98240e",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          },
+          {
+            "productId": "43509",
+            "eligibleId": "5848213c-4909-40f5-a4b7-63db98add541",
+            "itemIndex": 29,
+            "viewSection": {
+              "trackingProperties": {
+                "eligible_id": "5848213c-4909-40f5-a4b7-63db98add541",
+                "user_id": 254558136,
+                "page_type": "collection",
+                "placement_type": "nav_collection_carousel",
+                "display_position": 30,
+                "organic_position": null,
+                "page": null,
+                "search_id": null,
+                "format_type": null,
+                "visible_badges": [
+                  "featured_product"
+                ],
+                "featured_item": {
+                  "eligible_id": "5848213c-4909-40f5-a4b7-63db98add541",
+                  "organic_position": null,
+                  "page": null,
+                  "search_id": null,
+                  "format_type": null
+                }
+              },
+              "firstPixelTrackingEventName": "store.viewport_1px_featured_product",
+              "viewableTrackingEventName": "store.viewport_viewable_featured_product",
+              "__typename": "FeaturedProductResponseBackedFeaturedProductSection"
+            },
+            "__typename": "AdsFeaturedProduct"
+          }
+        ],
+        "itemIds": [
+          "items_88059-73025",
+          "items_88059-18876663",
+          "items_88059-3146398",
+          "items_88059-198228",
+          "items_88059-90802",
+          "items_88059-34995",
+          "items_88059-19263225",
+          "items_88059-77085",
+          "items_88059-97627",
+          "items_88059-70006",
+          "items_88059-17679290",
+          "items_88059-77105",
+          "items_88059-57101",
+          "items_88059-73904",
+          "items_88059-34890",
+          "items_88059-151498",
+          "items_88059-1875693",
+          "items_88059-123550",
+          "items_88059-37124",
+          "items_88059-119382",
+          "items_88059-2272467",
+          "items_88059-25446",
+          "items_88059-39338",
+          "items_88059-69485",
+          "items_88059-2869590",
+          "items_88059-217001",
+          "items_88059-98089",
+          "items_88059-16985393",
+          "items_88059-38216",
+          "items_88059-43509"
+        ],
+        "items": [
+          {
+            "id": "items_88059-73025",
+            "name": "Smucker's Spreadable Fruit, Blueberry",
+            "size": "10 oz",
+            "productId": "73025",
+            "legacyV3Id": "item_1751729204",
+            "configurableProductId": null,
+            "productRating": {
+              "amount": 0,
+              "value": null,
+              "viewSection": {
+                "amountString": "0",
+                "__typename": "ItemsResponseBackedProductRatingSection"
+              },
+              "__typename": "ItemsProductRating"
+            },
+            "quantityAttributesEach": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "quantityAttributesWeight": null,
+            "quantityAttributes": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "availability": {
+              "available": true,
+              "viewSection": {
+                "stockLevelLabelString": null,
+                "__typename": "AvailabilityResponseBackedAvailabilitySection"
+              },
+              "__typename": "ItemsAvailability"
+            },
+            "variantGroup": {
+              "viewSection": {
+                "optionsSummaryString": null,
+                "__typename": "ItemVariantGroupsResponseBackedVariantGroupSection"
+              },
+              "__typename": "ItemsVariantGroup"
+            },
+            "variantDimensionValues": [],
+            "viewSection": {
+              "itemImage": {
+                "altText": null,
+                "templateUrl": "https://d2d8wwwkmhfcva.cloudfront.net/{width=}x{height=}/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_d719046a-d446-41b5-9411-8d299c2d4278.jpeg",
+                "__typename": "Image"
+              },
+              "trackingProperties": {
+                "element_attributes": {
+                  "low_stock_label": false
+                },
+                "low_stock_label": false,
+                "element_details": {
+                  "element_type": "item",
+                  "product_id": 73025,
+                  "retailer_location_id": 88059,
+                  "element_id": "items_88059-73025"
+                },
+                "on_sale_ind": {
+                  "on_sale": false,
+                  "retailer": false,
+                  "buy_one_get_one": false,
+                  "cpg_coupon": false
+                }
+              },
+              "itemCardRatingVariant": "hidden",
+              "itemCardLowStockLevelVariant": "hidden",
+              "quantityAttributesVariant": "eachAndWeight",
+              "lowStockVariant": "none",
+              "__typename": "ItemsResponseBackedItemSection"
+            },
+            "tags": [],
+            "__typename": "ItemsItem"
+          },
+          {
+            "id": "items_88059-18876663",
+            "name": "Primal Kitchen Ketchup, Organic and Unsweetened",
+            "size": "11.3 oz",
+            "productId": "18876663",
+            "legacyV3Id": "item_1751518616",
+            "configurableProductId": null,
+            "productRating": {
+              "amount": 0,
+              "value": null,
+              "viewSection": {
+                "amountString": "0",
+                "__typename": "ItemsResponseBackedProductRatingSection"
+              },
+              "__typename": "ItemsProductRating"
+            },
+            "quantityAttributesEach": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "quantityAttributesWeight": null,
+            "quantityAttributes": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "availability": {
+              "available": true,
+              "viewSection": {
+                "stockLevelLabelString": null,
+                "__typename": "AvailabilityResponseBackedAvailabilitySection"
+              },
+              "__typename": "ItemsAvailability"
+            },
+            "variantGroup": {
+              "viewSection": {
+                "optionsSummaryString": null,
+                "__typename": "ItemVariantGroupsResponseBackedVariantGroupSection"
+              },
+              "__typename": "ItemsVariantGroup"
+            },
+            "variantDimensionValues": [],
+            "viewSection": {
+              "itemImage": {
+                "altText": null,
+                "templateUrl": "https://d2d8wwwkmhfcva.cloudfront.net/{width=}x{height=}/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_22c2a681-4af0-4488-8fc0-754ad806b648.png",
+                "__typename": "Image"
+              },
+              "trackingProperties": {
+                "element_attributes": {
+                  "low_stock_label": false
+                },
+                "low_stock_label": false,
+                "element_details": {
+                  "element_type": "item",
+                  "product_id": 18876663,
+                  "retailer_location_id": 88059,
+                  "element_id": "items_88059-18876663"
+                },
+                "on_sale_ind": {
+                  "on_sale": false,
+                  "retailer": false,
+                  "buy_one_get_one": false,
+                  "cpg_coupon": false
+                }
+              },
+              "itemCardRatingVariant": "hidden",
+              "itemCardLowStockLevelVariant": "hidden",
+              "quantityAttributesVariant": "eachAndWeight",
+              "lowStockVariant": "none",
+              "__typename": "ItemsResponseBackedItemSection"
+            },
+            "tags": [],
+            "__typename": "ItemsItem"
+          },
+          {
+            "id": "items_88059-3146398",
+            "name": "Splenda Liquid Sweetener, Zero",
+            "size": "1 each",
+            "productId": "3146398",
+            "legacyV3Id": "item_1751634630",
+            "configurableProductId": null,
+            "productRating": {
+              "amount": 0,
+              "value": null,
+              "viewSection": {
+                "amountString": "0",
+                "__typename": "ItemsResponseBackedProductRatingSection"
+              },
+              "__typename": "ItemsProductRating"
+            },
+            "quantityAttributesEach": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "quantityAttributesWeight": null,
+            "quantityAttributes": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "availability": {
+              "available": true,
+              "viewSection": {
+                "stockLevelLabelString": null,
+                "__typename": "AvailabilityResponseBackedAvailabilitySection"
+              },
+              "__typename": "ItemsAvailability"
+            },
+            "variantGroup": {
+              "viewSection": {
+                "optionsSummaryString": null,
+                "__typename": "ItemVariantGroupsResponseBackedVariantGroupSection"
+              },
+              "__typename": "ItemsVariantGroup"
+            },
+            "variantDimensionValues": [],
+            "viewSection": {
+              "itemImage": {
+                "altText": null,
+                "templateUrl": "https://d2d8wwwkmhfcva.cloudfront.net/{width=}x{height=}/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0f80cf6c-f092-4d24-9111-c7d363e15b1c.jpeg",
+                "__typename": "Image"
+              },
+              "trackingProperties": {
+                "element_attributes": {
+                  "low_stock_label": false
+                },
+                "low_stock_label": false,
+                "element_details": {
+                  "element_type": "item",
+                  "product_id": 3146398,
+                  "retailer_location_id": 88059,
+                  "element_id": "items_88059-3146398"
+                },
+                "on_sale_ind": {
+                  "on_sale": false,
+                  "retailer": false,
+                  "buy_one_get_one": false,
+                  "cpg_coupon": false
+                }
+              },
+              "itemCardRatingVariant": "hidden",
+              "itemCardLowStockLevelVariant": "hidden",
+              "quantityAttributesVariant": "eachAndWeight",
+              "lowStockVariant": "none",
+              "__typename": "ItemsResponseBackedItemSection"
+            },
+            "tags": [],
+            "__typename": "ItemsItem"
+          },
+          {
+            "id": "items_88059-198228",
+            "name": "Barilla® Classic Blue Box Pasta Elbows",
+            "size": "32 oz",
+            "productId": "198228",
+            "legacyV3Id": "item_1794840540",
+            "configurableProductId": null,
+            "productRating": {
+              "amount": 0,
+              "value": null,
+              "viewSection": {
+                "amountString": "0",
+                "__typename": "ItemsResponseBackedProductRatingSection"
+              },
+              "__typename": "ItemsProductRating"
+            },
+            "quantityAttributesEach": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "quantityAttributesWeight": null,
+            "quantityAttributes": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "availability": {
+              "available": true,
+              "viewSection": {
+                "stockLevelLabelString": null,
+                "__typename": "AvailabilityResponseBackedAvailabilitySection"
+              },
+              "__typename": "ItemsAvailability"
+            },
+            "variantGroup": {
+              "viewSection": {
+                "optionsSummaryString": null,
+                "__typename": "ItemVariantGroupsResponseBackedVariantGroupSection"
+              },
+              "__typename": "ItemsVariantGroup"
+            },
+            "variantDimensionValues": [],
+            "viewSection": {
+              "itemImage": {
+                "altText": null,
+                "templateUrl": "https://d2d8wwwkmhfcva.cloudfront.net/{width=}x{height=}/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b4aea0c5-b5dc-44d3-a473-d8a284a6d484.jpeg",
+                "__typename": "Image"
+              },
+              "trackingProperties": {
+                "element_attributes": {
+                  "low_stock_label": false
+                },
+                "low_stock_label": false,
+                "element_details": {
+                  "element_type": "item",
+                  "product_id": 198228,
+                  "retailer_location_id": 88059,
+                  "element_id": "items_88059-198228"
+                },
+                "on_sale_ind": {
+                  "on_sale": false,
+                  "retailer": false,
+                  "buy_one_get_one": false,
+                  "cpg_coupon": false
+                }
+              },
+              "itemCardRatingVariant": "hidden",
+              "itemCardLowStockLevelVariant": "hidden",
+              "quantityAttributesVariant": "eachAndWeight",
+              "lowStockVariant": "none",
+              "__typename": "ItemsResponseBackedItemSection"
+            },
+            "tags": [],
+            "__typename": "ItemsItem"
+          },
+          {
+            "id": "items_88059-90802",
+            "name": "Smucker's Sugar Free Red Raspberry Preserves Sweetened with Splenda",
+            "size": "12.75 oz",
+            "productId": "90802",
+            "legacyV3Id": "item_1751533155",
+            "configurableProductId": null,
+            "productRating": {
+              "amount": 0,
+              "value": null,
+              "viewSection": {
+                "amountString": "0",
+                "__typename": "ItemsResponseBackedProductRatingSection"
+              },
+              "__typename": "ItemsProductRating"
+            },
+            "quantityAttributesEach": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "quantityAttributesWeight": null,
+            "quantityAttributes": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "availability": {
+              "available": true,
+              "viewSection": {
+                "stockLevelLabelString": null,
+                "__typename": "AvailabilityResponseBackedAvailabilitySection"
+              },
+              "__typename": "ItemsAvailability"
+            },
+            "variantGroup": {
+              "viewSection": {
+                "optionsSummaryString": null,
+                "__typename": "ItemVariantGroupsResponseBackedVariantGroupSection"
+              },
+              "__typename": "ItemsVariantGroup"
+            },
+            "variantDimensionValues": [],
+            "viewSection": {
+              "itemImage": {
+                "altText": null,
+                "templateUrl": "https://d2d8wwwkmhfcva.cloudfront.net/{width=}x{height=}/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_3164e6df-c9dd-49e6-927e-bd1c51f669f8.jpeg",
+                "__typename": "Image"
+              },
+              "trackingProperties": {
+                "element_attributes": {
+                  "low_stock_label": false
+                },
+                "low_stock_label": false,
+                "element_details": {
+                  "element_type": "item",
+                  "product_id": 90802,
+                  "retailer_location_id": 88059,
+                  "element_id": "items_88059-90802"
+                },
+                "on_sale_ind": {
+                  "on_sale": false,
+                  "retailer": false,
+                  "buy_one_get_one": false,
+                  "cpg_coupon": false
+                }
+              },
+              "itemCardRatingVariant": "hidden",
+              "itemCardLowStockLevelVariant": "hidden",
+              "quantityAttributesVariant": "eachAndWeight",
+              "lowStockVariant": "none",
+              "__typename": "ItemsResponseBackedItemSection"
+            },
+            "tags": [],
+            "__typename": "ItemsItem"
+          },
+          {
+            "id": "items_88059-34995",
+            "name": "Truvia Natural Sweetener",
+            "size": "9.8 oz",
+            "productId": "34995",
+            "legacyV3Id": "item_1790825611",
+            "configurableProductId": null,
+            "productRating": {
+              "amount": 0,
+              "value": null,
+              "viewSection": {
+                "amountString": "0",
+                "__typename": "ItemsResponseBackedProductRatingSection"
+              },
+              "__typename": "ItemsProductRating"
+            },
+            "quantityAttributesEach": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "quantityAttributesWeight": null,
+            "quantityAttributes": {
+              "increment": 1.0,
+              "initial": 1.0,
+              "max": 150.0,
+              "min": 1.0,
+              "quantityType": "each",
+              "viewSection": {
+                "maxedOutString": "Max 150 per order",
+                "unitAriaString": "item",
+                "unitPluralAriaString": "items",
+                "unitPluralString": "items",
+                "unitString": "item",
+                "iconUnitTypeVisibilityVariant": "hide",
+                "variableWeightDisclaimerString": null,
+                "__typename": "ItemsResponseBackedQuantityAttributesSection"
+              },
+              "__typename": "ItemsQuantityAttributes"
+            },
+            "availability": {
+              "available": true,
+              "viewSection": {
+                "stockLevelLabelString": null,
+                "__typename": "AvailabilityResponseBackedAvailabilitySection"
+              },
+              "__typename": "ItemsAvailability"
+            },
+            "variantGroup": {
+              "viewSection": {
+                "optionsSummaryString": null,
+                "__typename": "ItemVariantGroupsResponseBackedVariantGroupSection"
+              },
+              "__typename": "ItemsVariantGroup"
+            },
+            "variantDimensionValues": [],
+            "viewSection": {
+              "itemImage": {
+                "altText": null,
+                "templateUrl": "https://d2d8wwwkmhfcva.cloudfront.net/{width=}x{height=}/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_a9b821ed-9fe2-427d-ab03-18db8acaa30a.jpeg",
+                "__typename": "Image"
+              },
+              "trackingProperties": {
+                "element_attributes": {
+                  "low_stock_label": false
+                },
+                "low_stock_label": false,
+                "element_details": {
+                  "element_type": "item",
+                  "product_id": 34995,
+                  "retailer_location_id": 88059,
+                  "element_id": "items_88059-34995"
+                },
+                "on_sale_ind": {
+                  "on_sale": false,
+                  "retailer": false,
+                  "buy_one_get_one": false,
+                  "cpg_coupon": false
+                }
+              },
+              "itemCardRatingVariant": "hidden",
+              "itemCardLowStockLevelVariant": "hidden",
+              "quantityAttributesVariant": "eachAndWeight",
+              "lowStockVariant": "none",
+              "__typename": "ItemsResponseBackedItemSection"
+            },
+            "tags": [],
+            "__typename": "ItemsItem"
+          }
+        ],
+        "__typename": "AdsFeaturedProductsList"
+      },
+      "__typename": "AdsFeaturedProductsResultList"
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "maxAge": 60,
+          "scope": "PRIVATE",
+          "path": [
+            "navCollectionFeaturedProductsList"
+          ]
+        },
+        {
+          "maxAge": 3600,
+          "scope": "PRIVATE",
+          "path": [
+            "navCollectionFeaturedProductsList",
+            "featuredProductsList",
+            "items"
+          ]
+        }
+      ]
+    }
+  }
+}

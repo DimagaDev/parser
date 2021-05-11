@@ -1,0 +1,306 @@
+{
+  "data": {
+    "collection": {
+      "id": "d31568",
+      "rank": 1,
+      "parentId": null,
+      "name": "Pantry",
+      "slug": "d31568-pantry",
+      "viewSection": {
+        "trackingProperties": {
+          "source_type": "parent_collection",
+          "source_value": "d31568",
+          "collection_type": "department",
+          "element_id": "d31568",
+          "element_type": "collection",
+          "element_value": "Pantry"
+        },
+        "__typename": "CollectionsResponseBackedCollectionSection"
+      },
+      "__typename": "CollectionsCollection",
+      "parentCollection": null,
+      "childCollections": [
+        {
+          "id": "a169644",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Canned Goods",
+          "slug": "a169644-canned-goods",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169644",
+              "collection_type": "department",
+              "element_id": "a169644",
+              "element_type": "collection",
+              "element_value": "Canned Goods"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169647",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Condiments",
+          "slug": "a169647-condiments",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169647",
+              "collection_type": "department",
+              "element_id": "a169647",
+              "element_type": "collection",
+              "element_value": "Condiments"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169642",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Baking",
+          "slug": "a169642-baking",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169642",
+              "collection_type": "department",
+              "element_id": "a169642",
+              "element_type": "collection",
+              "element_value": "Baking"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169645",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Cereal \u0026 Breakfast Food",
+          "slug": "a169645-cereal-breakfast-food",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169645",
+              "collection_type": "department",
+              "element_id": "a169645",
+              "element_type": "collection",
+              "element_value": "Cereal \u0026 Breakfast Food"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169657",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Soup",
+          "slug": "a169657-soup",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169657",
+              "collection_type": "department",
+              "element_id": "a169657",
+              "element_type": "collection",
+              "element_value": "Soup"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169654",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Pasta \u0026 Pizza",
+          "slug": "a169654-pasta-pizza",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169654",
+              "collection_type": "department",
+              "element_id": "a169654",
+              "element_type": "collection",
+              "element_value": "Pasta \u0026 Pizza"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169651",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Herbs, Spices \u0026 Seasoning",
+          "slug": "a169651-herbs-spices-seasoning",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169651",
+              "collection_type": "department",
+              "element_id": "a169651",
+              "element_type": "collection",
+              "element_value": "Herbs, Spices \u0026 Seasoning"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169643",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Boxed Dinners",
+          "slug": "a169643-boxed-dinners",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169643",
+              "collection_type": "department",
+              "element_id": "a169643",
+              "element_type": "collection",
+              "element_value": "Boxed Dinners"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169652",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "International Foods",
+          "slug": "a169652-international-foods",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169652",
+              "collection_type": "department",
+              "element_id": "a169652",
+              "element_type": "collection",
+              "element_value": "International Foods"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169658",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Stock Up Pantry",
+          "slug": "a169658-stock-up-pantry",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169658",
+              "collection_type": "department",
+              "element_id": "a169658",
+              "element_type": "collection",
+              "element_value": "Stock Up Pantry"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169648",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Cooking Oils \u0026 Vinegar",
+          "slug": "a169648-cooking-oils-vinegar",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169648",
+              "collection_type": "department",
+              "element_id": "a169648",
+              "element_type": "collection",
+              "element_value": "Cooking Oils \u0026 Vinegar"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169656",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Rice, Grains \u0026 Dried Beans",
+          "slug": "a169656-rice-grains-dried-beans",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169656",
+              "collection_type": "department",
+              "element_id": "a169656",
+              "element_type": "collection",
+              "element_value": "Rice, Grains \u0026 Dried Beans"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169655",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "Potatoes \u0026 Stuffing",
+          "slug": "a169655-potatoes-stuffing",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169655",
+              "collection_type": "department",
+              "element_id": "a169655",
+              "element_type": "collection",
+              "element_value": "Potatoes \u0026 Stuffing"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        },
+        {
+          "id": "a169653",
+          "rank": 2,
+          "parentId": "31568",
+          "name": "New In Pantry",
+          "slug": "a169653-new-in-pantry",
+          "viewSection": {
+            "trackingProperties": {
+              "source_type": "collection",
+              "source_value": "a169653",
+              "collection_type": "department",
+              "element_id": "a169653",
+              "element_type": "collection",
+              "element_value": "New In Pantry"
+            },
+            "__typename": "CollectionsResponseBackedCollectionSection"
+          },
+          "__typename": "CollectionsCollection"
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cacheControl": {
+      "version": 1,
+      "hints": [
+        {
+          "maxAge": 3600,
+          "scope": "PRIVATE",
+          "path": [
+            "collection"
+          ]
+        }
+      ]
+    }
+  }
+}

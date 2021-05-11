@@ -1,0 +1,3309 @@
+[
+	{
+		"count": 162,
+		"results": [
+			{
+				"ean": "metro98690056966150",
+				"sku": "424094",
+				"title": "French Baguette 250g",
+				"price": 1150,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1150,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baget-250g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/metro98690056966150/baget-250g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/m.1602229474.ad72436478c_2020-10-09_Svetlana/m.1602229474.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 250,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820225950029",
+				"sku": "397142",
+				"title": "Buckwheat Baguette 235g",
+				"price": 1654,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1654,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baget-235g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820225950029/baget-235g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/26.1577364107.ad72436478c_2019-12-26_Svetlana/26.1577364107.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 235,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820227212811",
+				"sku": "425030",
+				"title": "Metro Chef Armenian Pita 300g",
+				"price": 1750,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1750,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "lavash-metro-shef-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820227212811/lavash-metro-shef-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "METRO Chef",
+					"trademark_slug": "metro-chef",
+					"website": null,
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+					},
+					"name": "МЕTRO Cash&Carry"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/060121.1610554341.ad72436478c_2021-01-13_Svetlana/060121.1610554341.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04337182137252",
+				"sku": "391470",
+				"title": "Metro Chef Wraps Wheat Flour Tortillas 20cm х 8pcs",
+				"price": 3390,
+				"price_wholesale": [],
+				"discount": {
+					"status": true,
+					"value": 11,
+					"old_price": 3790,
+					"due_date": "2021-05-25"
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "tortilia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04337182137252/tortilia/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": 8,
+				"country": null,
+				"producer": {
+					"trademark": "METRO Chef",
+					"trademark_slug": "metro-chef",
+					"website": null,
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+					},
+					"name": "МЕTRO Cash&Carry"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/done.1617885078.ad72436478c_2021-04-08_Svetlana/done.1617885078.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 320,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820062051538",
+				"sku": "332751",
+				"title": "Rumyanets Borodynskyi Sliced Bread With Sunflower Seeds",
+				"price": 2650,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2650,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "317.00cal",
+					"ingredient_protein": "10.50g",
+					"ingredient_fat": "10.00g"
+				},
+				"slug": "khlib-rum-ianets-500g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820062051538/khlib-rum-ianets-500g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "РУМ'ЯНЕЦЬ",
+					"trademark_slug": "rumianets",
+					"website": "rumianets.ua",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.64x64.png"
+					},
+					"name": "llc \"hlebodar\""
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/novus20200928.1603099016.ad72436478c_2020-10-20_Alina/novus20200928.1603099016.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 482,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205871511",
+				"sku": "257717",
+				"title": "Kyyivsʹkyy BKK Persian pita 5pcs 230g",
+				"price": 1790,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1790,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "4 round lavashes, ideal for shawarma and burrito.",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.30g"
+				},
+				"slug": "lavash-kiyivkhlib-230g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820205871511/lavash-kiyivkhlib-230g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"high grade wheat flour, salt, drinking water"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Київхліб",
+					"trademark_slug": "kiyivkhlib",
+					"website": "kyivkhlib.ua",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+					},
+					"name": "ПАТ \"Київхліб\""
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 280,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820174301507",
+				"sku": "111697",
+				"title": "Kulinichi European bread toast bran 350g",
+				"price": 1990,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1990,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-kulinichi-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820174301507/khlib-kulinichi-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "06410500098393",
+				"sku": "101179",
+				"title": "Finn Crisp With Bran Crispbread 200g",
+				"price": 4990,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 4990,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "snacks-and-sweets-metro",
+				"description": "FINN CRISP bread with bran is another little trick. A real source of useful vitamins, minerals and dietary fiber. Have you already guessed? Yes, this is for those who follow the figure and think about health.",
+				"nutrition_facts": {
+					"ingredient_energy": "330.00cal",
+					"ingredient_protein": "10.00g",
+					"ingredient_fat": "2.20g",
+					"ingredient_carbohydrates": "57.00g"
+				},
+				"slug": "khlibtsi-fin-krisp-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/06410500098393/khlibtsi-fin-krisp-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"Whole grain rye flour 86%, rye bran 6%, drinking water, pressed baker's yeast, table salt. May contain sesame seeds."
+				],
+				"fat": null,
+				"shelf_life": "12 months",
+				"temperature_range": "in a dry place",
+				"pack_amount": null,
+				"country": "finland",
+				"producer": {
+					"trademark": "Finn Crisp",
+					"trademark_slug": "finn-crisp",
+					"website": "lantmannen.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.64x64.png"
+					},
+					"name": "lantmannen axa jsc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/done.1599661989.ad72436478c_2020-09-09_Svetlana/done.1599661989.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 200,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820159020096",
+				"sku": "359196",
+				"title": "Long loaf Nyva Tsar hlib (sliced) 250g half",
+				"price": 1120,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1120,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "268.00cal",
+					"ingredient_protein": "8.00g",
+					"ingredient_fat": "2.30g"
+				},
+				"slug": "baton-tsar-khlib-250g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820159020096/baton-tsar-khlib-250g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"sunflower oil, high grade wheat flour, drinking water, yeast, salt, sugar"
+				],
+				"fat": null,
+				"shelf_life": "48 hours",
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Цар хліб",
+					"trademark_slug": "tsar-khlib",
+					"website": "hlebinvest.com.ua",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.32x32.jpeg",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.16x16.jpeg",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.64x64.jpeg"
+					},
+					"name": "ТОВ Перший столичний хлібозавод"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/novus20200928.1603099256.ad72436478c_2020-10-20_Alina/novus20200928.1603099256.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/1.1570444843.ad72436478c_2019-10-08_Tatiana/1.1570444843.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/1.1570444843.ad72436478c_2019-10-08_Tatiana/1.1570444843.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1570444843.ad72436478c_2019-10-08_Tatiana/1.1570444843.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1570444843.ad72436478c_2019-10-08_Tatiana/1.1570444843.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 242,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820219910107",
+				"sku": "409704",
+				"title": "Riga Hlib Fragrant Yeast Bread 300g",
+				"price": 2490,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2490,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-riga-khlib-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820219910107/khlib-riga-khlib-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "RIGA ХЛІБ",
+					"trademark_slug": "riga-khlib",
+					"website": "rigahlib.ch.ua",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fdf28b23cfb3ce1304dabbf7d6730b0e.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fdf28b23cfb3ce1304dabbf7d6730b0e.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.fdf28b23cfb3ce1304dabbf7d6730b0e.64x64.png"
+					},
+					"name": "ТОВ \"ТД \"Рига Хліб\""
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/10112020.1605009709.ad72436478c_2020-11-10_Tatyana_L/10112020.1605009709.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820062052689",
+				"sku": "43111",
+				"title": "Rumyanets Whole grain wheat bread sliced 400g",
+				"price": 2650,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2650,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-rum-ianets-400g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820062052689/khlib-rum-ianets-400g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "РУМ'ЯНЕЦЬ",
+					"trademark_slug": "rumianets",
+					"website": "rumianets.ua",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.9c3fdc5a8bc392ab5b112bf5018758a7.64x64.png"
+					},
+					"name": "llc \"hlebodar\""
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/src.1610361115.ad72436478c_2021-01-12_Svetlana/src.1610361115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 400,
+				"has_similar_products": null
+			},
+			{
+				"ean": "06410500098270",
+				"sku": "101180",
+				"title": "Finn Crisp Traditional Rye Crispbread 200g",
+				"price": 4990,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 4990,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "snacks-and-sweets-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "340.00cal",
+					"ingredient_protein": "9.00g",
+					"ingredient_fat": "2.30g",
+					"ingredient_carbohydrates": "62.00g"
+				},
+				"slug": "khlibtsi-fin-krisp-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/06410500098270/khlibtsi-fin-krisp-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"Whole grain rye flour 86%, rye flour, water, yeast, salt, emulsifier (E471), ground cumin. May contain sesame seeds."
+				],
+				"fat": null,
+				"shelf_life": "12 months",
+				"temperature_range": "in a dry place",
+				"pack_amount": null,
+				"country": "finland",
+				"producer": {
+					"trademark": "Finn Crisp",
+					"trademark_slug": "finn-crisp",
+					"website": "lantmannen.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.64x64.png"
+					},
+					"name": "lantmannen axa jsc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/done.1599662032.ad72436478c_2020-09-09_Svetlana/done.1599662032.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 200,
+				"has_similar_products": null
+			},
+			{
+				"ean": "06410500090014",
+				"sku": "101178",
+				"title": "Finn Crisp Original Rye Rusks 200g",
+				"price": 4990,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 4990,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "snacks-and-sweets-metro",
+				"description": "Rye Rusks are a real hit, they are the most popular and beloved among all the variety of FINN CRISP products. Their recipe was developed in 1952 and has not changed since. Needless to say, a recipe that has been tested over time and generations!",
+				"nutrition_facts": {
+					"ingredient_energy": "347.00cal",
+					"ingredient_protein": "10.00g",
+					"ingredient_fat": "2.70g",
+					"ingredient_carbohydrates": "62.00g"
+				},
+				"slug": "khlibtsi-fin-krisp-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/06410500090014/khlibtsi-fin-krisp-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"Whole-ground rye flour, water, salt, yeast. May contain sesame seeds."
+				],
+				"fat": null,
+				"shelf_life": "12 months",
+				"temperature_range": "in a dry place",
+				"pack_amount": null,
+				"country": "finland",
+				"producer": {
+					"trademark": "Finn Crisp",
+					"trademark_slug": "finn-crisp",
+					"website": "lantmannen.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.6255d074e4a04ec281e79e3c4fad7ffd.64x64.png"
+					},
+					"name": "lantmannen axa jsc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/m.1602248697.ad72436478c_2020-10-09_Svetlana/m.1602248697.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/m.1602248669.ad72436478c_2020-10-09_Svetlana/m.1602248669.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/m.1602248669.ad72436478c_2020-10-09_Svetlana/m.1602248669.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/m.1602248669.ad72436478c_2020-10-09_Svetlana/m.1602248669.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/m.1602248669.ad72436478c_2020-10-09_Svetlana/m.1602248669.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 200,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820193090123",
+				"sku": "383792",
+				"title": "Tasty Style buckwheat crispbread 95g",
+				"price": 1810,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1810,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "379.00cal",
+					"ingredient_protein": "11.00g",
+					"ingredient_fat": "2.70g",
+					"ingredient_carbohydrates": "77.50g"
+				},
+				"slug": "khlibtsi-teisti-stail-95g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820193090123/khlibtsi-teisti-stail-95g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"buckwheat, water, salt"
+				],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Tasty Style",
+					"trademark_slug": "tasty-style",
+					"website": "www.tasty-style.com.ua",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.67258db018fcbf405142e17ec7e4d00e.32x32.jpeg",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.67258db018fcbf405142e17ec7e4d00e.16x16.jpeg",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.67258db018fcbf405142e17ec7e4d00e.64x64.jpeg"
+					},
+					"name": "\"mega crisp\" llc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/src.1609408185.ad72436478c_2020-12-31_Svetlana/src.1609408185.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 95,
+				"has_similar_products": null
+			},
+			{
+				"ean": "metro98690056887710",
+				"sku": "418740",
+				"title": "Bread without yeast light 300g",
+				"price": 2190,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2190,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/metro98690056887710/khlib-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Хлібпром",
+					"trademark_slug": "khlibprom",
+					"website": "hlibprom.com.ua",
+					"logo": {
+						"s16x16": null,
+						"s32x32": null,
+						"s64x64": null
+					},
+					"name": "ПрАТ Концерн Хлібпром"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/ukr.1578571471.ad72436478c_2020-01-09_Svetlana/ukr.1578571471.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820212330018",
+				"sku": "73762",
+				"title": "Vitograno Wholegrain Rye Bread 440g",
+				"price": 2750,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2750,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-vitograno-440g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820212330018/khlib-vitograno-440g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "vitiograno",
+					"trademark_slug": "vitiograno",
+					"website": "vitograno.com",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.07d990cae73ebe122155dd983d9ba0e8.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.07d990cae73ebe122155dd983d9ba0e8.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.07d990cae73ebe122155dd983d9ba0e8.64x64.png"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.f3ab4f2821321743302f112dcf982d35.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 440,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820179170030",
+				"sku": "365247",
+				"title": "Ifood Armenian pita 300g",
+				"price": 2190,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2190,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "lavash-aifud-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820179170030/lavash-aifud-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Ifood",
+					"trademark_slug": "ifood",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/src.1610447040.ad72436478c_2021-01-12_Svetlana/src.1610447040.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820212330032",
+				"sku": "73789",
+				"title": "Vitograno Wholegrain Wheat Bread 300g",
+				"price": 2890,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2890,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-vito-grano-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820212330032/khlib-vito-grano-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Vito Грано",
+					"trademark_slug": "vito-grano",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/novus20200123.1579795901.ad72436478c_2020-01-23_Alina/novus20200123.1579795901.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205871504",
+				"sku": "257716",
+				"title": "BKK Armenian pita 2 pcs 200g",
+				"price": 1790,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1790,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "2 rectangular thin and elastic lavashes.",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.30g"
+				},
+				"slug": "lavash-bkk-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820205871504/lavash-bkk-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"natural dye, acidity regulator, preservatives, whey, citric acid, egg white, sorbic acid, starchy molasses, high grade wheat flour, powdered sugar, cream, condensed milk, cognac, cocoa powder, butter, sugar"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "-2...6",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "БКК",
+					"trademark_slug": "bkk",
+					"website": "kyivbkk.com/ru",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.64x64.png"
+					},
+					"name": "ТОВ Київський БКК"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 206,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205872044",
+				"sku": "402121",
+				"title": "BKK with spinach pita 200g",
+				"price": 1850,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1850,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "Spinach lavash has a bright taste, an unusual color and contains natural spinach, which is a source of vitamins and microelements. Made of high-grade flour, the lavash does not have any yeast, preservative, sugar, or GMO. Thin, elastic, and perfect for preparing different dishes such as rolls, pies, enevlopes, etc.",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.30g"
+				},
+				"slug": "lavash-bkk-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820205872044/lavash-bkk-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"antioxidants, preservatives, baking powder, rum flavoring, emulsifier, yolk, caramel flavoring, baked milk flavoring, drinking water, dry milk serum, condensed milk, cognac, sorbic acid, starchy molasses, high grade wheat flour, chicken eggs, cooking fat, flavor butter cream, refined sunflower oil, dye natural b-carotene, butter, sugar"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "-2...6",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "БКК",
+					"trademark_slug": "bkk",
+					"website": "kyivbkk.com/ru",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.64x64.png"
+					},
+					"name": "ТОВ Київський БКК"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/done.1599657143.ad72436478c_2020-09-09_Svetlana/done.1599657143.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 202,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820159020430",
+				"sku": "359199",
+				"title": "Tsar Khlib Zhytnye Dyvo Rye Bread 400g",
+				"price": 2550,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2550,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "5.90g",
+					"ingredient_fat": "0.90g",
+					"ingredient_carbohydrates": "45.40g"
+				},
+				"slug": "khlib-tsar-khlib-400g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820159020430/khlib-tsar-khlib-400g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"rye flour, first grade wheat flour, sugar syrup, liquid yeast, acetic acid, salt, yeast, cilantro, drinking water, malt extract, lactic acid, malt"
+				],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Цар хліб",
+					"trademark_slug": "tsar-khlib",
+					"website": "hlebinvest.com.ua",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.32x32.jpeg",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.16x16.jpeg",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.64x64.jpeg"
+					},
+					"name": "ТОВ Перший столичний хлібозавод"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.4222f2f3dc4eb4c4207ab17b5a9e05dd.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/1.1570446829.ad72436478c_2019-10-08_Tatiana/1.1570446829.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1570446829.ad72436478c_2019-10-08_Tatiana/1.1570446829.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1570446829.ad72436478c_2019-10-08_Tatiana/1.1570446829.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1570446829.ad72436478c_2019-10-08_Tatiana/1.1570446829.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1570447052.ad72436478c_2019-10-08_Tatiana/1.1570447052.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/1.1570447052.ad72436478c_2019-10-08_Tatiana/1.1570447052.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1570447052.ad72436478c_2019-10-08_Tatiana/1.1570447052.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1570447052.ad72436478c_2019-10-08_Tatiana/1.1570447052.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 466,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820159020577",
+				"sku": "359192",
+				"title": "Tsar Khlib New Ukrainian Sliced Half Bread 475g",
+				"price": 1650,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1650,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "206.00cal",
+					"ingredient_protein": "7.70g",
+					"ingredient_fat": "1.20g",
+					"ingredient_carbohydrates": "43.20g"
+				},
+				"slug": "khlib-tsar-khlib-475g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820159020577/khlib-tsar-khlib-475g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"drinking water, wheat flour, rye flour, yeast, salt"
+				],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Цар хліб",
+					"trademark_slug": "tsar-khlib",
+					"website": "hlebinvest.com.ua",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.32x32.jpeg",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.16x16.jpeg",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.64x64.jpeg"
+					},
+					"name": "ТОВ Перший столичний хлібозавод"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.13e67dbfb1fe440e8bedd6444713fcbb.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 450,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205871528",
+				"sku": "351635",
+				"title": "BKK Caucasian pita 230g",
+				"price": 1850,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1850,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "2 rectangular lavashes are ideal for shish-kebab and spicy Oriental cuisine.",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.00g"
+				},
+				"slug": "lavash-bkk-230g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820205871528/lavash-bkk-230g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"natural dye, high grade wheat flour, drinking water, salt, spinach"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "6...25",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "БКК",
+					"trademark_slug": "bkk",
+					"website": "kyivbkk.com/ru",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.64x64.png"
+					},
+					"name": "ТОВ Київський БКК"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 230,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205872051",
+				"sku": "411515",
+				"title": "Bkk do shashliku pita 200g",
+				"price": 1790,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1790,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "Lavash to shish-kebab has an enriched spice flavor of a perfectly balanced mixture of peppers, curcuma, and paprika.",
+				"nutrition_facts": {
+					"ingredient_energy": "220.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.80g"
+				},
+				"slug": "lavash-bkk-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820205872051/lavash-bkk-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"high grade wheat flour, wheat gluten, drinking water, tumeric, salt"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "-2...6",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "БКК",
+					"trademark_slug": "bkk",
+					"website": "kyivbkk.com/ru",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.64x64.png"
+					},
+					"name": "ТОВ Київський БКК"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/done.1599657304.ad72436478c_2020-09-09_Svetlana/done.1599657304.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 212,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820159021192",
+				"sku": "359197",
+				"title": "Tsar Hlib Bread for Toasts 350g",
+				"price": 1950,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1950,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "An irreplaceable thing for European brekfasts and for sandwich lovers",
+				"nutrition_facts": {
+					"ingredient_energy": "269.00cal",
+					"ingredient_protein": "7.70g",
+					"ingredient_fat": "3.10g",
+					"ingredient_carbohydrates": "50.20g"
+				},
+				"slug": "khlib-tsar-khlib-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820159021192/khlib-tsar-khlib-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"drinking water, high grade wheat flour, margarine, sugar"
+				],
+				"fat": null,
+				"shelf_life": "120 hours",
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Цар хліб",
+					"trademark_slug": "tsar-khlib",
+					"website": "hlebinvest.com.ua",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.32x32.jpeg",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.16x16.jpeg",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.64x64.jpeg"
+					},
+					"name": "ТОВ Перший столичний хлібозавод"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20191007.1570525186.ad72436478c_2019-10-08_Tatiana/20191007.1570525186.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1570451542.ad72436478c_2019-10-08_Tatiana/1.1570451542.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1570451542.ad72436478c_2019-10-08_Tatiana/1.1570451542.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1570451542.ad72436478c_2019-10-08_Tatiana/1.1570451542.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/1.1570451542.ad72436478c_2019-10-08_Tatiana/1.1570451542.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820152180162",
+				"sku": "336021",
+				"title": "Zhmenka Rice Crispbread",
+				"price": 2130,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2130,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "snacks-and-sweets-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "391.00cal"
+				},
+				"slug": "khlibtsi-zhmenka-100g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820152180162/khlibtsi-zhmenka-100g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "6 months",
+				"temperature_range": "0...25",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Жменька",
+					"trademark_slug": "zhmenka",
+					"website": "rice.ua",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.f10c4ed66689e656b114459c507f855a.32x32.jpeg",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.f10c4ed66689e656b114459c507f855a.16x16.jpeg",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.f10c4ed66689e656b114459c507f855a.64x64.jpeg"
+					},
+					"name": "factory of grocery products ltd"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/src.1609408068.ad72436478c_2020-12-31_Svetlana/src.1609408068.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 100,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820159021642",
+				"sku": "18949",
+				"title": "Tsar Khlib Fitness Sliced Toast Bread 350g",
+				"price": 2290,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2290,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "270.00cal",
+					"ingredient_protein": "8.70g",
+					"ingredient_fat": "4.90g",
+					"ingredient_carbohydrates": "47.70g"
+				},
+				"slug": "khlib-tsar-khlib-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820159021642/khlib-tsar-khlib-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"emulsifier, high grade wheat flour, refined sunflower oil, improver, ascorbic acid, dried carrots, drinking water, sugar, salt, pumpkin seeds, sunflower seeds, wheat flour, dextrose, soy flour, flaxseed, wheat gluten, yeast"
+				],
+				"fat": null,
+				"shelf_life": "120 hours",
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Цар хліб",
+					"trademark_slug": "tsar-khlib",
+					"website": "hlebinvest.com.ua",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.32x32.jpeg",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.16x16.jpeg",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.18d5eb68a9b33b3729163ffd35e4e93f.64x64.jpeg"
+					},
+					"name": "ТОВ Перший столичний хлібозавод"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/src.1617641458.ad72436478c_2021-04-06_Victor/src.1617641458.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "03800233070019",
+				"sku": "392075",
+				"title": "Rice Up! unsalted brown rice cakes 120g",
+				"price": 2390,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2390,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlibtsi-rais-ap-120g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/03800233070019/khlibtsi-rais-ap-120g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "rice UP!",
+					"trademark_slug": "rice-up",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/src.1609324946.ad72436478c_2020-12-30_Svetlana/src.1609324946.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 120,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820227212828",
+				"sku": "425029",
+				"title": "Metro Chef Armenian Pita 150g",
+				"price": 890,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 890,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "lavash-metro-shef-150g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/04820227212828/lavash-metro-shef-150g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "METRO Chef",
+					"trademark_slug": "metro-chef",
+					"website": null,
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+					},
+					"name": "МЕTRO Cash&Carry"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/060121.1610554745.ad72436478c_2021-01-13_Svetlana/060121.1610554745.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 150,
+				"has_similar_products": null
+			},
+			{
+				"ean": "metro98690056887880",
+				"sku": "418742",
+				"title": "Bread without yeast dark 300g",
+				"price": 2290,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2290,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-metro",
+				"parent_category_id": "bakery-metro",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://metro.zakaz.ua/en/products/metro98690056887880/khlib-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Хлібпром",
+					"trademark_slug": "khlibprom",
+					"website": "hlibprom.com.ua",
+					"logo": {
+						"s16x16": null,
+						"s32x32": null,
+						"s64x64": null
+					},
+					"name": "ПрАТ Концерн Хлібпром"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/ukr.1578571822.ad72436478c_2020-01-09_Svetlana/ukr.1578571822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			}
+		],
+		"categories": [
+			{
+				"id": "bakery-metro",
+				"title": "Bakery",
+				"count": 162,
+				"children": [
+					{
+						"id": "bread-metro",
+						"title": "Bread",
+						"count": 62,
+						"children": [
+							{
+								"id": "loaves-metro",
+								"title": "Loaves",
+								"count": 5,
+								"children": []
+							},
+							{
+								"id": "baguette-metro",
+								"title": "Baguette",
+								"count": 3,
+								"children": []
+							},
+							{
+								"id": "ciabatta-metro",
+								"title": "Ciabatta",
+								"count": 1,
+								"children": []
+							},
+							{
+								"id": "buckwheat-bread-metro",
+								"title": "Buckwheat bread",
+								"count": 2,
+								"children": []
+							},
+							{
+								"id": "corn-bread-metro",
+								"title": "Corn bread",
+								"count": 1,
+								"children": []
+							},
+							{
+								"id": "wheat-bread-metro",
+								"title": "Wheat bread",
+								"count": 17,
+								"children": []
+							},
+							{
+								"id": "rye-bread-metro",
+								"title": "Rye bread",
+								"count": 17,
+								"children": []
+							},
+							{
+								"id": "rye-wheat-bread-metro",
+								"title": "Rye wheat bread",
+								"count": 18,
+								"children": []
+							}
+						]
+					},
+					{
+						"id": "bagels-metro",
+						"title": "Bagels",
+						"count": 23,
+						"children": [
+							{
+								"id": "puff-pastry-metro",
+								"title": "Puff pastry",
+								"count": 2,
+								"children": []
+							},
+							{
+								"id": "pirozhki-metro",
+								"title": "Stuffed buns",
+								"count": 2,
+								"children": []
+							},
+							{
+								"id": "buns-metro",
+								"title": "Buns,sweet cheese danish",
+								"count": 20,
+								"children": []
+							}
+						]
+					},
+					{
+						"id": "crispbread-metro",
+						"title": "Crispbread",
+						"count": 48,
+						"children": []
+					},
+					{
+						"id": "wheat-bread-and-shortcake-metro",
+						"title": "Pita and flatbread",
+						"count": 29,
+						"children": []
+					}
+				]
+			}
+		],
+		"filters": [
+			{
+				"type": "promotion",
+				"name": "Goods on sale",
+				"options": [
+					{
+						"name": "Goods on sale",
+						"count": 14,
+						"query": "1"
+					}
+				]
+			},
+			{
+				"type": "tm",
+				"name": "Brand",
+				"options": [
+					{
+						"name": "Barilla",
+						"count": 1,
+						"query": "barilla"
+					},
+					{
+						"name": "Bezgluten",
+						"count": 1,
+						"query": "bezgluten"
+					},
+					{
+						"name": "DAN CAKE",
+						"count": 9,
+						"query": "dan-cake"
+					},
+					{
+						"name": "Fine Food",
+						"count": 2,
+						"query": "fine-food"
+					},
+					{
+						"name": "Fine Life",
+						"count": 3,
+						"query": "fine-life"
+					},
+					{
+						"name": "Finn Crisp",
+						"count": 8,
+						"query": "finn-crisp"
+					},
+					{
+						"name": "HiPP",
+						"count": 1,
+						"query": "hipp"
+					},
+					{
+						"name": "Ifood",
+						"count": 2,
+						"query": "ifood"
+					},
+					{
+						"name": "LEKORNA",
+						"count": 7,
+						"query": "lekorna"
+					},
+					{
+						"name": "METRO Chef",
+						"count": 8,
+						"query": "metro-chef"
+					},
+					{
+						"name": "Mulivo Bianco",
+						"count": 1,
+						"query": "mulivo-bianco"
+					},
+					{
+						"name": "Nordic",
+						"count": 3,
+						"query": "nordic"
+					},
+					{
+						"name": "Panealba",
+						"count": 6,
+						"query": "panealba"
+					},
+					{
+						"name": "RIGA ХЛІБ",
+						"count": 14,
+						"query": "riga-khlib"
+					},
+					{
+						"name": "Roberto",
+						"count": 1,
+						"query": "roberto"
+					},
+					{
+						"name": "Sante",
+						"count": 1,
+						"query": "sante"
+					},
+					{
+						"name": "Schar",
+						"count": 4,
+						"query": "schar"
+					},
+					{
+						"name": "Tasty Style",
+						"count": 7,
+						"query": "tasty-style"
+					},
+					{
+						"name": "Vito Грано",
+						"count": 2,
+						"query": "vito-grano"
+					},
+					{
+						"name": "dobra grinka",
+						"count": 4,
+						"query": "dobra-grinka"
+					},
+					{
+						"name": "pan kroshka",
+						"count": 1,
+						"query": "pan-kroshka"
+					},
+					{
+						"name": "rice UP!",
+						"count": 4,
+						"query": "rice-up"
+					},
+					{
+						"name": "vitiograno",
+						"count": 1,
+						"query": "vitiograno"
+					},
+					{
+						"name": "БКК",
+						"count": 5,
+						"query": "bkk"
+					},
+					{
+						"name": "Жменька",
+						"count": 2,
+						"query": "zhmenka"
+					},
+					{
+						"name": "КУЛИНИЧІ",
+						"count": 8,
+						"query": "kulinichi"
+					},
+					{
+						"name": "Київхліб",
+						"count": 2,
+						"query": "kiyivkhlib"
+					},
+					{
+						"name": "Мілльвілль",
+						"count": 2,
+						"query": "millvill"
+					},
+					{
+						"name": "РУМ'ЯНЕЦЬ",
+						"count": 6,
+						"query": "rumianets"
+					},
+					{
+						"name": "УкрЕкоХліб",
+						"count": 5,
+						"query": "ukrekokhlib"
+					},
+					{
+						"name": "Хлібпром",
+						"count": 9,
+						"query": "khlibprom"
+					},
+					{
+						"name": "Цар хліб",
+						"count": 18,
+						"query": "tsar-khlib"
+					}
+				]
+			},
+			{
+				"type": "weight",
+				"name": "Weight",
+				"options": [
+					{
+						"name": "1000g",
+						"count": 1,
+						"query": "1000g"
+					},
+					{
+						"name": "100g",
+						"count": 14,
+						"query": "100g"
+					},
+					{
+						"name": "120g",
+						"count": 8,
+						"query": "120g"
+					},
+					{
+						"name": "135g",
+						"count": 1,
+						"query": "135g"
+					},
+					{
+						"name": "140g",
+						"count": 1,
+						"query": "140g"
+					},
+					{
+						"name": "1450g",
+						"count": 1,
+						"query": "1450g"
+					},
+					{
+						"name": "150g",
+						"count": 7,
+						"query": "150g"
+					},
+					{
+						"name": "1620g",
+						"count": 1,
+						"query": "1620g"
+					},
+					{
+						"name": "175g",
+						"count": 2,
+						"query": "175g"
+					},
+					{
+						"name": "180g",
+						"count": 3,
+						"query": "180g"
+					},
+					{
+						"name": "192g",
+						"count": 1,
+						"query": "192g"
+					},
+					{
+						"name": "200g",
+						"count": 19,
+						"query": "200g"
+					},
+					{
+						"name": "20g",
+						"count": 1,
+						"query": "20g"
+					},
+					{
+						"name": "220g",
+						"count": 2,
+						"query": "220g"
+					},
+					{
+						"name": "230g",
+						"count": 3,
+						"query": "230g"
+					},
+					{
+						"name": "235g",
+						"count": 1,
+						"query": "235g"
+					},
+					{
+						"name": "250g",
+						"count": 12,
+						"query": "250g"
+					},
+					{
+						"name": "260g",
+						"count": 1,
+						"query": "260g"
+					},
+					{
+						"name": "280g",
+						"count": 1,
+						"query": "280g"
+					},
+					{
+						"name": "300g",
+						"count": 17,
+						"query": "300g"
+					},
+					{
+						"name": "30g",
+						"count": 1,
+						"query": "30g"
+					},
+					{
+						"name": "315g",
+						"count": 2,
+						"query": "315g"
+					},
+					{
+						"name": "320g",
+						"count": 1,
+						"query": "320g"
+					},
+					{
+						"name": "330g",
+						"count": 1,
+						"query": "330g"
+					},
+					{
+						"name": "340g",
+						"count": 1,
+						"query": "340g"
+					},
+					{
+						"name": "350g",
+						"count": 9,
+						"query": "350g"
+					},
+					{
+						"name": "370g",
+						"count": 1,
+						"query": "370g"
+					},
+					{
+						"name": "38g",
+						"count": 1,
+						"query": "38g"
+					},
+					{
+						"name": "400g",
+						"count": 13,
+						"query": "400g"
+					},
+					{
+						"name": "437g",
+						"count": 1,
+						"query": "437g"
+					},
+					{
+						"name": "440g",
+						"count": 1,
+						"query": "440g"
+					},
+					{
+						"name": "450g",
+						"count": 1,
+						"query": "450g"
+					},
+					{
+						"name": "475g",
+						"count": 1,
+						"query": "475g"
+					},
+					{
+						"name": "500g",
+						"count": 5,
+						"query": "500g"
+					},
+					{
+						"name": "530g",
+						"count": 1,
+						"query": "530g"
+					},
+					{
+						"name": "600g",
+						"count": 2,
+						"query": "600g"
+					},
+					{
+						"name": "60g",
+						"count": 2,
+						"query": "60g"
+					},
+					{
+						"name": "70g",
+						"count": 3,
+						"query": "70g"
+					},
+					{
+						"name": "740g",
+						"count": 1,
+						"query": "740g"
+					},
+					{
+						"name": "750g",
+						"count": 3,
+						"query": "750g"
+					},
+					{
+						"name": "75g",
+						"count": 2,
+						"query": "75g"
+					},
+					{
+						"name": "80g",
+						"count": 1,
+						"query": "80g"
+					},
+					{
+						"name": "85g",
+						"count": 2,
+						"query": "85g"
+					},
+					{
+						"name": "90g",
+						"count": 4,
+						"query": "90g"
+					},
+					{
+						"name": "950g",
+						"count": 1,
+						"query": "950g"
+					},
+					{
+						"name": "95g",
+						"count": 4,
+						"query": "95g"
+					}
+				]
+			},
+			{
+				"type": "base",
+				"name": "Base",
+				"options": [
+					{
+						"name": "bran",
+						"count": 1,
+						"query": "bran"
+					},
+					{
+						"name": "bread",
+						"count": 1,
+						"query": "bread"
+					},
+					{
+						"name": "buckwheat",
+						"count": 4,
+						"query": "buckwheat"
+					},
+					{
+						"name": "corn",
+						"count": 6,
+						"query": "corn"
+					},
+					{
+						"name": "curd",
+						"count": 1,
+						"query": "curd"
+					},
+					{
+						"name": "grain",
+						"count": 3,
+						"query": "grain"
+					},
+					{
+						"name": "grains",
+						"count": 1,
+						"query": "grains"
+					},
+					{
+						"name": "multi grain",
+						"count": 4,
+						"query": "multi-grain"
+					},
+					{
+						"name": "oat",
+						"count": 1,
+						"query": "oat"
+					},
+					{
+						"name": "pearl barley",
+						"count": 1,
+						"query": "pearl-barley"
+					},
+					{
+						"name": "rice",
+						"count": 8,
+						"query": "rice"
+					},
+					{
+						"name": "rye",
+						"count": 19,
+						"query": "rye"
+					},
+					{
+						"name": "rye-wheat",
+						"count": 15,
+						"query": "rye-wheat"
+					},
+					{
+						"name": "waffle",
+						"count": 5,
+						"query": "waffle"
+					},
+					{
+						"name": "wheat",
+						"count": 13,
+						"query": "wheat"
+					},
+					{
+						"name": "with sprouted wheat",
+						"count": 2,
+						"query": "with-sprouted-wheat"
+					}
+				]
+			},
+			{
+				"type": "flavor",
+				"name": "Flavor",
+				"options": [
+					{
+						"name": "cherry",
+						"count": 1,
+						"query": "cherry"
+					},
+					{
+						"name": "currant",
+						"count": 1,
+						"query": "currant"
+					},
+					{
+						"name": "dill",
+						"count": 1,
+						"query": "dill"
+					},
+					{
+						"name": "flaxseed",
+						"count": 2,
+						"query": "flaxseed"
+					},
+					{
+						"name": "oil",
+						"count": 1,
+						"query": "oil"
+					},
+					{
+						"name": "pepper",
+						"count": 1,
+						"query": "pepper"
+					},
+					{
+						"name": "raspberry",
+						"count": 1,
+						"query": "raspberry"
+					},
+					{
+						"name": "salt",
+						"count": 1,
+						"query": "salt"
+					},
+					{
+						"name": "sea salt",
+						"count": 1,
+						"query": "sea-salt"
+					},
+					{
+						"name": "seeds",
+						"count": 1,
+						"query": "seeds"
+					},
+					{
+						"name": "with apple",
+						"count": 1,
+						"query": "with-apple"
+					},
+					{
+						"name": "with bilberries",
+						"count": 1,
+						"query": "with-bilberries"
+					},
+					{
+						"name": "with bran",
+						"count": 2,
+						"query": "with-bran"
+					},
+					{
+						"name": "with chicken",
+						"count": 1,
+						"query": "with-chicken"
+					},
+					{
+						"name": "with chocolate",
+						"count": 1,
+						"query": "with-chocolate"
+					},
+					{
+						"name": "with cocoa",
+						"count": 1,
+						"query": "with-cocoa"
+					},
+					{
+						"name": "with coriander",
+						"count": 2,
+						"query": "with-coriander"
+					},
+					{
+						"name": "with cream",
+						"count": 1,
+						"query": "with-cream"
+					},
+					{
+						"name": "with cumin",
+						"count": 2,
+						"query": "with-cumin"
+					},
+					{
+						"name": "with garlic",
+						"count": 2,
+						"query": "with-garlic"
+					},
+					{
+						"name": "with greens",
+						"count": 1,
+						"query": "with-greens"
+					},
+					{
+						"name": "with olives",
+						"count": 1,
+						"query": "with-olives"
+					},
+					{
+						"name": "with onion",
+						"count": 2,
+						"query": "with-onion"
+					},
+					{
+						"name": "with paprika",
+						"count": 1,
+						"query": "with-paprika"
+					},
+					{
+						"name": "with pumpkin seeds",
+						"count": 1,
+						"query": "with-pumpkin-seeds"
+					},
+					{
+						"name": "with quinoa",
+						"count": 1,
+						"query": "with-quinoa"
+					},
+					{
+						"name": "with rozmarinom",
+						"count": 1,
+						"query": "with-rozmarinom"
+					},
+					{
+						"name": "with sausage",
+						"count": 1,
+						"query": "with-sausage"
+					},
+					{
+						"name": "with sesame",
+						"count": 5,
+						"query": "with-sesame"
+					},
+					{
+						"name": "with spinach",
+						"count": 1,
+						"query": "with-spinach"
+					},
+					{
+						"name": "with sunflower seeds",
+						"count": 3,
+						"query": "with-sunflower-seeds"
+					},
+					{
+						"name": "with taste of cheese",
+						"count": 2,
+						"query": "with-taste-of-cheese"
+					},
+					{
+						"name": "with tomatoes",
+						"count": 1,
+						"query": "with-tomatoes"
+					}
+				]
+			},
+			{
+				"type": "method",
+				"name": "Method",
+				"options": [
+					{
+						"name": "cutting",
+						"count": 20,
+						"query": "cutting"
+					},
+					{
+						"name": "half",
+						"count": 6,
+						"query": "half"
+					},
+					{
+						"name": "scalded",
+						"count": 2,
+						"query": "scalded"
+					},
+					{
+						"name": "shortbread",
+						"count": 1,
+						"query": "shortbread"
+					},
+					{
+						"name": "without yeast",
+						"count": 7,
+						"query": "without-yeast"
+					}
+				]
+			},
+			{
+				"type": "for",
+				"name": "For",
+				"options": [
+					{
+						"name": "for a cake",
+						"count": 5,
+						"query": "for-a-cake"
+					},
+					{
+						"name": "for coffee",
+						"count": 1,
+						"query": "for-coffee"
+					},
+					{
+						"name": "for diabetics",
+						"count": 9,
+						"query": "for-diabetics"
+					},
+					{
+						"name": "for hamburger",
+						"count": 1,
+						"query": "for-hamburger"
+					},
+					{
+						"name": "for hot dogs",
+						"count": 1,
+						"query": "for-hot-dogs"
+					},
+					{
+						"name": "for sandwich",
+						"count": 1,
+						"query": "for-sandwich"
+					},
+					{
+						"name": "for toasts",
+						"count": 5,
+						"query": "for-toasts"
+					},
+					{
+						"name": "to the shashlick",
+						"count": 1,
+						"query": "to-the-shashlick"
+					}
+				]
+			}
+		],
+		"category_results": null
+	}
+]

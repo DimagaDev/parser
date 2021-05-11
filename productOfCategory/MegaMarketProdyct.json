@@ -1,0 +1,2567 @@
+[
+	{
+		"count": 87,
+		"results": [
+			{
+				"ean": "megamarket00000000149792",
+				"sku": "149792",
+				"title": "European Baguette 250g",
+				"price": 1400,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1400,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baget-250g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000149792/baget-250g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190819.1566204244.ad72436478c_2019-08-19_Tatiana/20190819.1566204244.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566204164.ad72436478c_2019-08-19_Tatiana/1.1566204164.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1566204164.ad72436478c_2019-08-19_Tatiana/1.1566204164.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1566204164.ad72436478c_2019-08-19_Tatiana/1.1566204164.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/1.1566204164.ad72436478c_2019-08-19_Tatiana/1.1566204164.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 250,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket02099530000000",
+				"sku": "209953",
+				"title": "Bio Khlib Buckwheat Baguette 300g",
+				"price": 2290,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2290,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baget-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket02099530000000/baget-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190522.1558460514.ad72436478c_2019-05-22_Kostia_megamarket_Alexey/20190522.1558460514.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000134095",
+				"sku": "134095",
+				"title": "Millvill Baguette 300g",
+				"price": 1890,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1890,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baget-millvill-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000134095/baget-millvill-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Мілльвілль",
+					"trademark_slug": "millvill",
+					"website": null,
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.64x64.png"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/10.1602886314.ad72436478c_2020-10-18_Victoria/10.1602886314.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket02358080000000",
+				"sku": "235808",
+				"title": "Bun French 350g",
+				"price": 1830,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1830,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "bulka-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket02358080000000/bulka-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/megamarket.1582897923.ad72436478c_2020-02-28_Victoria/megamarket.1582897923.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000151986",
+				"sku": "151986",
+				"title": "Tiger Crust Bread",
+				"price": 1800,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1800,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000151986/khlib/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/1.1566048650.ad72436478c_2019-08-19_Tatiana/1.1566048650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/20190819.1566050412.ad72436478c_2019-08-19_Tatiana/20190819.1566050412.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190819.1566050412.ad72436478c_2019-08-19_Tatiana/20190819.1566050412.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566050412.ad72436478c_2019-08-19_Tatiana/20190819.1566050412.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190819.1566050412.ad72436478c_2019-08-19_Tatiana/20190819.1566050412.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000151665",
+				"sku": "151665",
+				"title": "Buckwheat Bread 450g",
+				"price": 2200,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2200,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-450g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000151665/khlib-450g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1566065864.ad72436478c_2019-08-19_Tatiana/1.1566065864.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/20190819.1566067650.ad72436478c_2019-08-19_Tatiana/20190819.1566067650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190819.1566067650.ad72436478c_2019-08-19_Tatiana/20190819.1566067650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190819.1566067650.ad72436478c_2019-08-19_Tatiana/20190819.1566067650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566067650.ad72436478c_2019-08-19_Tatiana/20190819.1566067650.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 450,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000150774",
+				"sku": "150774",
+				"title": "Dumplings 220g",
+				"price": 2500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "pampushka-220g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000150774/pampushka-220g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566056694.ad72436478c_2019-08-19_Tatiana/20190819.1566056694.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 220,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000152105",
+				"sku": "152105",
+				"title": "Whole Grain Bread",
+				"price": 7000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 7000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000152105/khlib/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190819.1566152598.ad72436478c_2019-08-19_Tatiana/20190819.1566152598.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000151641",
+				"sku": "151641",
+				"title": "Grekhemsky Bread",
+				"price": 3200,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 3200,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000151641/khlib/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190830.1567088324.ad72436478c_2019-08-30_Tatiana/20190830.1567088324.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000150002",
+				"sku": "150002",
+				"title": "European Loaf 400g",
+				"price": 1600,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1600,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-400g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000150002/baton-400g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1566047120.ad72436478c_2019-08-19_Tatiana/1.1566047120.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/20190819.1566047072.ad72436478c_2019-08-19_Tatiana/20190819.1566047072.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566047072.ad72436478c_2019-08-19_Tatiana/20190819.1566047072.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566047072.ad72436478c_2019-08-19_Tatiana/20190819.1566047072.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566047072.ad72436478c_2019-08-19_Tatiana/20190819.1566047072.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 400,
+				"has_similar_products": null
+			},
+			{
+				"ean": "09989006810381",
+				"sku": "9989006810381",
+				"title": "Vito Grano Multicereal Starter Bread 350g",
+				"price": 2830,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2830,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-vito-grano-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/09989006810381/khlib-vito-grano-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Vito Грано",
+					"trademark_slug": "vito-grano",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.d6c3463bd764151fe71a701c9a7a4188.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000167130",
+				"sku": "167130",
+				"title": "Classic Yeast-free Ciabatta",
+				"price": 6500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 6500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "chiabata",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000167130/chiabata/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190913.1568366740.ad72436478c_2019-09-13_Tatiana/20190913.1568366740.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000167383",
+				"sku": "167383",
+				"title": "Cottage Cheese Cake",
+				"price": 10000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 10000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "keks",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000167383/keks/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190913.1568363964.ad72436478c_2019-09-13_Tatiana/20190913.1568363964.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000150712",
+				"sku": "150712",
+				"title": "Cheese Stick",
+				"price": 1600,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1600,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "palichka",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000150712/palichka/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566216676.ad72436478c_2019-08-19_Tatiana/20190819.1566216676.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566216622.ad72436478c_2019-08-19_Tatiana/1.1566216622.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/1.1566216622.ad72436478c_2019-08-19_Tatiana/1.1566216622.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1566216622.ad72436478c_2019-08-19_Tatiana/1.1566216622.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1566216622.ad72436478c_2019-08-19_Tatiana/1.1566216622.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000135320",
+				"sku": "135320",
+				"title": "Chiabata Wheat-rye 160g",
+				"price": 1470,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1470,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "chiabata-160g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000135320/chiabata-160g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/mega.1576066115.ad72436478c_2019-12-11_MarinaR/mega.1576066115.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 160,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000168373",
+				"sku": "168373",
+				"title": "Strudel with Apples",
+				"price": 13000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 13000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "shtrudel",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000168373/shtrudel/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190913.1568363862.ad72436478c_2019-09-13_Tatiana/20190913.1568363862.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket02088260000000",
+				"sku": "208826",
+				"title": "Fermento Whole Grain Bread",
+				"price": 1800,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1800,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket02088260000000/khlib/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/1.1566065968.ad72436478c_2019-08-19_Tatiana/1.1566065968.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/20190819.1566067876.ad72436478c_2019-08-19_Tatiana/20190819.1566067876.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190819.1566067876.ad72436478c_2019-08-19_Tatiana/20190819.1566067876.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566067876.ad72436478c_2019-08-19_Tatiana/20190819.1566067876.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566067876.ad72436478c_2019-08-19_Tatiana/20190819.1566067876.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000166096",
+				"sku": "166096",
+				"title": "Bun with Custard Weight",
+				"price": 7500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 7500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "bulka",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000166096/bulka/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190913.1568361580.ad72436478c_2019-09-13_Tatiana/20190913.1568361580.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000165082",
+				"sku": "165082",
+				"title": "Vienna Wheat Bread",
+				"price": 2600,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2600,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000165082/khlib/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1564333392.ad72436478c_2019-09-05_Alina/1.1564333392.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000166072",
+				"sku": "166072",
+				"title": "Bun With Bran 4pcs 200g",
+				"price": 1000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "bulka-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000166072/bulka-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": 4,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190913.1568361922.ad72436478c_2019-09-13_Tatiana/20190913.1568361922.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 200,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000134835",
+				"sku": "134835",
+				"title": "Millvill Campan Bread by weight",
+				"price": 6750,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 6750,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-millvill",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000134835/khlib-millvill/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Мілльвілль",
+					"trademark_slug": "millvill",
+					"website": null,
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.64x64.png"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/mega.1576063558.ad72436478c_2019-12-11_MarinaR/mega.1576063558.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000166027",
+				"sku": "166027",
+				"title": "Long loaf 300g",
+				"price": 1200,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1200,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000166027/baton-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190913.1568362908.ad72436478c_2019-09-13_Tatiana/20190913.1568362908.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000151221",
+				"sku": "151221",
+				"title": "Cheese Balls",
+				"price": 27000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 27000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "kuli",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000151221/kuli/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566070008.ad72436478c_2019-08-19_Tatiana/20190819.1566070008.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000196529",
+				"sku": "196529",
+				"title": "Millvill Shvartsvald Bread by weight",
+				"price": 6840,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 6840,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-millvill",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000196529/khlib-millvill/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Мілльвілль",
+					"trademark_slug": "millvill",
+					"website": null,
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.64x64.png"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190219.1550603281.ad72436478c_2019-02-19_Kostia_Megamarket_Alexey/20190219.1550603281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000151948",
+				"sku": "151948",
+				"title": "Riga Bread 400g",
+				"price": 2100,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2100,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-400g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000151948/khlib-400g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566212988.ad72436478c_2019-08-19_Tatiana/20190819.1566212988.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566211140.ad72436478c_2019-08-19_Tatiana/1.1566211140.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/1.1566211140.ad72436478c_2019-08-19_Tatiana/1.1566211140.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1566211140.ad72436478c_2019-08-19_Tatiana/1.1566211140.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/1.1566211140.ad72436478c_2019-08-19_Tatiana/1.1566211140.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 400,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket02112600000000",
+				"sku": "211260",
+				"title": "Campan Bread",
+				"price": 2200,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2200,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket02112600000000/khlib/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190410.1566059944.ad72436478c_2019-10-04_Tatiana/20190410.1566059944.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/20190410.1566059966.ad72436478c_2019-10-04_Tatiana/20190410.1566059966.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190410.1566059966.ad72436478c_2019-10-04_Tatiana/20190410.1566059966.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190410.1566059966.ad72436478c_2019-10-04_Tatiana/20190410.1566059966.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190410.1566059966.ad72436478c_2019-10-04_Tatiana/20190410.1566059966.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000173735",
+				"sku": "173735",
+				"title": "Long loaf Brand",
+				"price": 2500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000173735/baton/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/2.1565955138.ad72436478c_2019-09-05_Alina/2.1565955138.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1565960536.ad72436478c_2019-09-05_Alina/1.1565960536.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1565960536.ad72436478c_2019-09-05_Alina/1.1565960536.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1565960536.ad72436478c_2019-09-05_Alina/1.1565960536.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1565960536.ad72436478c_2019-09-05_Alina/1.1565960536.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000150033",
+				"sku": "150033",
+				"title": "Loaf with Sesame Seeds 400g",
+				"price": 2000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-400g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000150033/baton-400g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/1.1566047482.ad72436478c_2019-08-19_Tatiana/1.1566047482.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/20190819.1566047416.ad72436478c_2019-08-19_Tatiana/20190819.1566047416.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566047416.ad72436478c_2019-08-19_Tatiana/20190819.1566047416.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20190819.1566047416.ad72436478c_2019-08-19_Tatiana/20190819.1566047416.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20190819.1566047416.ad72436478c_2019-08-19_Tatiana/20190819.1566047416.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 400,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000151597",
+				"sku": "151597",
+				"title": "Volcano Bread 450g",
+				"price": 1700,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1700,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-450g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000151597/khlib-450g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20190819.1566208602.ad72436478c_2019-08-19_Tatiana/20190819.1566208602.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1566208636.ad72436478c_2019-08-19_Tatiana/1.1566208636.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1566208636.ad72436478c_2019-08-19_Tatiana/1.1566208636.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/1.1566208636.ad72436478c_2019-08-19_Tatiana/1.1566208636.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1566208636.ad72436478c_2019-08-19_Tatiana/1.1566208636.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 450,
+				"has_similar_products": null
+			},
+			{
+				"ean": "megamarket00000000135245",
+				"sku": "135245",
+				"title": "Millvill Unleavened Ciabatta with Cheese 180g",
+				"price": 1980,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1980,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "own-bread-and-bakery-products-megamarket",
+				"parent_category_id": "bakery-megamarket",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "chiabata-millvill-180g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://megamarket.zakaz.ua/en/products/megamarket00000000135245/chiabata-millvill-180g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Мілльвілль",
+					"trademark_slug": "millvill",
+					"website": null,
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.78f9802caf51c69b1bcce90c0b61552d.64x64.png"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/150219.1553537170.ad72436478c_2019-03-26_Sergii_megamarket_Mari/150219.1553537170.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 180,
+				"has_similar_products": null
+			}
+		],
+		"categories": [
+			{
+				"id": "own-bread-and-bakery-products-megamarket",
+				"title": "Bread and bakery products",
+				"count": 87,
+				"children": []
+			}
+		],
+		"filters": [
+			{
+				"type": "promotion",
+				"name": "Goods on sale",
+				"options": [
+					{
+						"name": "Goods on sale",
+						"count": 0,
+						"query": "1"
+					}
+				]
+			},
+			{
+				"type": "tm",
+				"name": "Brand",
+				"options": [
+					{
+						"name": "Vito Грано",
+						"count": 1,
+						"query": "vito-grano"
+					},
+					{
+						"name": "Мілльвілль",
+						"count": 5,
+						"query": "millvill"
+					}
+				]
+			},
+			{
+				"type": "weight",
+				"name": "Weight",
+				"options": [
+					{
+						"name": "100g",
+						"count": 2,
+						"query": "100g"
+					},
+					{
+						"name": "125g",
+						"count": 1,
+						"query": "125g"
+					},
+					{
+						"name": "150g",
+						"count": 1,
+						"query": "150g"
+					},
+					{
+						"name": "160g",
+						"count": 1,
+						"query": "160g"
+					},
+					{
+						"name": "180g",
+						"count": 1,
+						"query": "180g"
+					},
+					{
+						"name": "200g",
+						"count": 4,
+						"query": "200g"
+					},
+					{
+						"name": "220g",
+						"count": 1,
+						"query": "220g"
+					},
+					{
+						"name": "250g",
+						"count": 3,
+						"query": "250g"
+					},
+					{
+						"name": "270g",
+						"count": 1,
+						"query": "270g"
+					},
+					{
+						"name": "300g",
+						"count": 4,
+						"query": "300g"
+					},
+					{
+						"name": "30g",
+						"count": 1,
+						"query": "30g"
+					},
+					{
+						"name": "310g",
+						"count": 1,
+						"query": "310g"
+					},
+					{
+						"name": "350g",
+						"count": 4,
+						"query": "350g"
+					},
+					{
+						"name": "400g",
+						"count": 8,
+						"query": "400g"
+					},
+					{
+						"name": "450g",
+						"count": 2,
+						"query": "450g"
+					},
+					{
+						"name": "500g",
+						"count": 4,
+						"query": "500g"
+					},
+					{
+						"name": "80g",
+						"count": 1,
+						"query": "80g"
+					}
+				]
+			},
+			{
+				"type": "country",
+				"name": "Country",
+				"options": [
+					{
+						"name": "ukraine",
+						"count": 5,
+						"query": "ukraine"
+					}
+				]
+			},
+			{
+				"type": "base",
+				"name": "Base",
+				"options": [
+					{
+						"name": "buckwheat",
+						"count": 2,
+						"query": "buckwheat"
+					},
+					{
+						"name": "corn",
+						"count": 1,
+						"query": "corn"
+					},
+					{
+						"name": "curd",
+						"count": 1,
+						"query": "curd"
+					},
+					{
+						"name": "multi grain",
+						"count": 1,
+						"query": "multi-grain"
+					},
+					{
+						"name": "rye",
+						"count": 4,
+						"query": "rye"
+					},
+					{
+						"name": "rye-wheat",
+						"count": 1,
+						"query": "rye-wheat"
+					},
+					{
+						"name": "wheat",
+						"count": 5,
+						"query": "wheat"
+					}
+				]
+			},
+			{
+				"type": "method",
+				"name": "Method",
+				"options": [
+					{
+						"name": "bun",
+						"count": 1,
+						"query": "bun"
+					},
+					{
+						"name": "malty",
+						"count": 4,
+						"query": "malty"
+					},
+					{
+						"name": "scalded",
+						"count": 2,
+						"query": "scalded"
+					},
+					{
+						"name": "without yeast",
+						"count": 2,
+						"query": "without-yeast"
+					}
+				]
+			},
+			{
+				"type": "flavor",
+				"name": "Flavor",
+				"options": [
+					{
+						"name": "cherry",
+						"count": 1,
+						"query": "cherry"
+					},
+					{
+						"name": "custard",
+						"count": 1,
+						"query": "custard"
+					},
+					{
+						"name": "ham",
+						"count": 1,
+						"query": "ham"
+					},
+					{
+						"name": "olives",
+						"count": 1,
+						"query": "olives"
+					},
+					{
+						"name": "poppy",
+						"count": 1,
+						"query": "poppy"
+					},
+					{
+						"name": "salt",
+						"count": 1,
+						"query": "salt"
+					},
+					{
+						"name": "with a raisin",
+						"count": 1,
+						"query": "with-a-raisin"
+					},
+					{
+						"name": "with apple",
+						"count": 2,
+						"query": "with-apple"
+					},
+					{
+						"name": "with beet",
+						"count": 1,
+						"query": "with-beet"
+					},
+					{
+						"name": "with bran",
+						"count": 4,
+						"query": "with-bran"
+					},
+					{
+						"name": "with cheese",
+						"count": 2,
+						"query": "with-cheese"
+					},
+					{
+						"name": "with cumin",
+						"count": 1,
+						"query": "with-cumin"
+					},
+					{
+						"name": "with ham",
+						"count": 1,
+						"query": "with-ham"
+					},
+					{
+						"name": "with herbs",
+						"count": 1,
+						"query": "with-herbs"
+					},
+					{
+						"name": "with onion",
+						"count": 1,
+						"query": "with-onion"
+					},
+					{
+						"name": "with peas",
+						"count": 1,
+						"query": "with-peas"
+					},
+					{
+						"name": "with provence herbs",
+						"count": 1,
+						"query": "with-provence-herbs"
+					},
+					{
+						"name": "with sesame",
+						"count": 6,
+						"query": "with-sesame"
+					}
+				]
+			},
+			{
+				"type": "amount",
+				"name": "Amount",
+				"options": [
+					{
+						"name": "4pcs",
+						"count": 2,
+						"query": "4pcs"
+					}
+				]
+			}
+		],
+		"category_results": null
+	}
+]
