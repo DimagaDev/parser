@@ -1,0 +1,2945 @@
+[
+	{
+		"count": 116,
+		"results": [
+			{
+				"ean": "vostorg00000029386160",
+				"sku": "386160",
+				"title": "With Beans Vinaigrette",
+				"price": 15500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 15500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "177.00cal",
+					"ingredient_protein": "1.20g",
+					"ingredient_fat": "15.40g",
+					"ingredient_carbohydrates": "8.80g"
+				},
+				"slug": "salat",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029386160/salat/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.23cf1a8b99297bc5c18b5e9035216d81.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029000247",
+				"sku": "247",
+				"title": "Beetroot Paste",
+				"price": 11000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 11000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "116.20kcal",
+					"ingredient_protein": "1.80g",
+					"ingredient_fat": "6.60g",
+					"ingredient_carbohydrates": "12.40g"
+				},
+				"slug": "ikra-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029000247/ikra-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.73b8653d7a9c75eb551aac23510a8df2.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029407825",
+				"sku": "407825",
+				"title": "Steam Turkey Balls",
+				"price": 44000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 44000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "184.00cal",
+					"ingredient_protein": "16.50g",
+					"ingredient_fat": "10.00g",
+					"ingredient_carbohydrates": "7.00g"
+				},
+				"slug": "bitok-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029407825/bitok-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.f97ed438c3bf70508a924a32ae95a490.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029260567",
+				"sku": "260567",
+				"title": "Mashed Potatoes",
+				"price": 17000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 17000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "205.40kcal",
+					"ingredient_protein": "3.90g",
+					"ingredient_fat": "8.70g",
+					"ingredient_carbohydrates": "26.60g"
+				},
+				"slug": "kartopliane-piure-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029260567/kartopliane-piure-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.13702a2f9423c9dda80ab2aa7b3ecd33.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029008283",
+				"sku": "8283",
+				"title": "Pubie Salad",
+				"price": 18000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 18000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "186.00cal",
+					"ingredient_protein": "4.00g",
+					"ingredient_fat": "15.20g",
+					"ingredient_carbohydrates": "8.80g"
+				},
+				"slug": "salat",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029008283/salat/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.c9377ae42418b31f9cbc673b28fa21ca.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029392156",
+				"sku": "392156",
+				"title": "With Meat Potato Zrazy",
+				"price": 23000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 23000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "207.00cal",
+					"ingredient_protein": "2.50g",
+					"ingredient_fat": "21.20g",
+					"ingredient_carbohydrates": "1.70g"
+				},
+				"slug": "zrazi-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029392156/zrazi-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.c9c6172f00ce2935853dcc89999b1dfa.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029832750",
+				"sku": "832750",
+				"title": "Keto-Pancakes with Mascarpone",
+				"price": 34000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 34000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "259.00cal",
+					"ingredient_protein": "5.90g",
+					"ingredient_fat": "23.60g",
+					"ingredient_carbohydrates": "3.00g"
+				},
+				"slug": "mlintsi",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029832750/mlintsi/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.1ec6d4c8970e41307c1aa9d92c2b23b6.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029034645",
+				"sku": "34645",
+				"title": "Saute",
+				"price": 25000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 25000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "119.00cal",
+					"ingredient_protein": "1.50g",
+					"ingredient_fat": "10.00g",
+					"ingredient_carbohydrates": "6.20g"
+				},
+				"slug": "sote-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029034645/sote-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.d3881b35372d588b9e7e0f2836a7b0fc.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029021811",
+				"sku": "21811",
+				"title": "Mimoza Salad",
+				"price": 19000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 19000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "203.70kcal",
+					"ingredient_protein": "5.68kg",
+					"ingredient_fat": "17.40g",
+					"ingredient_carbohydrates": "6.46g"
+				},
+				"slug": "salat",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029021811/salat/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.1058d5f7c1e4b42a9ec607bc5f077b1f.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029198550",
+				"sku": "198550",
+				"title": "Crab Salad",
+				"price": 24000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 24000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "192.80kcal",
+					"ingredient_protein": "4.90g",
+					"ingredient_fat": "16.30g",
+					"ingredient_carbohydrates": "6.80g"
+				},
+				"slug": "salat-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029198550/salat-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.33b42804270dcd76369ef9c45a86c881.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029413993",
+				"sku": "413993",
+				"title": "Natural Food Uzvar 975ml",
+				"price": 3600,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 3600,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": 975,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "drinks-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "90.00cal",
+					"ingredient_protein": "2.20g",
+					"ingredient_carbohydrates": "18.00g"
+				},
+				"slug": "uzvar-975ml",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029413993/uzvar-975ml/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Natural Food",
+					"trademark_slug": "natural-food",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.1638b672c53f63610884873af7f6d5e9.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 975,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029000199",
+				"sku": "199",
+				"title": "Pork Ham",
+				"price": 43000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 43000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "meat-fish-poultry-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "360.00cal",
+					"ingredient_protein": "14.30g",
+					"ingredient_fat": "33.30g",
+					"ingredient_carbohydrates": "0.90g"
+				},
+				"slug": "m-iaso-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029000199/m-iaso-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Восторг",
+					"trademark_slug": "vostorg",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.22eb4a004baf6549d913c5309316d1aa.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029249199",
+				"sku": "249199",
+				"title": "With Cottage Cheese Pancakes",
+				"price": 19000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 19000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "225.00cal",
+					"ingredient_protein": "10.00g",
+					"ingredient_fat": "5.00g",
+					"ingredient_carbohydrates": "35.00g"
+				},
+				"slug": "mlintsi-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029249199/mlintsi-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Восторг",
+					"trademark_slug": "vostorg",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.76a8807499d5874aa7333073cce51f47.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029386159",
+				"sku": "386159",
+				"title": "Olivier Salad",
+				"price": 22500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 22500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "209.30kcal",
+					"ingredient_protein": "6.70g",
+					"ingredient_fat": "19.40g",
+					"ingredient_carbohydrates": "5.40g"
+				},
+				"slug": "salat",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029386159/salat/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.bc0baaa4312b3e10b5cb4c95ea41888e.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029099301",
+				"sku": "99301",
+				"title": "Liver Cutlets",
+				"price": 19500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 19500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "244.50kcal",
+					"ingredient_protein": "8.70g",
+					"ingredient_fat": "20.30g",
+					"ingredient_carbohydrates": "6.40g"
+				},
+				"slug": "kotleta-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029099301/kotleta-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"Beef meat, pork meat, chicken eggs, onions, vegetable oil (sunflower), wheat bread rusks, salt, ground black pepper, cow's milk."
+				],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Восторг",
+					"trademark_slug": "vostorg",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.7c094e57f47e8976d8f8ad688edaac53.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029025913",
+				"sku": "25913",
+				"title": "Stewed With Champignons Cabbage",
+				"price": 13500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 13500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "98.10cal",
+					"ingredient_protein": "1.90g",
+					"ingredient_fat": "7.70g",
+					"ingredient_carbohydrates": "4.80g"
+				},
+				"slug": "ovochi-kapusta",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029025913/ovochi-kapusta/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.3dcd98cb38c9741b9db04120b8230174.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029008299",
+				"sku": "8299",
+				"title": "Precooked Chicken Cutlet",
+				"price": 17500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 17500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "199.40kcal",
+					"ingredient_protein": "28.10g",
+					"ingredient_fat": "6.60g",
+					"ingredient_carbohydrates": "6.90g"
+				},
+				"slug": "kotleta",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029008299/kotleta/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "-18...-18",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.97752ed8a5af44e0575071ecd0c6f836.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029386195",
+				"sku": "386195",
+				"title": "Stolychnyj Salad",
+				"price": 29000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 29000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "249.00cal",
+					"ingredient_protein": "9.30g",
+					"ingredient_fat": "22.60g",
+					"ingredient_carbohydrates": "2.20g"
+				},
+				"slug": "salat-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029386195/salat-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.cc127547eb6bda494930f33758c344ca.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029012326",
+				"sku": "12326",
+				"title": "Homemade Turkey Cutlet",
+				"price": 52000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 52000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "212.00cal",
+					"ingredient_protein": "20.40g",
+					"ingredient_fat": "6.87g",
+					"ingredient_carbohydrates": "2.40g"
+				},
+				"slug": "kotleta-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029012326/kotleta-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Восторг",
+					"trademark_slug": "vostorg",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.56637009930524596afe4123be8583ee.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029832730",
+				"sku": "832730",
+				"title": "Keto-Casserole with Blueberries",
+				"price": 35000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 35000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "238.00cal",
+					"ingredient_protein": "20.80g",
+					"ingredient_fat": "15.60g",
+					"ingredient_carbohydrates": "2.70g"
+				},
+				"slug": "zapikanka",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029832730/zapikanka/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.47e1423ffa3926cb996c5a18fd376ffd.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029627559",
+				"sku": "627559",
+				"title": "Traditional Forshmak",
+				"price": 18000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 18000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "158.80kcal",
+					"ingredient_protein": "11.70g",
+					"ingredient_fat": "9.40g",
+					"ingredient_carbohydrates": "6.40g"
+				},
+				"slug": "forshmak-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029627559/forshmak-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.426d8aab46182efd5b06de59907fb376.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029311072",
+				"sku": "311072",
+				"title": "With Blueberries Pancakes",
+				"price": 21000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 21000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "116.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "2.96g",
+					"ingredient_carbohydrates": "14.74g"
+				},
+				"slug": "mlintsi-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029311072/mlintsi-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.ba522640395ade5fa7d7a0e2c4370a03.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029172191",
+				"sku": "172191",
+				"title": "Domestic Cutlet",
+				"price": 45000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 45000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "260.00cal",
+					"ingredient_protein": "18.00g",
+					"ingredient_fat": "20.00g",
+					"ingredient_carbohydrates": "10.00g"
+				},
+				"slug": "kotleta-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029172191/kotleta-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Восторг",
+					"trademark_slug": "vostorg",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.d67eb3f616de037c8b885222ed4a684e.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029227324",
+				"sku": "227324",
+				"title": "With Meat Pancakes",
+				"price": 20000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 20000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "353.80kcal",
+					"ingredient_protein": "14.30g",
+					"ingredient_fat": "21.30g",
+					"ingredient_carbohydrates": "26.20g"
+				},
+				"slug": "mlintsi",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029227324/mlintsi/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "-18...-18",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.f9cf977d9ffbef3664b2c72661833879.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029043364",
+				"sku": "43364",
+				"title": "With Mushrooms Potato Pancakes",
+				"price": 13500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 13500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "170.00cal",
+					"ingredient_protein": "13.00g",
+					"ingredient_fat": "12.80g",
+					"ingredient_carbohydrates": "0.80g"
+				},
+				"slug": "deruni-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029043364/deruni-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.1f1fa9aaed84ba30264885ac313d2cbb.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029266404",
+				"sku": "266404",
+				"title": "With Potato Dumplings",
+				"price": 7500,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 7500,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "frozen-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "178.90kcal",
+					"ingredient_protein": "4.80g",
+					"ingredient_fat": "3.00g",
+					"ingredient_carbohydrates": "35.60g"
+				},
+				"slug": "varenik",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029266404/varenik/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "6 months",
+				"temperature_range": "-18...-18",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.6d848312cb1d91827ef20a41d3fe32ae.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029735654",
+				"sku": "735654",
+				"title": "With Turkey Meat Dumplings",
+				"price": 20000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 20000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "frozen-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "360.40kcal",
+					"ingredient_protein": "17.20g",
+					"ingredient_fat": "12.00g",
+					"ingredient_carbohydrates": "44.80g"
+				},
+				"slug": "pelmeni",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029735654/pelmeni/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "6 months",
+				"temperature_range": "-18...-18",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.9913a3b0b835c8b60d8cb275eaf67346.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029711558",
+				"sku": "711558",
+				"title": "Kyoto Set 1170g",
+				"price": 55000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 55000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "sushi-kulinariia-1170g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029711558/sushi-kulinariia-1170g/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.7fd7ce79182297f00565906e2a5358b5.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 1170,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029603119",
+				"sku": "603119",
+				"title": "Dumplings With Chicken And Cheese",
+				"price": 14000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 14000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "frozen-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "331.00cal",
+					"ingredient_protein": "18.60g",
+					"ingredient_fat": "10.40g",
+					"ingredient_carbohydrates": "39.90g"
+				},
+				"slug": "pelmeni",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029603119/pelmeni/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "6 months",
+				"temperature_range": "-18...-18",
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.e5d95e68f110529a50c565d70260f197.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			},
+			{
+				"ean": "vostorg00000029000237",
+				"sku": "237",
+				"title": "Yuvilejnyj Liver Pate",
+				"price": 30000,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 30000,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "kg",
+				"volume": null,
+				"quantity": {
+					"min": 500,
+					"step": 500,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "ready-meals-vostorg",
+				"parent_category_id": "ready-meals-vostorg",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "340.00cal",
+					"ingredient_protein": "8.90g",
+					"ingredient_fat": "32.10g",
+					"ingredient_carbohydrates": "4.10g"
+				},
+				"slug": "pashtet-kulinariia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": true,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://vostorg.zakaz.ua/en/products/vostorg00000029000237/pashtet-kulinariia/",
+				"restrictions": {
+					"in_sell_from": "08:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.2c32a4f87f1988dbb58041b8c0845611.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 0,
+				"has_similar_products": null
+			}
+		],
+		"categories": [
+			{
+				"id": "ready-meals-vostorg",
+				"title": "Ready meals",
+				"count": 116,
+				"children": [
+					{
+						"id": "flour-products-vostorg",
+						"title": "Flour products",
+						"count": 16,
+						"children": []
+					},
+					{
+						"id": "meat-dishes-vostorg",
+						"title": "Meat dishes",
+						"count": 7,
+						"children": []
+					},
+					{
+						"id": "fish-dishes-vostorg",
+						"title": "Fish dishes",
+						"count": 9,
+						"children": []
+					},
+					{
+						"id": "poultry-dishes-vostorg",
+						"title": "Poultry dishes",
+						"count": 12,
+						"children": []
+					},
+					{
+						"id": "salads-vostorg",
+						"title": "Salads",
+						"count": 26,
+						"children": []
+					},
+					{
+						"id": "vegetable-side-dishes-vostorg",
+						"title": "Vegetable and side dishes",
+						"count": 13,
+						"children": []
+					},
+					{
+						"id": "own-drinks-vostorg",
+						"title": "Drinks",
+						"count": 6,
+						"children": []
+					},
+					{
+						"id": "pizza-and-sushi-vostorg",
+						"title": "Sushi",
+						"count": 24,
+						"children": []
+					},
+					{
+						"id": "own-semi-finished-products-vostorg",
+						"title": "Semi-finished products",
+						"count": 6,
+						"children": []
+					},
+					{
+						"id": "second-courses-novus",
+						"title": "Second courses                                                                                the main ready meals second courses second courses",
+						"count": 36,
+						"children": []
+					}
+				]
+			}
+		],
+		"filters": [
+			{
+				"type": "promotion",
+				"name": "Goods on sale",
+				"options": [
+					{
+						"name": "Goods on sale",
+						"count": 0,
+						"query": "1"
+					}
+				]
+			},
+			{
+				"type": "tm",
+				"name": "Brand",
+				"options": [
+					{
+						"name": "Natural Food",
+						"count": 5,
+						"query": "natural-food"
+					},
+					{
+						"name": "Восторг",
+						"count": 17,
+						"query": "vostorg"
+					}
+				]
+			},
+			{
+				"type": "weight",
+				"name": "Weight",
+				"options": [
+					{
+						"name": "110g",
+						"count": 1,
+						"query": "110g"
+					},
+					{
+						"name": "1170g",
+						"count": 1,
+						"query": "1170g"
+					},
+					{
+						"name": "120g",
+						"count": 1,
+						"query": "120g"
+					},
+					{
+						"name": "150g",
+						"count": 2,
+						"query": "150g"
+					},
+					{
+						"name": "220g",
+						"count": 3,
+						"query": "220g"
+					},
+					{
+						"name": "230g",
+						"count": 5,
+						"query": "230g"
+					},
+					{
+						"name": "240g",
+						"count": 2,
+						"query": "240g"
+					},
+					{
+						"name": "250g",
+						"count": 2,
+						"query": "250g"
+					},
+					{
+						"name": "280g",
+						"count": 1,
+						"query": "280g"
+					},
+					{
+						"name": "40g",
+						"count": 3,
+						"query": "40g"
+					},
+					{
+						"name": "45g",
+						"count": 1,
+						"query": "45g"
+					},
+					{
+						"name": "500g",
+						"count": 1,
+						"query": "500g"
+					},
+					{
+						"name": "710g",
+						"count": 2,
+						"query": "710g"
+					},
+					{
+						"name": "920g",
+						"count": 1,
+						"query": "920g"
+					}
+				]
+			},
+			{
+				"type": "volume_capacity",
+				"name": "Volume",
+				"options": [
+					{
+						"name": "500ml",
+						"count": 2,
+						"query": "500ml"
+					},
+					{
+						"name": "975ml",
+						"count": 3,
+						"query": "975ml"
+					}
+				]
+			},
+			{
+				"type": "country",
+				"name": "Country",
+				"options": [
+					{
+						"name": "ukraine",
+						"count": 11,
+						"query": "ukraine"
+					}
+				]
+			},
+			{
+				"type": "base",
+				"name": "Base",
+				"options": [
+					{
+						"name": "apple",
+						"count": 1,
+						"query": "apple"
+					},
+					{
+						"name": "beans",
+						"count": 1,
+						"query": "beans"
+					},
+					{
+						"name": "beetroot",
+						"count": 2,
+						"query": "beetroot"
+					},
+					{
+						"name": "buckwheat",
+						"count": 1,
+						"query": "buckwheat"
+					},
+					{
+						"name": "chicken",
+						"count": 5,
+						"query": "chicken"
+					},
+					{
+						"name": "curd",
+						"count": 5,
+						"query": "curd"
+					},
+					{
+						"name": "duck",
+						"count": 1,
+						"query": "duck"
+					},
+					{
+						"name": "fish",
+						"count": 1,
+						"query": "fish"
+					},
+					{
+						"name": "liver",
+						"count": 2,
+						"query": "liver"
+					},
+					{
+						"name": "pink salmon",
+						"count": 1,
+						"query": "pink-salmon"
+					},
+					{
+						"name": "potato",
+						"count": 1,
+						"query": "potato"
+					},
+					{
+						"name": "rice",
+						"count": 1,
+						"query": "rice"
+					},
+					{
+						"name": "sea ​​kale",
+						"count": 1,
+						"query": "sea-kale"
+					},
+					{
+						"name": "turkey",
+						"count": 2,
+						"query": "turkey"
+					}
+				]
+			},
+			{
+				"type": "method",
+				"name": "Method",
+				"options": [
+					{
+						"name": "baked",
+						"count": 2,
+						"query": "baked"
+					},
+					{
+						"name": "boiled",
+						"count": 1,
+						"query": "boiled"
+					},
+					{
+						"name": "canned stewed meat",
+						"count": 1,
+						"query": "canned-stewed-meat"
+					},
+					{
+						"name": "freshly-salted",
+						"count": 1,
+						"query": "freshly-salted"
+					},
+					{
+						"name": "fried",
+						"count": 3,
+						"query": "fried"
+					},
+					{
+						"name": "frozen",
+						"count": 6,
+						"query": "frozen"
+					},
+					{
+						"name": "georgian",
+						"count": 1,
+						"query": "georgian"
+					},
+					{
+						"name": "greek",
+						"count": 1,
+						"query": "greek"
+					},
+					{
+						"name": "homemade",
+						"count": 2,
+						"query": "homemade"
+					},
+					{
+						"name": "in marinade",
+						"count": 1,
+						"query": "in-marinade"
+					},
+					{
+						"name": "in sauce",
+						"count": 2,
+						"query": "in-sauce"
+					},
+					{
+						"name": "in sesame",
+						"count": 2,
+						"query": "in-sesame"
+					},
+					{
+						"name": "kiev",
+						"count": 1,
+						"query": "kiev"
+					},
+					{
+						"name": "light-salted",
+						"count": 1,
+						"query": "light-salted"
+					},
+					{
+						"name": "pickled",
+						"count": 1,
+						"query": "pickled"
+					},
+					{
+						"name": "precooked",
+						"count": 6,
+						"query": "precooked"
+					},
+					{
+						"name": "steam",
+						"count": 1,
+						"query": "steam"
+					},
+					{
+						"name": "stuffed",
+						"count": 1,
+						"query": "stuffed"
+					}
+				]
+			},
+			{
+				"type": "flavor",
+				"name": "Flavor",
+				"options": [
+					{
+						"name": "bean",
+						"count": 1,
+						"query": "bean"
+					},
+					{
+						"name": "cranberry",
+						"count": 2,
+						"query": "cranberry"
+					},
+					{
+						"name": "cream",
+						"count": 1,
+						"query": "cream"
+					},
+					{
+						"name": "hake",
+						"count": 1,
+						"query": "hake"
+					},
+					{
+						"name": "honey",
+						"count": 2,
+						"query": "honey"
+					},
+					{
+						"name": "mushroom",
+						"count": 2,
+						"query": "mushroom"
+					},
+					{
+						"name": "mustard",
+						"count": 1,
+						"query": "mustard"
+					},
+					{
+						"name": "pepper",
+						"count": 1,
+						"query": "pepper"
+					},
+					{
+						"name": "poppy",
+						"count": 1,
+						"query": "poppy"
+					},
+					{
+						"name": "salmon",
+						"count": 8,
+						"query": "salmon"
+					},
+					{
+						"name": "turkey",
+						"count": 1,
+						"query": "turkey"
+					},
+					{
+						"name": "with a raisin",
+						"count": 1,
+						"query": "with-a-raisin"
+					},
+					{
+						"name": "with almonds",
+						"count": 1,
+						"query": "with-almonds"
+					},
+					{
+						"name": "with apple",
+						"count": 2,
+						"query": "with-apple"
+					},
+					{
+						"name": "with berries",
+						"count": 1,
+						"query": "with-berries"
+					},
+					{
+						"name": "with bilberries",
+						"count": 2,
+						"query": "with-bilberries"
+					},
+					{
+						"name": "with blueberry",
+						"count": 1,
+						"query": "with-blueberry"
+					},
+					{
+						"name": "with cheese",
+						"count": 2,
+						"query": "with-cheese"
+					},
+					{
+						"name": "with cheesecake taste",
+						"count": 1,
+						"query": "with-cheesecake-taste"
+					},
+					{
+						"name": "with chicken",
+						"count": 2,
+						"query": "with-chicken"
+					},
+					{
+						"name": "with dried apricots",
+						"count": 1,
+						"query": "with-dried-apricots"
+					},
+					{
+						"name": "with eel",
+						"count": 1,
+						"query": "with-eel"
+					},
+					{
+						"name": "with ham",
+						"count": 1,
+						"query": "with-ham"
+					},
+					{
+						"name": "with mascarpone",
+						"count": 1,
+						"query": "with-mascarpone"
+					},
+					{
+						"name": "with meat",
+						"count": 3,
+						"query": "with-meat"
+					},
+					{
+						"name": "with mushrooms",
+						"count": 1,
+						"query": "with-mushrooms"
+					},
+					{
+						"name": "with nuts",
+						"count": 1,
+						"query": "with-nuts"
+					},
+					{
+						"name": "with onion",
+						"count": 1,
+						"query": "with-onion"
+					},
+					{
+						"name": "with potatol",
+						"count": 2,
+						"query": "with-potatol"
+					},
+					{
+						"name": "with prunes",
+						"count": 1,
+						"query": "with-prunes"
+					},
+					{
+						"name": "with ricotta, with ricotta cheese",
+						"count": 1,
+						"query": "with-ricotta-with-ricotta-cheese"
+					},
+					{
+						"name": "with sausage",
+						"count": 1,
+						"query": "with-sausage"
+					},
+					{
+						"name": "with tomatoes",
+						"count": 1,
+						"query": "with-tomatoes"
+					},
+					{
+						"name": "with vegetables",
+						"count": 2,
+						"query": "with-vegetables"
+					}
+				]
+			},
+			{
+				"type": "genus_species",
+				"name": "Genus-species",
+				"options": [
+					{
+						"name": "atlantic mackerel",
+						"count": 2,
+						"query": "atlantic-mackerel"
+					},
+					{
+						"name": "cabbage",
+						"count": 1,
+						"query": "cabbage"
+					},
+					{
+						"name": "carp",
+						"count": 1,
+						"query": "carp"
+					},
+					{
+						"name": "cucumber",
+						"count": 1,
+						"query": "cucumber"
+					},
+					{
+						"name": "hake",
+						"count": 1,
+						"query": "hake"
+					},
+					{
+						"name": "herring",
+						"count": 1,
+						"query": "herring"
+					},
+					{
+						"name": "lemon",
+						"count": 1,
+						"query": "lemon"
+					},
+					{
+						"name": "ready meals",
+						"count": 69,
+						"query": "ready-meals"
+					},
+					{
+						"name": "toothfish",
+						"count": 1,
+						"query": "toothfish"
+					},
+					{
+						"name": "trout",
+						"count": 1,
+						"query": "trout"
+					}
+				]
+			}
+		],
+		"category_results": null
+	}
+]

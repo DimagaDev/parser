@@ -18,7 +18,7 @@ https://stores-api.zakaz.ua/stores/48215612/categories/bakery-metro/products/ п
 //axios.get("https://stores-api.zakaz.ua/stores/48215612/categories/bakery-metro/products/") // stores/48215612/categories/
 axios
   .get(
-    "https://stores-api.zakaz.ua/stores/48267601/categories/own-bread-and-bakery-products-megamarket/products/"
+    "https://stores-api.zakaz.ua/stores/48280051/categories/bakery-ekomarket/products/"
   )
   .then((res) => {
     //console.log(res.data);
@@ -44,7 +44,7 @@ axios
     //res.data.results.map((item) => result.push(item));
     result.push(res.data);
     fs.writeFile(
-      "productOfCategory/MegaMarketProdyct.json",
+      "productOfCategory/EkoMarketZhytomyrBakeryProducts.json",
       JSON.stringify(result, null, "\t"),
       "utf8",
       function (err) {

@@ -1,0 +1,2811 @@
+[
+	{
+		"count": 37,
+		"results": [
+			{
+				"ean": "04820174301491",
+				"sku": "1168975",
+				"title": "Kulinichi European Bread toast white 330g",
+				"price": 1780,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1780,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-kulinichi-330g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": true,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820174301491/khlib-kulinichi-330g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.6d855d5cbfcb4f40f79b16906b17c958.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.56c0f79abe5d0b31965b664b0391c4e8.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.56c0f79abe5d0b31965b664b0391c4e8.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.56c0f79abe5d0b31965b664b0391c4e8.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.56c0f79abe5d0b31965b664b0391c4e8.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 330,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820153870413",
+				"sku": "1168978",
+				"title": "Kulinichi Slobozhansky Wheat Top Grade Sliced Long Loaf 450g",
+				"price": 1630,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1630,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "289.00cal",
+					"ingredient_protein": "7.80g",
+					"ingredient_fat": "3.90g",
+					"ingredient_carbohydrates": "54.50g"
+				},
+				"slug": "baton-kulinichi-450g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820153870413/baton-kulinichi-450g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"high grade wheat flour, drinking water, margarine, pressed yeast, salt, sugar"
+				],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.89b54d3ad5e962e4f5c4d0e27397d653.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/20200429.1588165822.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588165822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20200429.1588165822.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588165822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/20200429.1588165822.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588165822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20200429.1588165822.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588165822.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 450,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820153871007",
+				"sku": "1168979",
+				"title": "Baton Kulinichi Ordinary wheat sliced 400g",
+				"price": 1420,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1420,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-kulinichi-400g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820153871007/baton-kulinichi-400g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.80f9d3479554e1c5d63df311e3533f3c.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/20200429.1588166551.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166551.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/20200429.1588166551.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166551.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20200429.1588166551.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166551.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20200429.1588166551.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166551.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 400,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205871511",
+				"sku": "994969",
+				"title": "Kyyivsʹkyy BKK Persian pita 5pcs 230g",
+				"price": 1250,
+				"price_wholesale": [],
+				"discount": {
+					"status": true,
+					"value": 32,
+					"old_price": 1840,
+					"due_date": "2021-05-18"
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "4 round lavashes, ideal for shawarma and burrito.",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.30g"
+				},
+				"slug": "lavash-kiyivkhlib-230g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820205871511/lavash-kiyivkhlib-230g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"high grade wheat flour, salt, drinking water"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Київхліб",
+					"trademark_slug": "kiyivkhlib",
+					"website": "kyivkhlib.ua",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.c4f74ef9c18532af7789486b107c88c5.64x64.png"
+					},
+					"name": "ПАТ \"Київхліб\""
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img3.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/src.1612167795.ad72436478c_2021-02-01_Tatyana/src.1612167795.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/06.1597152281.ad72436478c_2020-08-11_Svetlana/06.1597152281.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 280,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213011190",
+				"sku": "1176929",
+				"title": "Korovaevo Saltovsky Bread 500g",
+				"price": 1080,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1080,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-korovaievo-500g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213011190/khlib-korovaievo-500g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.efb66fd371f9270bdb7f9cafff37b562.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.e5a4d906814a2f21a0d6bcbce34c355b.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.e5a4d906814a2f21a0d6bcbce34c355b.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.e5a4d906814a2f21a0d6bcbce34c355b.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.e5a4d906814a2f21a0d6bcbce34c355b.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 500,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213011220",
+				"sku": "499940",
+				"title": "Korovaevo Saltovsky Hlibozavod Borodinsky Rye Bread 600g",
+				"price": 1760,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1760,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_protein": "6.90g",
+					"ingredient_fat": "1.30g"
+				},
+				"slug": "khlib-saltivskii-khlibzavod-600g-ukrayina",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213011220/khlib-saltivskii-khlibzavod-600g-ukrayina/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"rye flour, salt, sugar"
+				],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.5faf08202b45cc26fa99b0875a38ef72.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.ff374de84b06eba979cb60aa880c8468.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.ff374de84b06eba979cb60aa880c8468.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.ff374de84b06eba979cb60aa880c8468.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.ff374de84b06eba979cb60aa880c8468.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 600,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820153870482",
+				"sku": "1168974",
+				"title": "Kulinichi Pushkarivsky bread formed rye-wheat sliced 600g",
+				"price": 2200,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2200,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-kulinichi-600g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820153870482/khlib-kulinichi-600g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.e2a50ed6c4b4574334682f6b0903d090.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/20200429.1588166198.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166198.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20200429.1588166198.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166198.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20200429.1588166198.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166198.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/20200429.1588166198.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588166198.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.10bab52a16ab046df15cdb699a938f51.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.10bab52a16ab046df15cdb699a938f51.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.10bab52a16ab046df15cdb699a938f51.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.10bab52a16ab046df15cdb699a938f51.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 608,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820174301439",
+				"sku": "1168973",
+				"title": "Kulinichi Capital Bread hearth half sliced 500g",
+				"price": 1080,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1080,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-kulinichi-500g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820174301439/khlib-kulinichi-500g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.6fa83138edb830d1688279fe04ed7a46.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.fedb3ba1dc13bbfb02d766957f6c3fc2.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.fedb3ba1dc13bbfb02d766957f6c3fc2.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.fedb3ba1dc13bbfb02d766957f6c3fc2.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.fedb3ba1dc13bbfb02d766957f6c3fc2.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 500,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820174301507",
+				"sku": "1168976",
+				"title": "Kulinichi European bread toast bran 350g",
+				"price": 1920,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1920,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-kulinichi-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820174301507/khlib-kulinichi-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": "72 hours",
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.c8d008f325409e7b165484e33640cd89.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.8ea62d9385e8a7cb1298066d05d2fca6.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213010124",
+				"sku": "499800",
+				"title": "Korovayevo Slobozhansky Baton sliced 450g",
+				"price": 1710,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1710,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-saltivskii-khlibzavod-450g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213010124/baton-saltivskii-khlibzavod-450g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.89eb45f1310745007ac5820425fa88ee.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.d099aef9cc1af68d692a624266883790.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.d099aef9cc1af68d692a624266883790.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.d099aef9cc1af68d692a624266883790.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.d099aef9cc1af68d692a624266883790.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.73154712c22ebd7eabd3cd869c78c6b5.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.73154712c22ebd7eabd3cd869c78c6b5.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.73154712c22ebd7eabd3cd869c78c6b5.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.73154712c22ebd7eabd3cd869c78c6b5.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 450,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213010834",
+				"sku": "1229799",
+				"title": "Korovaevo Prince Grain Bread Cut 350g",
+				"price": 1600,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1600,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-korovaievo-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213010834/khlib-korovaievo-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.89ee15eaea11d693ade4e9b335fb47cc.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213011213",
+				"sku": "1170160",
+				"title": "Korovaevo Saltovsky Bread 1kg",
+				"price": 1970,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1970,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-korovaievo-1000g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213011213/khlib-korovaievo-1000g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img2.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img3.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/1.1596120750.ad72436478c_2020-08-07_Auchan_listex_Alexey/1.1596120750.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/3.1596117751.ad72436478c_2020-08-07_Auchan_listex_Alexey/3.1596117751.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/3.1596117751.ad72436478c_2020-08-07_Auchan_listex_Alexey/3.1596117751.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/3.1596117751.ad72436478c_2020-08-07_Auchan_listex_Alexey/3.1596117751.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img3.zakaz.ua/3.1596117751.ad72436478c_2020-08-07_Auchan_listex_Alexey/3.1596117751.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 1000,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205871504",
+				"sku": "994970",
+				"title": "BKK Armenian pita 2 pcs 200g",
+				"price": 1250,
+				"price_wholesale": [],
+				"discount": {
+					"status": true,
+					"value": 31,
+					"old_price": 1820,
+					"due_date": "2021-05-18"
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "2 rectangular thin and elastic lavashes.",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.30g"
+				},
+				"slug": "lavash-bkk-200g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820205871504/lavash-bkk-200g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"natural dye, acidity regulator, preservatives, whey, citric acid, egg white, sorbic acid, starchy molasses, high grade wheat flour, powdered sugar, cream, condensed milk, cognac, cocoa powder, butter, sugar"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "-2...6",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "БКК",
+					"trademark_slug": "bkk",
+					"website": "kyivbkk.com/ru",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.64x64.png"
+					},
+					"name": "ТОВ Київський БКК"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/done.1599656820.ad72436478c_2020-09-09_Svetlana/done.1599656820.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 206,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213010087",
+				"sku": "499802",
+				"title": "Saltivskiy Hlibzavod Ordinary Sliced ​​Loaf 350g",
+				"price": 1300,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1300,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-korovaievo-350g-ukrayina",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213010087/baton-korovaievo-350g-ukrayina/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.9a3f50962e053dd681aa65f978048d25.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213011251",
+				"sku": "499945",
+				"title": "Saltov Diabetic Rye Bread 350g",
+				"price": 930,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 930,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-saltivskii-khlibzavod-350g-ukrayina",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213011251/khlib-saltivskii-khlibzavod-350g-ukrayina/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.6a469b7fc98a3fcdc0d5f9e31d90c08d.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213010148",
+				"sku": "1167494",
+				"title": "Buns Sandwich 6pcs 300g",
+				"price": 1580,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1580,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "bulka-300g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213010148/bulka-300g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": 6,
+				"country": null,
+				"producer": {
+					"trademark": null,
+					"trademark_slug": null,
+					"website": null,
+					"logo": null,
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.0b2165c62a0a98c08eb61e9ae93adda2.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 300,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820174302306",
+				"sku": "1460755",
+				"title": "Kulynychi Shymava cutted half bread 375g",
+				"price": 1300,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1300,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-kulinichi-375g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820174302306/khlib-kulinichi-375g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.65a9b525ea67315661354215a764684a.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 375,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820174301606",
+				"sku": "1460756",
+				"title": "Kulinichi Rye land Bread sliced 350g",
+				"price": 2670,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2670,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-kulinichi-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820174301606/khlib-kulinichi-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.11c9b7dc08a4b256584b4b33a47f309a.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/20200429.1588171033.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588171033.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img2.zakaz.ua/20200429.1588171033.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588171033.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/20200429.1588171033.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588171033.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/20200429.1588171033.ad72436478c_2020-04-29_Auchan_Alexey/20200429.1588171033.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213010100",
+				"sku": "499799",
+				"title": "Saltivskys Hlibzavod Slobozhanskyi Long Loaf 450g",
+				"price": 1650,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1650,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-saltivskii-khlibzavod-450g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213010100/baton-saltivskii-khlibzavod-450g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.c03e4809813414de3cc42470a993c817.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 450,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820205871528",
+				"sku": "1168659",
+				"title": "BKK Caucasian pita 230g",
+				"price": 1880,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1880,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "2 rectangular lavashes are ideal for shish-kebab and spicy Oriental cuisine.",
+				"nutrition_facts": {
+					"ingredient_energy": "219.00cal",
+					"ingredient_protein": "7.20g",
+					"ingredient_fat": "0.80g",
+					"ingredient_carbohydrates": "48.00g"
+				},
+				"slug": "lavash-bkk-230g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820205871528/lavash-bkk-230g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [
+					"natural dye, high grade wheat flour, drinking water, salt, spinach"
+				],
+				"fat": null,
+				"shelf_life": "5 days",
+				"temperature_range": "6...25",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "БКК",
+					"trademark_slug": "bkk",
+					"website": "kyivbkk.com/ru",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.16x16.png",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.9f79dcd28be391871fc3e984028a6024.64x64.png"
+					},
+					"name": "ТОВ Київський БКК"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+					"s200x200": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+					"s350x350": "https://img2.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+					"s1350x1350": "https://img2.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img2.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/m.1600443277.ad72436478c_2020-09-21_Svetlana/m.1600443277.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+						"s200x200": "https://img3.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+						"s350x350": "https://img3.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+						"s1350x1350": "https://img2.zakaz.ua/m.1600442477.ad72436478c_2020-09-18_Svetlana/m.1600442477.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 230,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213010896",
+				"sku": "1336544",
+				"title": "Korovaevo Belovezhsky Bread sliced 350g",
+				"price": 1440,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1440,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-350g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213010896/khlib-350g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.2bf56a586465db515522678a376eb019.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 350,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820174302863",
+				"sku": "1460754",
+				"title": "Kulinichi Road Baton half wheat sliced 250g",
+				"price": 860,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 860,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "baton-kulinichi-250g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820174302863/baton-kulinichi-250g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "6...28",
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "КУЛИНИЧІ",
+					"trademark_slug": "kulinichi",
+					"website": "kulinichi.com",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.32x32.png",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.fed1dab75b4719b9d4790db8b0d950ff.64x64.png"
+					},
+					"name": "ТОВ \"Комбінат хлібопечення \"Кулиничі"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.dfcf212719eeb4e9e2a6a808d57380e0.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.e9aec37595aec01a959fcff201f5f578.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.e9aec37595aec01a959fcff201f5f578.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.e9aec37595aec01a959fcff201f5f578.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.e9aec37595aec01a959fcff201f5f578.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 250,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213011183",
+				"sku": "499946",
+				"title": "Korovaevo Saltovsky Hlibozavod Polince Bread with Raisins 600g",
+				"price": 2110,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 2110,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {
+					"ingredient_energy": "222.00cal",
+					"ingredient_protein": "6.80g",
+					"ingredient_fat": "1.80g",
+					"ingredient_carbohydrates": "44.60g"
+				},
+				"slug": "khlib-saltivskii-khlibzavod-600g-ukrayina",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213011183/khlib-saltivskii-khlibzavod-600g-ukrayina/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [
+					"salt, drinking water, wheat flour, dried grapes, pressed yeast, rye flour"
+				],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.0abf1491a07d7759ef18dec069c5c1a1.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.a0c715c0f37457c9d6594b82b04b6c98.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.a0c715c0f37457c9d6594b82b04b6c98.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.a0c715c0f37457c9d6594b82b04b6c98.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.a0c715c0f37457c9d6594b82b04b6c98.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 600,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213010216",
+				"sku": "809913",
+				"title": "American toasted wheat bread 320g",
+				"price": 1840,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1840,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-saltivskii-khlibzavod-320g-ukrayina",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213010216/khlib-saltivskii-khlibzavod-320g-ukrayina/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.45b269d0d0dc97f354fa903ead018ac9.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.3fc24c746dbbfc086640ca42c47abb6f.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.3fc24c746dbbfc086640ca42c47abb6f.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.3fc24c746dbbfc086640ca42c47abb6f.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.3fc24c746dbbfc086640ca42c47abb6f.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 320,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820213011237",
+				"sku": "499939",
+				"title": "Saltov Highlight Bread 400g",
+				"price": 1570,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1570,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-400g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820213011237/khlib-400g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "Короваєво",
+					"trademark_slug": "korovaievo",
+					"website": "http://korovaevo.com/",
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"saltivskyi khlibzavod\" slc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.547235507e627e97d6a3a62da30c6440.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 400,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04820122282605",
+				"sku": "1372080",
+				"title": "Dobra grinka Mix with bran and dill Rusks 110g",
+				"price": 1900,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 1900,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlibtsi-dobra-grinka-110g-ukrayina",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04820122282605/khlibtsi-dobra-grinka-110g-ukrayina/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "ukraine",
+				"producer": {
+					"trademark": "dobra grinka",
+					"trademark_slug": "dobra-grinka",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": "\"khlib-trade\" llc"
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.150x150.jpeg",
+					"s200x200": "https://img3.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.443a7a9b3caf612036b74566fe2ef256.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 110,
+				"has_similar_products": null
+			},
+			{
+				"ean": "05907653100925",
+				"sku": "1484318",
+				"title": "Balviten Gluten-Free Salty Sticks 80g",
+				"price": 5090,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 5090,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "palichka-80g-polshcha",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/05907653100925/palichka-80g-polshcha/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "poland",
+				"producer": {
+					"trademark": "Balviten ",
+					"trademark_slug": "balviten",
+					"website": "https://www.balviten.com/",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.9f7e0997290250808bb2ef5e7775043a.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9f7e0997290250808bb2ef5e7775043a.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.9f7e0997290250808bb2ef5e7775043a.64x64.png"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.350x350.jpeg",
+					"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.350x350.jpeg",
+						"s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.83b4f48f1c7be4c332c4303619f79eeb.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 80,
+				"has_similar_products": null
+			},
+			{
+				"ean": "05907653104091",
+				"sku": "1484312",
+				"title": "Balviten Gluten Free White Sliced Bread 190g",
+				"price": 5990,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 5990,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "khlib-190g-polshcha",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/05907653104091/khlib-190g-polshcha/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": "poland",
+				"producer": {
+					"trademark": "Balviten ",
+					"trademark_slug": "balviten",
+					"website": "https://www.balviten.com/",
+					"logo": {
+						"s32x32": "https://img2.zakaz.ua/upload.version_1.0.9f7e0997290250808bb2ef5e7775043a.32x32.png",
+						"s16x16": "https://img3.zakaz.ua/upload.version_1.0.9f7e0997290250808bb2ef5e7775043a.16x16.png",
+						"s64x64": "https://img3.zakaz.ua/upload.version_1.0.9f7e0997290250808bb2ef5e7775043a.64x64.png"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img2.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.200x200.jpeg",
+					"s350x350": "https://img3.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img2.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.b225ce5ff0dd1b7e7557cad442c7ebe2.1350x1350.jpeg"
+					},
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.399c916216c07d9eacc8c914beca3b34.150x150.jpeg",
+						"s200x200": "https://img3.zakaz.ua/upload.version_1.0.399c916216c07d9eacc8c914beca3b34.200x200.jpeg",
+						"s350x350": "https://img3.zakaz.ua/upload.version_1.0.399c916216c07d9eacc8c914beca3b34.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.399c916216c07d9eacc8c914beca3b34.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 190,
+				"has_similar_products": null
+			},
+			{
+				"ean": "08008698011683",
+				"sku": "1346238",
+				"title": "Schar Wraps Tortilla Without Gluten 160g",
+				"price": 15980,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 15980,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "tortilia-160g",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/08008698011683/tortilia-160g/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": [
+						"nova_poshta"
+					]
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": null,
+				"pack_amount": null,
+				"country": null,
+				"producer": {
+					"trademark": "Dr. Schaer",
+					"trademark_slug": "dr-schaer",
+					"website": "https://www.drschaer.com/",
+					"logo": {
+						"s32x32": "https://img3.zakaz.ua/upload.version_1.0.34f264a1f72ed6bef4c34d5cea98e0e0.32x32.jpeg",
+						"s16x16": "https://img2.zakaz.ua/upload.version_1.0.34f264a1f72ed6bef4c34d5cea98e0e0.16x16.jpeg",
+						"s64x64": "https://img2.zakaz.ua/upload.version_1.0.34f264a1f72ed6bef4c34d5cea98e0e0.64x64.jpeg"
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.db020efcef53c23e5837a6636189cab3.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 160,
+				"has_similar_products": null
+			},
+			{
+				"ean": "04003587070608",
+				"sku": "824108",
+				"title": "Kamps Mega Bun For Hamburger 300g",
+				"price": 4850,
+				"price_wholesale": [],
+				"discount": {
+					"status": false,
+					"value": 0,
+					"old_price": 4850,
+					"due_date": null
+				},
+				"bundle": 1,
+				"unit": "pcs",
+				"volume": null,
+				"quantity": {
+					"min": 1,
+					"step": 1,
+					"is_strict": false
+				},
+				"currency": "uah",
+				"category_id": "bakery-tavriav",
+				"parent_category_id": "bakery-tavriav",
+				"description": "",
+				"nutrition_facts": {},
+				"slug": "bulka-kvoliti-beikers-300g-italiia",
+				"in_stock": true,
+				"is_hit": false,
+				"is_alcohol": false,
+				"is_nicotine": false,
+				"is_ready_meal": false,
+				"is_new_product": false,
+				"horeca_only": false,
+				"excisable": false,
+				"web_url": "https://tavriav.zakaz.ua/en/products/04003587070608/bulka-kvoliti-beikers-300g-italiia/",
+				"restrictions": {
+					"in_sell_from": "00:00",
+					"prohibited_payment_methods": [],
+					"available_for_delivery_services": []
+				},
+				"ingredients": [],
+				"fat": null,
+				"shelf_life": null,
+				"temperature_range": "5...20",
+				"pack_amount": 4,
+				"country": "italy",
+				"producer": {
+					"trademark": "Quality Bakers",
+					"trademark_slug": "quality-bakers",
+					"website": null,
+					"logo": {
+						"s32x32": null,
+						"s16x16": null,
+						"s64x64": null
+					},
+					"name": null
+				},
+				"custom_ribbons": [],
+				"img": {
+					"s150x150": "https://img3.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.150x150.jpeg",
+					"s200x200": "https://img2.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.200x200.jpeg",
+					"s350x350": "https://img2.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.350x350.jpeg",
+					"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.1350x1350.jpeg"
+				},
+				"gallery": [
+					{
+						"s150x150": "https://img3.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.150x150.jpeg",
+						"s200x200": "https://img2.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.200x200.jpeg",
+						"s350x350": "https://img2.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.350x350.jpeg",
+						"s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.7f4e6d23fd03ef4e662d594da80c1fff.1350x1350.jpeg"
+					}
+				],
+				"is_uber_item": false,
+				"weight": 372,
+				"has_similar_products": null
+			}
+		],
+		"categories": [
+			{
+				"id": "bakery-tavriav",
+				"title": "Bakery",
+				"count": 37,
+				"children": [
+					{
+						"id": "tm-kulinichi",
+						"title": "Kulinichi TM",
+						"count": 9,
+						"children": []
+					},
+					{
+						"id": "tm-korovaevo",
+						"title": "Korovaevo TM",
+						"count": 12,
+						"children": []
+					},
+					{
+						"id": "bread-tavriav",
+						"title": "Bread",
+						"count": 27,
+						"children": []
+					},
+					{
+						"id": "bagels-tavriav",
+						"title": "Bagels",
+						"count": 6,
+						"children": []
+					},
+					{
+						"id": "lavash-tavriav",
+						"title": "Lavash",
+						"count": 4,
+						"children": []
+					}
+				]
+			}
+		],
+		"filters": [
+			{
+				"type": "promotion",
+				"name": "Goods on sale",
+				"options": [
+					{
+						"name": "Goods on sale",
+						"count": 2,
+						"query": "1"
+					}
+				]
+			},
+			{
+				"type": "tm",
+				"name": "Brand",
+				"options": [
+					{
+						"name": "Balviten ",
+						"count": 2,
+						"query": "balviten"
+					},
+					{
+						"name": "Dr. Schaer",
+						"count": 1,
+						"query": "dr-schaer"
+					},
+					{
+						"name": "Quality Bakers",
+						"count": 2,
+						"query": "quality-bakers"
+					},
+					{
+						"name": "Quickbury",
+						"count": 1,
+						"query": "quickbury"
+					},
+					{
+						"name": "Schar",
+						"count": 2,
+						"query": "schar"
+					},
+					{
+						"name": "dobra grinka",
+						"count": 3,
+						"query": "dobra-grinka"
+					},
+					{
+						"name": "kamps",
+						"count": 1,
+						"query": "kamps"
+					},
+					{
+						"name": "БКК",
+						"count": 2,
+						"query": "bkk"
+					},
+					{
+						"name": "КУЛИНИЧІ",
+						"count": 9,
+						"query": "kulinichi"
+					},
+					{
+						"name": "Київхліб",
+						"count": 1,
+						"query": "kiyivkhlib"
+					},
+					{
+						"name": "Короваєво",
+						"count": 12,
+						"query": "korovaievo"
+					}
+				]
+			},
+			{
+				"type": "weight",
+				"name": "Weight",
+				"options": [
+					{
+						"name": "1000g",
+						"count": 1,
+						"query": "1000g"
+					},
+					{
+						"name": "110g",
+						"count": 2,
+						"query": "110g"
+					},
+					{
+						"name": "140g",
+						"count": 1,
+						"query": "140g"
+					},
+					{
+						"name": "160g",
+						"count": 1,
+						"query": "160g"
+					},
+					{
+						"name": "190g",
+						"count": 1,
+						"query": "190g"
+					},
+					{
+						"name": "200g",
+						"count": 2,
+						"query": "200g"
+					},
+					{
+						"name": "230g",
+						"count": 2,
+						"query": "230g"
+					},
+					{
+						"name": "250g",
+						"count": 3,
+						"query": "250g"
+					},
+					{
+						"name": "300g",
+						"count": 4,
+						"query": "300g"
+					},
+					{
+						"name": "320g",
+						"count": 1,
+						"query": "320g"
+					},
+					{
+						"name": "330g",
+						"count": 1,
+						"query": "330g"
+					},
+					{
+						"name": "350g",
+						"count": 6,
+						"query": "350g"
+					},
+					{
+						"name": "375g",
+						"count": 1,
+						"query": "375g"
+					},
+					{
+						"name": "400g",
+						"count": 2,
+						"query": "400g"
+					},
+					{
+						"name": "450g",
+						"count": 3,
+						"query": "450g"
+					},
+					{
+						"name": "500g",
+						"count": 2,
+						"query": "500g"
+					},
+					{
+						"name": "600g",
+						"count": 3,
+						"query": "600g"
+					},
+					{
+						"name": "80g",
+						"count": 1,
+						"query": "80g"
+					}
+				]
+			},
+			{
+				"type": "country",
+				"name": "Country",
+				"options": [
+					{
+						"name": "germany",
+						"count": 2,
+						"query": "germany"
+					},
+					{
+						"name": "italy",
+						"count": 4,
+						"query": "italy"
+					},
+					{
+						"name": "poland",
+						"count": 2,
+						"query": "poland"
+					},
+					{
+						"name": "ukraine",
+						"count": 27,
+						"query": "ukraine"
+					}
+				]
+			},
+			{
+				"type": "base",
+				"name": "Base",
+				"options": [
+					{
+						"name": "grain",
+						"count": 1,
+						"query": "grain"
+					},
+					{
+						"name": "rye",
+						"count": 3,
+						"query": "rye"
+					},
+					{
+						"name": "rye-wheat",
+						"count": 7,
+						"query": "rye-wheat"
+					},
+					{
+						"name": "wheat",
+						"count": 9,
+						"query": "wheat"
+					}
+				]
+			},
+			{
+				"type": "method",
+				"name": "Method",
+				"options": [
+					{
+						"name": "cutting",
+						"count": 9,
+						"query": "cutting"
+					},
+					{
+						"name": "half",
+						"count": 1,
+						"query": "half"
+					},
+					{
+						"name": "salt",
+						"count": 1,
+						"query": "salt"
+					},
+					{
+						"name": "without yeast",
+						"count": 2,
+						"query": "without-yeast"
+					}
+				]
+			},
+			{
+				"type": "flavor",
+				"name": "Flavor",
+				"options": [
+					{
+						"name": "dill",
+						"count": 1,
+						"query": "dill"
+					},
+					{
+						"name": "with a raisin",
+						"count": 1,
+						"query": "with-a-raisin"
+					},
+					{
+						"name": "with bran",
+						"count": 2,
+						"query": "with-bran"
+					},
+					{
+						"name": "with cheese",
+						"count": 1,
+						"query": "with-cheese"
+					},
+					{
+						"name": "with onion",
+						"count": 1,
+						"query": "with-onion"
+					}
+				]
+			},
+			{
+				"type": "for",
+				"name": "For",
+				"options": [
+					{
+						"name": "for diabetics",
+						"count": 1,
+						"query": "for-diabetics"
+					},
+					{
+						"name": "for hamburger",
+						"count": 2,
+						"query": "for-hamburger"
+					},
+					{
+						"name": "for hot dogs",
+						"count": 1,
+						"query": "for-hot-dogs"
+					},
+					{
+						"name": "for sandwich",
+						"count": 1,
+						"query": "for-sandwich"
+					},
+					{
+						"name": "for toasts",
+						"count": 1,
+						"query": "for-toasts"
+					}
+				]
+			},
+			{
+				"type": "amount",
+				"name": "Amount",
+				"options": [
+					{
+						"name": "4pcs",
+						"count": 1,
+						"query": "4pcs"
+					},
+					{
+						"name": "6pcs",
+						"count": 1,
+						"query": "6pcs"
+					}
+				]
+			}
+		],
+		"category_results": null
+	}
+]
